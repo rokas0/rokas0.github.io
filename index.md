@@ -4,6 +4,3 @@
 
 layout: home
 ---
-Hello World!
-
-Hello W0rld
