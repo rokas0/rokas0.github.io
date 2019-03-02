@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://ec2-34-253-5-253.eu-west-1.compute.amazonaws.com/?p=2339
 permalink: /2018/09/how-i-ended-up-making-my-wordpress-blog-serverless-part-1/
-image: /wp-content/uploads/2018/09/cloudcraft.png
+image: http://images.rokaso.com/2018/09/cloudcraft.png
 categories:
   - Letters
 ---

@@ -7,7 +7,7 @@ layout: post
 featured: true
 guid: http://rokaso.com/?p=2189
 permalink: /2018/04/aws-developer-associate-certified-my-journey-and-exam-tips/
-image: /wp-content/uploads/2018/04/Screen-Shot-2018-04-06-at-19.24.54.png
+image: http://images.rokaso.com/2018/04/Screen-Shot-2018-04-06-at-19.24.54.png
 categories:
   - AWS
   - Tech

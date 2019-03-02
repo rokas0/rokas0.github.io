@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1732
 permalink: /2017/03/spaudoje-ispilde-svajone-keliaus-senojo-dakaro-ralio-keliu/
-image: /wp-content/uploads/2017/03/ready-steady-golf-2-1.jpg
+image: http://images.rokaso.com/2017/03/ready-steady-golf-2-1.jpg
 categories:
   - Mali
   - Mauritania

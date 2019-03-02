@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1846
 permalink: /2017/11/why-is-office-life-probably-healthiest-youll-ever-have/
-image: /wp-content/uploads/2017/11/R0016926-e1511771303447.jpg
+image: http://images.rokaso.com/2017/11/R0016926-e1511771303447.jpg
 categories:
   - Letters
 ---
@@ -26,7 +26,7 @@ Extended hours of sitting isn&#8217;t good. Your heart slows down, you become sl
 
 Getting or asking for a standing desk is always a great choice. It doesn&#8217;t have to be expensive as I been placing a laptop into a cupboard. In case of my office, it was just a matter of writing few emails, and weeks later, I got my (first in an office) standing desk. This way you&#8217;ll cut dangerous sitting time almost entirely.<figure id="attachment_1871" aria-describedby="caption-attachment-1871" style="width: 265px" class="wp-caption alignnone">
 
-[<img class="wp-image-1871 size-medium" src="http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-265x400.jpg" alt="" width="265" height="400" srcset="http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-265x400.jpg 265w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-464x700.jpg 464w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-768x1160.jpg 768w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-662x1000.jpg 662w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-370x559.jpg 370w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-1040x1570.jpg 1040w, http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447-530x800.jpg 530w" sizes="(max-width: 265px) 100vw, 265px" />](http://rokaso.com/wp-content/uploads/2017/11/R0016926-e1511771303447.jpg)<figcaption id="caption-attachment-1871" class="wp-caption-text">My free standing desk</figcaption></figure> 
+[<img class="wp-image-1871 size-medium" src="http://images.rokaso.com/2017/11/R0016926-e1511771303447-265x400.jpg" alt="" width="265" height="400" srcset="http://images.rokaso.com/2017/11/R0016926-e1511771303447-265x400.jpg 265w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-464x700.jpg 464w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-768x1160.jpg 768w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-662x1000.jpg 662w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-370x559.jpg 370w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-1040x1570.jpg 1040w, http://images.rokaso.com/2017/11/R0016926-e1511771303447-530x800.jpg 530w" sizes="(max-width: 265px) 100vw, 265px" />](http://images.rokaso.com/2017/11/R0016926-e1511771303447.jpg)<figcaption id="caption-attachment-1871" class="wp-caption-text">My free standing desk</figcaption></figure> 
 
 **Hit gym in a morning **
 

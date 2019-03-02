@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://www.rokaso.com/?p=963
 permalink: /2015/09/siaurine-rusija-kaimas-vaiduoklis-ir-siaures-pasvaiste-5/
-image: /wp-content/uploads/2015/09/28-DSC03451-1.jpg
+image: http://images.rokaso.com/2015/09/28-DSC03451-1.jpg
 categories:
   - Kelionių laiškai
   - Russia

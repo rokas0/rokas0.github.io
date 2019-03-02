@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1572
 permalink: /2017/02/isle-of-man-winds-frost-and-14-hours-hike/
-image: /wp-content/uploads/2017/02/WP_20170211_15_18_03_Rich.jpg
+image: http://images.rokaso.com/2017/02/WP_20170211_15_18_03_Rich.jpg
 categories:
   - Countries
   - The Isle of Man

@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://www.rokaso.com/?p=773
 permalink: /2014/08/96-104-diena-pietu-koreja-makaronai-vemti-vercia-3/
-image: /wp-content/uploads/2014/08/IMG_20140806_154-1.jpg
+image: http://images.rokaso.com/2014/08/IMG_20140806_154-1.jpg
 categories:
   - Kelionių laiškai
   - South Korea

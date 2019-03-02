@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=2231
 permalink: /2018/04/learning-russian-first-baby-steps-in-belarus/
-image: /wp-content/uploads/2018/04/dsc00363_15600191375_o-e1524433163803.jpg
+image: http://images.rokaso.com/2018/04/dsc00363_15600191375_o-e1524433163803.jpg
 categories:
   - Belarus
   - Letters
