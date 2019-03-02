@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://www.rokaso.com/?p=903
 permalink: /2015/01/mongolija-nevykeliai-kisenvagiai-ypatingai-girti-vairuotojai-ir-nepakartojama-gamta-3/
-image: http://images.rokaso.com/2015/01/IMG_20141006_92-1023x682-1.jpg
+image: https://d1ra7kav7kguzj.cloudfront.net/2015/01/IMG_20141006_92-1023x682-1.jpg
 categories:
   - Kelionių laiškai
   - Mongolia

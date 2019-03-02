@@ -5,6 +5,7 @@ description: ""
 meta_description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url_assets: 'https://d1ra7kav7kguzj.cloudfront.net'
 baseurl: ''
 google_analytics: ''
 disqus: 'demowebsite'

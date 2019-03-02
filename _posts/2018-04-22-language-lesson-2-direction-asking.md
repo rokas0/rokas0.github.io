@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=2237
 permalink: /2018/04/language-lesson-2-direction-asking/
-image: http://images.rokaso.com/2018/04/dsc00361_15576520236_o-e1524433106978.jpg
+image: https://d1ra7kav7kguzj.cloudfront.net/2018/04/dsc00361_15576520236_o-e1524433106978.jpg
 categories:
   - Belarus
   - Letters
