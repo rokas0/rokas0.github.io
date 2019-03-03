@@ -34,7 +34,7 @@ Netgi mažiausiais dalykais pasirūpinta. Medinės valgymo lazdelės visados per
 
 Tranzuoti lengva, visi supranta ką reiškia iškeltas nykštys. Netgi japonų kalboje toks pats žodis kaip ir anglų pavadinti tranzavimą – hitchhike. Dažniausiai netgi paveža iki vietos, nors tai ir būtų valanda važiavimo. Per diena netgi iki 900km nutranzuodavau (kai Europoje, Afrikoje vidurkis būdavo apie 500km, Rusijoje apie 700km)
 
-Išviso pravažiuota apie 2800km šitokiu maršrutu.<a href="http://www.rokaso.com/wp-content/uploads/2014/09/errorVPN.png" rel="lightbox[771]"><img class="alignnone size-full wp-image-831" src="http://www.rokaso.com/wp-content/uploads/2014/09/errorVPN.png" alt="errorVPN" width="691" height="490" /></a>
+Išviso pravažiuota apie 2800km šitokiu maršrutu.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/errorVPN.png" rel="lightbox[771]"><img class="alignnone size-full wp-image-831" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/errorVPN.png" alt="errorVPN" width="691" height="490" /></a>
 
 * * *
 
@@ -42,7 +42,7 @@ Išviso pravažiuota apie 2800km šitokiu maršrutu.<a href="http://www.rokaso.c
 
 Fuji – vienas iš šalies simbolių. Lipimas į jį skaitosi kaip piligriminis žygis, todėl pradžioje apsilankome šventykloje.
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_219.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-807" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_219-1024x682.jpg" alt="IMG_20140817_219" width="474" height="315" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_219.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-807" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_219-1024x682.jpg" alt="IMG_20140817_219" width="474" height="315" /></a>
 
 Pats lipimas techniškai visiškai nėra sudėtingas. Padaryti keliukai, apsaugos, kad nenukristum. Kas kilometra parduotuvytės, užkandinės (tik kainos primena, kad čia nebe miestas).
 
@@ -50,23 +50,23 @@ Laisvai lipti galima tik liepą ir rugpjūti, todėl gausu žmonių.
 
 Japonai sako, kad visi nori užlipti į Fuji-san (-san galūnė pridedama norint išreikšti pagarbą, pavyzdžiui būtų Osvaldas-san), bet ne visiems pavyksta.
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_234.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-818" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_234-1024x682.jpg" alt="IMG_20140817_234" width="474" height="315" /></a> <a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_235.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-819" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_235-682x1024.jpg" alt="IMG_20140817_235" width="474" height="711" /></a> <a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_240.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-820" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_240-682x1024.jpg" alt="IMG_20140817_240" width="474" height="711" /></a> <a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_2501.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-821" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140817_2501-682x1024.jpg" alt="IMG_20140817_250" width="474" height="711" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_234.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-818" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_234-1024x682.jpg" alt="IMG_20140817_234" width="474" height="315" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_235.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-819" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_235-682x1024.jpg" alt="IMG_20140817_235" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_240.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-820" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_240-682x1024.jpg" alt="IMG_20140817_240" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_2501.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-821" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140817_2501-682x1024.jpg" alt="IMG_20140817_250" width="474" height="711" /></a>
 
 Jee, ir štai viršūnė 3775m virš jūros lygio!
 
 Nusileidome kiek žemiau, ir iš ryto išvydome tikriausią gražiausią saulėtekį.
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140818_298.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-810" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140818_298-682x1024.jpg" alt="IMG_20140818_298" width="474" height="711" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140818_298.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-810" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140818_298-682x1024.jpg" alt="IMG_20140818_298" width="474" height="711" /></a>
 
 * * *
 
 **Fuji-Q highland** – pramogų parkas kuriam priklauso keletas Guineso pasaulio rekordų. Pavyzdziui asmeniškai įdomiausias atrakcionas buvo su 121 laipsnio kritimu žemyn iš beveik 55 metrų aukščio.
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140815_187.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-823" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140815_187-1024x576.jpg" alt="IMG_20140815_187" width="474" height="266" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140815_187.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-823" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140815_187-1024x576.jpg" alt="IMG_20140815_187" width="474" height="266" /></a>
 
 &nbsp;
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140815_199.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-804" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140815_199-1024x682.jpg" alt="IMG_20140815_199" width="474" height="315" /></a> <a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140816_212.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-805" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140816_212-682x1024.jpg" alt="IMG_20140816_212" width="474" height="711" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140815_199.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-804" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140815_199-1024x682.jpg" alt="IMG_20140815_199" width="474" height="315" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140816_212.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-805" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140816_212-682x1024.jpg" alt="IMG_20140816_212" width="474" height="711" /></a>
 
 * * *
 
@@ -76,9 +76,9 @@ Nusileidome kiek žemiau, ir iš ryto išvydome tikriausią gražiausią saulė
 
 Visų kompiuterinių žaidimų ir „anime“ maniakų rajonas Tokijuje.
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_56.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-812" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_56-682x1024.jpg" alt="IMG_20140810_56" width="474" height="711" /></a> <a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_52.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-814" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_52-1024x682.jpg" alt="IMG_20140810_52" width="474" height="315" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_56.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-812" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_56-682x1024.jpg" alt="IMG_20140810_56" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_52.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-814" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_52-1024x682.jpg" alt="IMG_20140810_52" width="474" height="315" /></a>
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_51.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-824" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_51-1024x682.jpg" alt="IMG_20140810_51" width="474" height="315" /></a><a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_50.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-813" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_50-682x1024.jpg" alt="IMG_20140810_50" width="474" height="711" /></a><a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_80.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-816" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140810_80-1024x682.jpg" alt="IMG_20140810_80" width="474" height="315" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_51.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-824" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_51-1024x682.jpg" alt="IMG_20140810_51" width="474" height="315" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_50.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-813" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_50-682x1024.jpg" alt="IMG_20140810_50" width="474" height="711" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_80.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-816" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_80-1024x682.jpg" alt="IMG_20140810_80" width="474" height="315" /></a>
 
 **Maistas**
 
@@ -86,13 +86,13 @@ Iš greitų užkandžių, tai tos pačios aziečių pamėgtos greitosios užplyk
 
 Užkandinėse paprasta suprasti, ką užsisakinėti, nes yra patiekalų maketai:
 
-<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140808_20.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-826" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140808_20-682x1024.jpg" alt="IMG_20140808_20" width="474" height="711" /></a>
+<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140808_20.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-826" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140808_20-682x1024.jpg" alt="IMG_20140808_20" width="474" height="711" /></a>
 
-O poto nusiperki pagal numerį iš automato.<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140811_100.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-815" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140811_100-682x1024.jpg" alt="IMG_20140811_100" width="474" height="711" /></a>
+O poto nusiperki pagal numerį iš automato.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140811_100.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-815" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140811_100-682x1024.jpg" alt="IMG_20140811_100" width="474" height="711" /></a>
 
 &nbsp;
 
-Restoranuose galima paragauti vietinio delikateso – žalios žuvies.<a href="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140820_364.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-806" src="http://www.rokaso.com/wp-content/uploads/2014/09/IMG_20140820_364-1024x682.jpg" alt="IMG_20140820_364" width="474" height="315" /></a>
+Restoranuose galima paragauti vietinio delikateso – žalios žuvies.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140820_364.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-806" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140820_364-1024x682.jpg" alt="IMG_20140820_364" width="474" height="315" /></a>
 
 Štai tiek trumpai apie Japonija. Jau keltu persikėliau į Kinija, kuri skiriasi kaip diena ir naktis. Šitoje komunistinėje šalyje netgi Facebook blokuojamas
 
