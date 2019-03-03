@@ -65,11 +65,3 @@ Baikalas<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140702_48.j
 **Ulan-Ude**
 
 Miestelis tolimame sibire.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140703_51.jpg" rel="lightbox[706]"><img class="alignnone size-large wp-image-724" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140703_51-682x1024.jpg" alt="IMG_20140703_51" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140703_54.jpg" rel="lightbox[706]"><img class="alignnone size-large wp-image-725" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140703_54-1024x682.jpg" alt="IMG_20140703_54" width="474" height="315" /></a>
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-      <br /> <fb:like href="http://www.rokaso.com/2014/07/60s-skaitymo-66-77-diena-sienos-kirtimas-su-kontrabanda-ir-kaip-sibire-vos-nepagrobe/" send="false" layout="button_count" width="450" show_faces="false" font=""></fb:like> </div> </div>

@@ -8,7 +8,7 @@ favicon: 'assets/images/logo.png'
 url_assets: 'https://d1ra7kav7kguzj.cloudfront.net'
 baseurl: ''
 google_analytics: ''
-disqus: 'demowebsite'
+#disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 
