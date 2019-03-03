@@ -15,8 +15,6 @@ tags:
   - resolution
   - trips
 ---
-Hi
-
 End of each year is time to reflect on the year, learn your lessons and plan another year.
 
 This is a quick summary how my year went. It definitely was a year with most flights in my life, probably because I live on an island at the moment and most reasonable way of leaving the country is a flight.

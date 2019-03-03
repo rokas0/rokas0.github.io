@@ -5,7 +5,7 @@ date: 2015-01-05T16:17:24+00:00
 author: Rokas
 layout: post
 guid: http://www.rokaso.com/?p=838
-image: https://d1ra7kav7kguzj.cloudfront.net/2014/12/IMG_20140908_195.jpg
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/12/IMG_20140907_81-1024x683.jpg
 permalink: /2015/01/siaures-koreja-pasakojimas-is-uz-gelezines-sienos-3/
 categories:
   - Kelionių laiškai

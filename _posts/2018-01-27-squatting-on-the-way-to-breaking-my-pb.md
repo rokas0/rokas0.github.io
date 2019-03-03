@@ -15,8 +15,6 @@ tags:
   - powerlifting
   - squatting
 ---
-Hey
-
 This week is about strength training. My favourite is 5&#215;5 which works like magic. Until you hit a plateau and it becomes demotivating. You keep on failing to do complete 5&#215;5 every single week, your form gets worse and worse. Your squat is not as deep&#8230;
 
 I was stuck at 150kg 5&#215;5 for months, I couldn&#8217;t do all sets of 5 repetitions. It drives me crazy.

@@ -10,8 +10,6 @@ image: https://d1ra7kav7kguzj.cloudfront.net/2018/04/30768156_985363244973780_18
 categories:
   - Letters
 ---
-Hey,
-
 Recently I&#8217;ve visited Cluj-Napoca in Romania and here are most frequent questions I got after the trip.
 
 #### What&#8217;s Cluj-Napoca all about?

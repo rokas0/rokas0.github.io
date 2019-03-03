@@ -11,8 +11,6 @@ categories:
   - Countries
   - The Isle of Man
 ---
-Hey,
-
 As I am now living and working full-time in North England, I want to visit more places around here. Therefore, this time weekend break takes us to Isle of Man.
 
 Return flights with propeller plane from Liverpool to Isle of Man was 65£. We drove with my co-worker Matt, left a car in the airport and took off for an adventure.

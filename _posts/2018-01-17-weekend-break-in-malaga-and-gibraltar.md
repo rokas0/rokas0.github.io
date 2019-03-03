@@ -17,8 +17,6 @@ tags:
   - Gibraltar
   - Malaga
 ---
-Hey
-
 Recently I and my girlfriend were researching for short winter weekend gateways to warmer places and booked reasonably priced flights. This post contains actual expenses during a long weekend and things to see if flying to Malaga.
 
 List of expenses from leaving our house and returning.
