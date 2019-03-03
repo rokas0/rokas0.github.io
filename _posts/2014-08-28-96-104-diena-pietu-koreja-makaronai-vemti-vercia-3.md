@@ -25,6 +25,7 @@ Pietų Korėja. Šalies ekonomika išaugo ispūdingais skaičiais per pastaruosi
 
 **Seulas**
 
+
 Kagi, jau visiškai kitokia kultūra atplaukus iš Rusijos.  
 Apsigyvenau pas rusiškai šnekanti amerikieti, kuris čia dirba anglų mokytoju. Taip pat gyveno jaunas keliautojas rusas – Artiomas, su kurio ir apžiūrinėjome Pietų Korėjos sostinę.
 

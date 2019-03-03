@@ -18,11 +18,13 @@ Japonams svarbus 2 žodžiai: Gaman (<span style="color: #333333;">我慢 </spa
 
 **<span style="color: #333333;">Gaman (<span style="color: #333333;">我慢 </span>jpn. kęsk skausmą be skundų)  </span>**
 
+
 Tai priveda prie didelių dalykų, kai šalis iškenčia ir greitu tempu atsistato po nelaimių, gamtos katastrofu. Bet taipogi ir nuo mažu dalyku. Pavyzdžiui, kai tranzavom sustojo maža Nissan Micra. Vairuotojas paskutinio kurso uždarbiaujantis vasara studentas, kuris važiuoja po darbo namo. Buvo apie 20:30, tai gana velu pabaigti darbą. Paklausiau kada pradėjo, sako 4 valandą ryto. Garsiai pagalvojau, „o kada miegoti?“ Po kelionės iki darbo, ir vakarienės miegui lieka ne daugiau 5 valandų, apie laisvalaikį galima užmiršti. O jis ne tik priekaištautų, skūstųsi, bet netgi su šypsena veide bendravo, ir mus pavežė iki labai gražaus paplūdimio.
 
 Tęsiant tema apie Japonų darbo papročius, tai viskas prasideda dar mokykloje. Beveik nėra dienos, kai nereiktu į ją. Darbo dienomis vyksta pamokos, savaitgaliais ar per atostogas būreliai, užsiemimai. Juokingiausia, kad jauni moksleiviai nežino, kad vakarų pasaulyje mes turime daug daugiau atostogų. Atrodo, kad šita paslaptis yra slepiama nuo vaikų, kaip ir tiesa apie Kalėdu senelį.
 
 **Gambaru (j<span style="color: #000000;">頑張る </span>pn. daryk kaip įmanoma geriau)**
+
 
 Visi inžinieriniai stebuklai prasideda nuo mažu dalyku. Negali niekas iškilti, kai aplinka traukia tave kita kryptimi. Atrodo, kad visa šalis tiesiog dirba didesnių išradimų link, kad kiekvienas yra atradėjęs, kuris stengiasi sukurti kažką naujo. Pvz Japonijoje kiekvienas maišelis yra užklijuojamas su lipnia juostele. Kodėl? Kad prekės neiškristu einant? Kad atrodytų įpakuota?
 
@@ -32,6 +34,7 @@ Netgi mažiausiais dalykais pasirūpinta. Medinės valgymo lazdelės visados per
 
 **Tranzavimas**
 
+
 Tranzuoti lengva, visi supranta ką reiškia iškeltas nykštys. Netgi japonų kalboje toks pats žodis kaip ir anglų pavadinti tranzavimą – hitchhike. Dažniausiai netgi paveža iki vietos, nors tai ir būtų valanda važiavimo. Per diena netgi iki 900km nutranzuodavau (kai Europoje, Afrikoje vidurkis būdavo apie 500km, Rusijoje apie 700km)
 
 Išviso pravažiuota apie 2800km šitokiu maršrutu.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/errorVPN.png" rel="lightbox[771]"><img class="alignnone size-full wp-image-831" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/errorVPN.png" alt="errorVPN" width="691" height="490" /></a>
@@ -39,6 +42,7 @@ Išviso pravažiuota apie 2800km šitokiu maršrutu.<a href="https://d1ra7kav7kg
 * * *
 
 **Aukščiausia Japonijos viršūnė – ugnikalnis Fuji**
+
 
 Fuji – vienas iš šalies simbolių. Lipimas į jį skaitosi kaip piligriminis žygis, todėl pradžioje apsilankome šventykloje.
 
@@ -74,6 +78,7 @@ Nusileidome kiek žemiau, ir iš ryto išvydome tikriausią gražiausią saulė
 
 **Tokijo žaislinis rajonas**
 
+
 Visų kompiuterinių žaidimų ir „anime“ maniakų rajonas Tokijuje.
 
 <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_56.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-812" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_56-682x1024.jpg" alt="IMG_20140810_56" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_52.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-814" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_52-1024x682.jpg" alt="IMG_20140810_52" width="474" height="315" /></a>
@@ -81,6 +86,7 @@ Visų kompiuterinių žaidimų ir „anime“ maniakų rajonas Tokijuje.
 <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_51.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-824" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_51-1024x682.jpg" alt="IMG_20140810_51" width="474" height="315" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_50.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-813" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_50-682x1024.jpg" alt="IMG_20140810_50" width="474" height="711" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_80.jpg" rel="lightbox[771]"><img class="alignnone size-large wp-image-816" src="https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140810_80-1024x682.jpg" alt="IMG_20140810_80" width="474" height="315" /></a>
 
 **Maistas**
+
 
 Iš greitų užkandžių, tai tos pačios aziečių pamėgtos greitosios užplykomos sriubos.
 
