@@ -4,6 +4,7 @@ title: Kodėl buvau apšauktas šnipu? Kodėl reikėjo greit dingti iš Rusijos?
 date: 2014-05-01T00:00:00+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/05/IMG_20140513_105-1024x682.jpg
 guid: http://rokaso.com/index.php/1970/01/01/17-23-diena-kodel-buvau-apsauktas-snipu-kodel-reikejo-greit-dingti-is-rusijos-ir-ka-veikiau-ukrainoje-4-min-skaitymo-2/
 permalink: /2014/05/17-23-diena-kodel-buvau-apsauktas-snipu-kodel-reikejo-greit-dingti-is-rusijos-ir-ka-veikiau-ukrainoje-4-min-skaitymo-2/
 URL_before_HTML_Import:

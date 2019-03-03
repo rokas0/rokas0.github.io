@@ -4,6 +4,7 @@ title: Nuostabusis Kaukazas
 date: 2014-05-27T00:00:00+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/05/IMG_20140522_19.jpg
 guid: http://rokaso.com/index.php/1970/01/01/24-30-diena-nuostabusis-kaukazas-20s-skaitymo-2/
 permalink: /2014/05/24-30-diena-nuostabusis-kaukazas-20s-skaitymo-2/
 URL_before_HTML_Import:

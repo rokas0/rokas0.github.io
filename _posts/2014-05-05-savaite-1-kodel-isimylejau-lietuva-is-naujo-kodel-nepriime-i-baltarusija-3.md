@@ -3,6 +3,7 @@ id: 1377
 title: Kodėl įsimylėjau Lietuvą iš naujo. Kodėl nepriimė į Baltarusija
 date: 2014-05-05T06:27:47+00:00
 author: Rokas
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/05/IMG_20140425_18-1024x682.jpg
 layout: post
 guid: http://www.rokaso.com/?p=520
 permalink: /2014/05/savaite-1-kodel-isimylejau-lietuva-is-naujo-kodel-nepriime-i-baltarusija-3/

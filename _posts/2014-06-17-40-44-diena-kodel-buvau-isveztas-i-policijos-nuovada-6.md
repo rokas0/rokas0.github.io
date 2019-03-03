@@ -4,6 +4,7 @@ title: Rusija. Kodėl buvau išvežtas į policijos nuovada?
 date: 2014-06-17T09:59:32+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/06/IMG_20140530_37.jpg
 guid: http://www.rokaso.com/?p=650
 permalink: /2014/06/40-44-diena-kodel-buvau-isveztas-i-policijos-nuovada-6/
 categories:

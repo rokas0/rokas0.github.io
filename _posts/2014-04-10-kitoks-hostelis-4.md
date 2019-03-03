@@ -4,6 +4,7 @@ title: Kitoks hostelis
 date: 2014-04-10T19:23:59+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/04/IMG_20140302_126-1024x682.jpg
 guid: http://www.rokaso.com/?p=495
 permalink: /2014/04/kitoks-hostelis-4/
 categories:

@@ -4,6 +4,7 @@ title: Laukinė Jakutija ir tolimoji Rusija!
 date: 2014-07-29T05:39:45+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140711_88.jpg
 guid: http://www.rokaso.com/?p=739
 permalink: /2014/07/1min-skaitymo-78-95-diena-laukine-jakutija-ir-tolimoji-rusija-3/
 categories:

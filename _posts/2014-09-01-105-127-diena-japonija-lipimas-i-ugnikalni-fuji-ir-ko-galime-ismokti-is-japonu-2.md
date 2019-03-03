@@ -4,6 +4,7 @@ title: Japonija! Lipimas į ugnikalnį Fuji ir ko galime išmokti iš japonų?
 date: 2014-09-01T04:25:26+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/09/IMG_20140815_199.jpg
 guid: http://www.rokaso.com/?p=771
 permalink: /2014/09/105-127-diena-japonija-lipimas-i-ugnikalni-fuji-ir-ko-galime-ismokti-is-japonu-2/
 categories:

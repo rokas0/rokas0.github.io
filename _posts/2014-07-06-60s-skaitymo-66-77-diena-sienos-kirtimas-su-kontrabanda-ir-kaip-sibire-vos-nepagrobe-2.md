@@ -4,6 +4,7 @@ title: Kazakstanas. Sienos kirtimas su kontrabanda. Ir kaip sibire vos nepagrobÄ
 date: 2014-07-06T01:23:44+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140702_44.jpg
 guid: http://www.rokaso.com/?p=706
 permalink: /2014/07/60s-skaitymo-66-77-diena-sienos-kirtimas-su-kontrabanda-ir-kaip-sibire-vos-nepagrobe-2/
 categories:

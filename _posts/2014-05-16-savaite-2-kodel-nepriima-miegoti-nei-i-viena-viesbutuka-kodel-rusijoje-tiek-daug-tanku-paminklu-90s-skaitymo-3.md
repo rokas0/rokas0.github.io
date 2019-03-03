@@ -4,6 +4,7 @@ title: Kodėl nepriima miegoti nei į vieną viešbutuką? Kodėl Rusijoje tiek 
 date: 2014-05-16T08:12:44+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/05/DSC00465-1024x682.jpg
 guid: http://www.rokaso.com/?p=547
 permalink: /2014/05/savaite-2-kodel-nepriima-miegoti-nei-i-viena-viesbutuka-kodel-rusijoje-tiek-daug-tanku-paminklu-90s-skaitymo-3/
 categories:

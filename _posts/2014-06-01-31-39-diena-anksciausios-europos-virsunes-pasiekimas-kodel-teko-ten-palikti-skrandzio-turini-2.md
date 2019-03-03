@@ -4,6 +4,7 @@ title: Rusija, Kaukazas. Anksčiausios Europos viršūnės pasiekimas. Kodėl te
 date: 2014-06-01T19:52:18+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/06/IMG_20140524_59-1024x682.jpg
 guid: http://www.rokaso.com/?p=568
 permalink: /2014/06/31-39-diena-anksciausios-europos-virsunes-pasiekimas-kodel-teko-ten-palikti-skrandzio-turini-2/
 categories:

@@ -4,6 +4,7 @@ title: '26 savaitė: Ugandoje baruose nėra ramybės'
 date: 2014-01-25T19:23:16+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/01/IMG_8322-Edit-1067x800.jpg
 guid: http://www.rokaso.com/?p=444
 permalink: /2014/01/savaite-26-ugandoje-baruose-nera-ramybes-3/
 categories:

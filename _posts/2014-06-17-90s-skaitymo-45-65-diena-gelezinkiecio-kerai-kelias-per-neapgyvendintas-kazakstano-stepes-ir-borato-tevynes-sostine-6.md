@@ -4,6 +4,7 @@ title: Geležinkiečio kerai. Kelias per neapgyvendintas Kazakstano stepes. Ir B
 date: 2014-06-17T10:44:32+00:00
 author: Rokas
 layout: post
+image: https://d1ra7kav7kguzj.cloudfront.net/2014/06/IMG_20140610_84.jpg
 guid: http://www.rokaso.com/?p=668
 permalink: /2014/06/90s-skaitymo-45-65-diena-gelezinkiecio-kerai-kelias-per-neapgyvendintas-kazakstano-stepes-ir-borato-tevynes-sostine-6/
 categories:
