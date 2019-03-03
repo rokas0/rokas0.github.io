@@ -99,13 +99,3 @@ Restoranuose galima paragauti vietinio delikateso – žalios žuvies.<a href="h
 Linkėjimai,
 
 Osvaldas
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-    </p>
-  </div>
-</div>

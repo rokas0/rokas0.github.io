@@ -19,32 +19,34 @@ tags:
 Teriberka – miestelis šiaurinėje Rusijoje, pagrindinis priėjimas prie Barentso jūros. Miestelis garsėja kaip gera vieta žvejoti ir nepakartojamu gamtovaizdžiu. Jame buvo 2012 metais filmuotas ir Oskarui nominuotas filmas Leviafan.  
 Miestelis jau skaičiuoja daugiau negu 500 metų. Palyginimui netoliese esantis didmiestis Murmanskas įsikūrė tik prieš šimtą metų. Bet dabar gyventojai išvažinėja į didesnius miestus. Miestelis pavirto į vaiduoklišką kaimą. Jame dauguma namų negyvenamų, o netgi tie, kuriuose žmonės dar įsikūrę, yra apgriuvę, nubyrėjusiomis sienomis.
 
-<a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/28-DSC03451.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-993" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/28-DSC03451-1023x682.jpg" alt="28-DSC03451" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/29-DSC03452.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-994" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/29-DSC03452-1023x682.jpg" alt="29-DSC03452" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/03-DSC03374.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-968" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/03-DSC03374-1023x682.jpg" alt="03-DSC03374" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/09-DSC03261.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-974" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/09-DSC03261-1023x682.jpg" alt="09-DSC03261" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/07-DSC03445.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-972" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/07-DSC03445-682x1023.jpg" alt="Brrrrrrrrr...." width="474" height="711" /></a>
+ [![28-DSC03451](https://d1ra7kav7kguzj.cloudfront.net/2015/09/28-DSC03451-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/28-DSC03451.jpg)
+ [![29-DSC03452](https://d1ra7kav7kguzj.cloudfront.net/2015/09/29-DSC03452-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/29-DSC03452.jpg)
+ [![03-DSC03374](https://d1ra7kav7kguzj.cloudfront.net/2015/09/03-DSC03374-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/03-DSC03374.jpg) 
 
-Kaime žmonės neskuba. Einanti pro šalį bobutė neklausta papasakos, kur nusipirkti skanesnių pyragėlių, kada parduotuvės savininkė pasimirė, ar kokie neakylūs miestečiai. Ir paklaus, ar tarp Lietuvos ir Rusijos vis dar yra draugystė.  
-Miestelyje yra apleista mokykla.
+ [![09-DSC03261](https://d1ra7kav7kguzj.cloudfront.net/2015/09/09-DSC03261-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/09-DSC03261.jpg) 
 
-<a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/15-DSC033731.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1017" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/15-DSC033731-1023x682.jpg" alt="Mokykla - vaiduoklis" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/16-DSC033001.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1018" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/16-DSC033001-682x1023.jpg" alt="Pavojinga zona! Įėjimas uždraustas!" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/17-DSC032931.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1019" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/17-DSC032931-1023x682.jpg" alt="Kašės?" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/18-DSC033071.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1020" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/18-DSC033071-682x1023.jpg" alt="18-DSC03307" width="474" height="711" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/20-DSC033401.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1022" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/20-DSC033401-1023x682.jpg" alt="20-DSC03340" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/19-DSC033211.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1021" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/19-DSC033211-1023x682.jpg" alt="19-DSC03321" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/21-DSC033471.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1023" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/21-DSC033471-1023x682.jpg" alt="21-DSC03347" width="474" height="316" /></a><a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/22-DSC033491.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1024" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/22-DSC033491-1023x682.jpg" alt="22-DSC03349" width="474" height="316" /></a>
+ [![Brrrrrrrrr....](https://d1ra7kav7kguzj.cloudfront.net/2015/09/07-DSC03445-682x1023.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/07-DSC03445.jpg) 
+Kaime žmonės neskuba. Einanti pro šalį bobutė neklausta papasakos, kur nusipirkti skanesnių pyragėlių, kada parduotuvės savininkė pasimirė, ar kokie neakylūs miestečiai. Ir paklaus, ar tarp Lietuvos ir Rusijos vis dar yra draugystė. Miestelyje yra apleista mokykla. 
+ [![Mokykla - vaiduoklis](https://d1ra7kav7kguzj.cloudfront.net/2015/09/15-DSC033731-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/15-DSC033731.jpg) 
 
-Naktį pasisekė pamatyti ypač žavingą šiaurės pašvaistę.
+ [![Pavojinga zona! Įėjimas uždraustas!](https://d1ra7kav7kguzj.cloudfront.net/2015/09/16-DSC033001-682x1023.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/16-DSC033001.jpg) 
 
-<a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/33-DSC031431.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1035" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/33-DSC031431-1023x682.jpg" alt="33-DSC03143" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/32-DSC031091.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1034" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/32-DSC031091-682x1023.jpg" alt="32-DSC03109" width="474" height="711" /></a>
+ [![Kašės?](https://d1ra7kav7kguzj.cloudfront.net/2015/09/17-DSC032931-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/17-DSC032931.jpg)
+ [![18-DSC03307](https://d1ra7kav7kguzj.cloudfront.net/2015/09/18-DSC033071-682x1023.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/18-DSC033071.jpg)
+ [![20-DSC03340](https://d1ra7kav7kguzj.cloudfront.net/2015/09/20-DSC033401-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/20-DSC033401.jpg)
+ [![19-DSC03321](https://d1ra7kav7kguzj.cloudfront.net/2015/09/19-DSC033211-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/19-DSC033211.jpg)
+ [![21-DSC03347](https://d1ra7kav7kguzj.cloudfront.net/2015/09/21-DSC033471-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/21-DSC033471.jpg)
+ [![22-DSC03349](https://d1ra7kav7kguzj.cloudfront.net/2015/09/22-DSC033491-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/22-DSC033491.jpg) 
+Naktį pasisekė pamatyti ypač žavingą šiaurės pašvaistę. 
+ [![33-DSC03143](https://d1ra7kav7kguzj.cloudfront.net/2015/09/33-DSC031431-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/33-DSC031431.jpg) 
 
-Miestelį puošia ypatinga gamta – tundros panomaros.
+ [![32-DSC03109](https://d1ra7kav7kguzj.cloudfront.net/2015/09/32-DSC031091-682x1023.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/32-DSC031091.jpg) 
+Miestelį puošia ypatinga gamta – tundros panomaros. 
+ [![Tundra](https://d1ra7kav7kguzj.cloudfront.net/2015/09/37-DSC035601-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/37-DSC035601.jpg) 
 
-<a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/37-DSC035601.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1039" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/37-DSC035601-1023x682.jpg" alt="Tundra" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/36-DSC031661.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1038" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/36-DSC031661-1023x682.jpg" alt="Bye bye my Teriberka" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/35-DSC035261.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1037" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/35-DSC035261-1023x682.jpg" alt="Pusryčiai" width="474" height="316" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2015/09/34-DSC035241.jpg" rel="lightbox[963]"><img class="alignnone size-large wp-image-1036" src="https://d1ra7kav7kguzj.cloudfront.net/2015/09/34-DSC035241-1023x232.jpg" alt="34-DSC03524" width="474" height="107" /></a>
+ [![Bye bye my Teriberka](https://d1ra7kav7kguzj.cloudfront.net/2015/09/36-DSC031661-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/36-DSC031661.jpg) 
 
-Kaip pasiekti kaimelį?  
-Tai turbūt lengviausiai Rusijoje pasiekiama vieta, kurioje galima pamatyti tundrą. Iš Murmansko važiuoja kelis kartus per savaitę autobusas, ir užtrunka apie 3 valandas. Pakeliui kitų gyvenviečių beveik nebus ir galėsite grožėtis tundra.
+ [![Pusryčiai](https://d1ra7kav7kguzj.cloudfront.net/2015/09/35-DSC035261-1023x682.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/35-DSC035261.jpg) 
 
-P.S. Tiems, kam nepatinka Rusija, pasirinkite nuotraukų, parodykite draugams, kaip „biednai“ gyvena mūsų kaimynai. Bet visgi, betkame galima atrasti blogųjų pusių.
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-    </p>
-  </div>
-</div>
+ [![34-DSC03524](https://d1ra7kav7kguzj.cloudfront.net/2015/09/34-DSC035241-1023x232.jpg)](https://d1ra7kav7kguzj.cloudfront.net/2015/09/34-DSC035241.jpg) 
+Kaip pasiekti kaimelį? Tai turbūt lengviausiai Rusijoje pasiekiama vieta, kurioje galima pamatyti tundrą. Iš Murmansko važiuoja kelis kartus per savaitę autobusas, ir užtrunka apie 3 valandas. Pakeliui kitų gyvenviečių beveik nebus ir galėsite grožėtis tundra. P.S. Tiems, kam nepatinka Rusija, pasirinkite nuotraukų, parodykite draugams, kaip „biednai“ gyvena mūsų kaimynai. Bet visgi, betkame galima atrasti blogųjų pusių.

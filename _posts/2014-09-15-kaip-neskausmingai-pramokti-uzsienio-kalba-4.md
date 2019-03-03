@@ -58,11 +58,3 @@ Ką gi, tik tiek. Išmoksti žodžius, kur juos naudoti, ir supranti. Ir pats pa
 **Išvada**
 
 Pekinas, Kinija. Atėjau nurodyti laiku į viešbutį, kur po truputi rinkosi keliautojai ekskursijai į Šiaurės Korėja. Buvo gal trisdešimt žmonių. Visi pažindinosi užduodami klausimus kaip: „iš kur tu?“, „ką veiki gyvenime?“, „kur keliavai?“ ir kitus paprastus klausimus. Viduryje sėdėjo, bet nebendravo vienas žmogus, iš pažiūros rusas, po to pasitikslinau ir neklydau. Ir kaip jo akys nušvito, pats iš nustebimo pasakė „jau ketvirtas mėnesis keliauju po Azija, ir nieko negirdėjau šnekant rusiškai“. O jis angliškai tik pačius pagrindus moka. Visa tai apibendrinus galima prisiminti Nelsono Mandelos citatą „jeigu kalbi kalba, kurią aš moku, kalbi su mano smegenimis, o jeigu mano gimtąją kalba, kalbi su mano širdimi“.
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-      <br /> <fb:like href="http://www.rokaso.com/2014/09/kaip-neskausmingai-pramokti-uzsienio-kalba/" send="false" layout="button_count" width="450" show_faces="false" font=""></fb:like> </div> </div>
