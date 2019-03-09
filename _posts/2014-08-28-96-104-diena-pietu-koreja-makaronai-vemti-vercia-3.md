@@ -70,13 +70,3 @@ Beje, kaip jums idėja – sporto parkelyje įrengti spinta knygų? Pasportuoji 
 Linkėjimai,
 
 Osvaldas
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-    </p>
-  </div>
-</div>

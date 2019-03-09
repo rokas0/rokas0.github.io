@@ -58,13 +58,3 @@ Būtina atributika kiekvienai mašinai: atsarginis kuros ir bent keli ratlankiai
 Užpuolė audra Magadane. Visa savaite tik lijo.<a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140724_01.jpg" rel="lightbox[739]"><img class="alignnone size-large wp-image-761" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140724_01-1024x682.jpg" alt="IMG_20140724_01" width="474" height="315" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140724_10.jpg" rel="lightbox[739]"><img class="alignnone size-large wp-image-762" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140724_10-1024x682.jpg" alt="IMG_20140724_10" width="474" height="315" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140726_17.jpg" rel="lightbox[739]"><img class="alignnone size-large wp-image-763" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140726_17-682x1024.jpg" alt="IMG_20140726_17" width="474" height="711" /></a> <a href="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140726_29.jpg" rel="lightbox[739]"><img class="alignnone size-large wp-image-764" src="https://d1ra7kav7kguzj.cloudfront.net/2014/07/IMG_20140726_29-1024x153.jpg" alt="IMG_20140726_29" width="474" height="70" /></a>Ir iš Magadano skrydis į Vladivostoką o iš ten keltas į pietų Korėja, poto į Japonija, Kinija ir ekskursija į šiaurės Korėja!
 
 Iki!
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-    </p>
-  </div>
-</div>
