@@ -1,3 +1,6 @@
 .DS_STORE
 .sass-cache/
 sass-cache
+
+_site
+_images
