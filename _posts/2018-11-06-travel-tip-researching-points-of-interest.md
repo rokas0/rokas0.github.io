@@ -26,8 +26,6 @@ My favourite resources in order of priority:
   * Wikivoyage. It is useful in off-the-beat-path places and countries especially when you can hardly find any information from other sources. However touristic city guide has too much randomly ordered information
   * Wikipedia. Quick skim through the page might motivate you to visit a place because of historical, demographical, geographic reasons
 
-{% picture R0021663.JPG %}
-
 Frankly speaking in well-established travel destinations places worth-visiting does good job advertising. Imagine New York highlights and bright Times Square screens shows up in your mind. However what about Sierra Leone or Gabon highlights?
 
 Hope this helps to decide your itinerary for the next trip  

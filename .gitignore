@@ -1,6 +1,8 @@
 .DS_STORE
-.sass-cache/
-sass-cache
-
+.sass-cache
+fullsize-images
+_fullsize-images
 _site
 _images
+*.jpg
+_generated-smaller-size-images/

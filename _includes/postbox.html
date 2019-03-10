@@ -5,7 +5,24 @@
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ post.url | absolute_url }}">
-                {% if post.image %} <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}"> {% endif %}
+			<!-- Post Featured Image -->
+{% assign path = post.image %}
+
+{% if post.image %}
+{% if post.image contains "://" %}
+<img class="featured-image img-fluid" src="{{ post.image }}" alt="{{ page.title }}">
+{% else %}
+{% responsive_image_block %}
+  path: {{ path }}
+  alt: {{ post.title }}
+  title: {{ post.title }}
+{% endresponsive_image_block %}
+{% endif %}
+{% endif %}
+
+
+			<!-- End Featured Image -->
+
             </a>
         </div>
         <div class="card-body">
