@@ -9,7 +9,7 @@ permalink: /2018/02/the-most-amazing-festival-ive-ever-visited/
 image: https://d1ra7kav7kguzj.cloudfront.net/2018/02/R0010302-e1518251000845.jpg
 categories:
   - Mauritius
-  - Travel letters
+  - Travel
 tags:
   - Festivals
   - hindu

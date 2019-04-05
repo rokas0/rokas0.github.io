@@ -1,3 +1,10 @@
 FROM jekyll/builder
 
-apk add imagemagick6 imagemagick6-dev
+RUN apk add imagemagick6 imagemagick6-dev
+
+CMD ["jekyll", "--help"]
+ENTRYPOINT ["/usr/jekyll/bin/entrypoint"]
+WORKDIR /srv/jekyll
+VOLUME  /srv/jekyll
+EXPOSE 35729
+EXPOSE 4000

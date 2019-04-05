@@ -1,22 +1,23 @@
 ---
-id: 1001
+id: 1002
 title: 'Comoros FAQ'
 date: 2019-03-09T17:56:47+00:00
 author: Rokas
 layout: post
-image: R0021978.JPG
+image: fullsize-images/2019/03/R0021978.JPG
 categories:
   - Letters
   - Comoros
   - Africa
 ---
-Comoros is an island country. Comoros is maybe most chilled out Islamic countries. They are surrounded by Ocean with little outside transportation. 
-Women are wearing colourful hijabs when outside.
+Comoros is an island country. Comoros is maybe most chilled out Islamic countries. They are surrounded by Ocean with little outside transportation. Women are wearing colourful hijabs when outside.
 They are so chilled out that no one minds that local stationery are selling postcards with topless African women
 
-Religion advises good values and prohibits poor ones when government, researchers or media cannot. 
+Religion advises good values and prohibits poor ones when government, researchers or media cannot. For example the country has low number of people infected by HIV compared to other African states
 
 {% responsive_image path: fullsize-images/2019/03/R0021646.JPG %}
+
+After my trip I've received questions about visiting Comoros so here're the most frequently asked ones
 
 ## How do I exchange my money to Comoros francs?
 As of 2018 November, it is best to bring Euro notes to the island. They can be exchanged at most shops for slightly better than the official rate (€1 = 500 francs). Note that a barely noticeable torn banknotes won't be exchanged. There are four ATM located in Moroni at roughly same bank area. Most were declining debit card Mastercard issued in the UK for no apparent reason even logo on the machine stated that it accepts Mastercards. One bank was charging about 10% of total withdrawing amount as transaction fees. Therefore it's the most cost efficient to bring cash in Euro. Other hard currency might be exchanged at Bureau de change. 
