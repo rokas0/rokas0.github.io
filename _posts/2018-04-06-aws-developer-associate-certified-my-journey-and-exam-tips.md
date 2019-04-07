@@ -4,7 +4,6 @@ title: AWS certified. My journey and exam tips
 date: 2018-04-06T19:26:06+00:00
 author: Rokas
 layout: post
-featured: true
 guid: http://rokaso.com/?p=2189
 permalink: /2018/04/aws-developer-associate-certified-my-journey-and-exam-tips/
 image: https://d1ra7kav7kguzj.cloudfront.net/2018/04/Screen-Shot-2018-04-06-at-19.24.54.png

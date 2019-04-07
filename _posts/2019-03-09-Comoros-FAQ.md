@@ -4,7 +4,7 @@ title: 'Comoros FAQ'
 date: 2019-03-09T17:56:47+00:00
 author: Rokas
 layout: post
-image: fullsize-images/2019/03/R0021978.JPG
+image: 2019/03/R0021978.JPG
 categories:
   - Letters
   - Comoros

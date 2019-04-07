@@ -2,7 +2,6 @@
 id: 2295
 title: Climbing the highest mountain in West Africa
 date: 2018-06-04T17:56:07+00:00
-featured: true
 author: Rokas
 layout: post
 guid: http://rokaso.com/?p=2295

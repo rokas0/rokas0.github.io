@@ -4,7 +4,7 @@ title: 'My favourite spots to visit in Leeds'
 date: 2019-04-05T12:00:00+00:00
 author: Rokas
 layout: post
-image: fullsize-images/2019/03/R0020339.JPG
+image: 2019/03/R0020339.jpg
 categories:
   - Travel
   - Leeds

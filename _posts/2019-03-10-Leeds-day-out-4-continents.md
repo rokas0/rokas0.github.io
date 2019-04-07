@@ -2,11 +2,11 @@
 title: "Leeds day-out. 3 continents in 1 day"
 author: Rokas
 layout: post
+image: 2019/03/IMG_20190127_134814.jpg
 categories:
   - Leeds
   - Travel
   - England
-image: "fullsize-images/2019/03/IMG20190127134814.jpg"
 ---
 I don't really need to travel to far away countries to explore and learn about various cultures, I can just go to visit people living in the same city. Here is one of my favourite day outs in Leeds where we'll visit several different cultures.
 

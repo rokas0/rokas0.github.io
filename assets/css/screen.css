@@ -94,7 +94,7 @@ License: https://www.wowthemes.net/freebies-license/
      height: 100%;
 }
  .maxthumb {
-     max-height:300px;
+     height:300px;
      overflow:hidden;
 }
  .listfeaturedtag .card, .card-footer {

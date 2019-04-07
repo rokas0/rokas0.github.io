@@ -13,7 +13,7 @@ build_image:
 	docker build . -t rokaso/jekyll
 
 serve:
-	docker run --rm --volume="$(shell pwd):/srv/jekyll" -p 4300:4000 -i rokaso/jekyll jekyll serve
+	docker run --rm --volume="$(shell pwd):/srv/jekyll" -p 4000:4000 -i rokaso/jekyll jekyll serve --drafts
 
 migrate:
 	sed -i '' 's/rokaso.lt/rokaso.com/g' _posts/*
