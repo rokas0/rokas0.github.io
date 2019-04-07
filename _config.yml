@@ -19,8 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-responsive-image
-    
 # Archives
 jekyll-archives:
   enabled:
@@ -28,11 +26,9 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
 # Paginatio 
 paginate: 21
 paginate_path: /page:num/
-    
 # Other
 markdown: kramdown
 
@@ -42,15 +38,4 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-responsive_image:
-  template: _includes/responsive-image.html
-  base_path: "_fullsize-images"
-  output_path_format: _generated-smaller-size-images/%{width}/%{basename}
-  sizes:
-    - width: 480  # [Required] How wide the resized image will be.
-      quality: 80 # [Optional] Overrides default_quality for this size.
-    - width: 800
-    - width: 1400
-      quality: 90
 

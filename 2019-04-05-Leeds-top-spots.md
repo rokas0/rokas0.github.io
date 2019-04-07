@@ -20,7 +20,7 @@ categories:
 Watermills:
 {% responsive_image path: fullsize-images/2019/03/IMG_20190223_130455.jpg %}
 {% responsive_image path: fullsize-images/2019/03/IMG_20190223_131841.jpg %}
-VID_20190223_131816.mp4
+![Mills](https://d1ra7kav7kguzj.cloudfront.net/VID_20190223_131816.gif)
 
 * Cemetary + Kirkstall Abey + Leeds Canal up north
 * Abbey
