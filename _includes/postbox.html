@@ -12,11 +12,6 @@
 {% if post.image contains "://" %}
 <img class="featured-image img-fluid" src="{{ post.image }}" alt="{{ page.title }}">
 {% else %}
-{% responsive_image_block %}
-  path: {{ path }}
-  alt: {{ post.title }}
-  title: {{ post.title }}
-{% endresponsive_image_block %}
 {% endif %}
 {% endif %}
 
