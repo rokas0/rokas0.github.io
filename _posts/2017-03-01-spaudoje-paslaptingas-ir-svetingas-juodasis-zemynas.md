@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1730
 permalink: /2017/03/spaudoje-paslaptingas-ir-svetingas-juodasis-zemynas/
-image: https://d1ra7kav7kguzj.cloudfront.net/2013/10/IMG_7485-Edit.jpg
+image: 2013/10/IMG_7485-Edit.jpg
 categories:
   - Mozambique
   - Uncategorised

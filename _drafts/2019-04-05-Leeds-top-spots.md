@@ -10,35 +10,34 @@ categories:
   - Leeds
   - England
 ---
-* 3 peaks hike
+# 3 peaks hike
+{% include imgs.html src='2019/03/R0020351.jpg' %}
 {% include imgs.html src='2019/03/R0020339.jpg' %}
 {% include imgs.html src='2019/03/R0020347.jpg' %}
-{% include imgs.html src='2019/03/R0020351.jpg' %}
 {% include imgs.html src='2019/03/R0020358.jpg' %}
 
-* South Leeds industrial history: Watermills + stream train + Middleton park
-Watermills:
-{% include imgs.html src='2019/03/IMG_20190223_130455.jpg' %}
+# South Leeds industrial history: Watermills + stream train + Middleton park
 {% include imgs.html src='2019/03/IMG_20190223_131841.jpg' %}
+{% include imgs.html src='2019/03/IMG_20190223_130455.jpg' %}
 ![Mills](https://d1ra7kav7kguzj.cloudfront.net/VID_20190223_131816.gif)
 
-* Cemetary + Kirkstall Abey + Leeds Canal up north
-* Abbey
+# Cemetary + Kirkstall Abey + Leeds Canal up north
+# Abbey
 {% include imgs.html src='2019/03/IMG_20180811_160544.jpg' %}
 {% include imgs.html src='2019/03/IMG_20180811_161446.jpg' %}
 
-* Water taxi
+# Water taxi
 {% include imgs.html src='2019/03/IMG_20190126_143053.jpg' %}
 
-* Cemetary:
+# Cemetary:
 {% include imgs.html src='2019/03/IMG_20180929_140738.jpg' %}
 {% include imgs.html src='2019/03/IMG_20180929_141122.jpg' %}
 
-* Saltaire
+# Saltaire
 {% include imgs.html src='2019/03/IMG_20190309_144024.jpg' %}
-{% include imgs.html src='2019/03/IMG_20190309_142804.jpg' %}
+{% include imgs.html src='smart/2019/03/IMG_20190309_142804.jpg' %}
 
-Around Leeds for a day trip
+# Around Leeds for a day trip
 * Visit Liverpool or York
 * Go to Whitby and Scarborough
 

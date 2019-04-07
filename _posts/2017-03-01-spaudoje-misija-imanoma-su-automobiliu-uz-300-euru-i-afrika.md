@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1728
 permalink: /2017/03/spaudoje-misija-imanoma-su-automobiliu-uz-300-euru-i-afrika/
-image: https://d1ra7kav7kguzj.cloudfront.net/2017/03/24580947710_3268c8a78a_k.jpg
+image: 2017/03/24580947710_3268c8a78a_k.jpg
 categories:
   - Mali
   - Mauritania
