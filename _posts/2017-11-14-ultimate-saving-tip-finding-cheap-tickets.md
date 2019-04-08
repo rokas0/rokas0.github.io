@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1828
 permalink: /2017/11/ultimate-saving-tip-finding-cheap-tickets/
-image: https://d1ra7kav7kguzj.cloudfront.net/2017/11/Untitled.png
+image: 2017/11/Untitled.png
 categories:
   - Tips
   - Travels

@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1769
 permalink: /2017/08/travel-tips-improve-strength-and-build-mass-without-equipment/
-image: https://d1ra7kav7kguzj.cloudfront.net/2017/08/15763969734_5c463f896e_k-e1503491641963.jpg
+image: 2017/08/15763969734_5c463f896e_k-e1503491641963.jpg
 categories:
   - Travels
 ---

@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=1995
 permalink: /2018/01/playing-with-aws-lambda-scala-and-terraform/
-image: https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync.jpg
+image: 2017/12/Fitbit-and-Google-calendar-sync.jpg
 categories:
   - AWS
   - Infrastructure as code
@@ -34,7 +34,7 @@ AWS fits perfectly our problem to host single function to output calendar.
 
 The underlying architecture is pretty simple. A user views Google Calendars, which updates by calling our developed AWS Lambdas. First, the get Fitbit access token calling another lambda function, which retrieves it from DynamoDB and proceeds. If an error occurred with message _expired_token_ when another lambda function is triggered to refresh it and also store in the database. It is described below
 
-[<img class="alignnone size-medium wp-image-1998" src="https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg" alt="" width="600" height="338" srcset="https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg 600w, https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync-800x450.jpg 800w, https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync-768x432.jpg 768w, https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync-370x208.jpg 370w, https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](https://d1ra7kav7kguzj.cloudfront.net/2017/12/Fitbit-and-Google-calendar-sync.jpg)
+[<img class="alignnone size-medium wp-image-1998" src="2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg" alt="" width="600" height="338" srcset="2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg 600w, 2017/12/Fitbit-and-Google-calendar-sync-800x450.jpg 800w, 2017/12/Fitbit-and-Google-calendar-sync-768x432.jpg 768w, 2017/12/Fitbit-and-Google-calendar-sync-370x208.jpg 370w, 2017/12/Fitbit-and-Google-calendar-sync.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](2017/12/Fitbit-and-Google-calendar-sync.jpg)
 
 AWS Lambda pricing might [get tricky](https://aws.amazon.com/lambda/pricing/) but if you executing only several times a day, it&#8217;s basically free. You get plenty of free execution. For example, if you average execution would take whole 3 seconds twice a day for a month, it would be 30 (3s = 30 \* 100ms) \* 0.000000208 (price per 100ms of execution) \* 30 (avg. days in a month) \* 2 (twice a day) =  $0.0003744 which is still $0. Initially, I wanted to store the function on my EC2 server, but if Lambda function is basically free anyways, let&#8217;s do it there!
 

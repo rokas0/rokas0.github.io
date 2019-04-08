@@ -6,7 +6,7 @@ author: Rokas
 layout: post
 guid: http://rokaso.com/?p=2087
 permalink: /2018/01/squatting-on-the-way-to-breaking-my-pb/
-image: https://d1ra7kav7kguzj.cloudfront.net/2018/01/Screen-Shot-2018-01-27-at-10.04.57.png
+image: 2018/01/Screen-Shot-2018-01-27-at-10.04.57.png
 categories:
   - Fitness
   - Letters
@@ -53,7 +53,7 @@ Moreover, not just training needs variation, but also food sources. If you been 
 
 Given all lessons, I changed my 5&#215;5 program in something more challenging. I started following [Smolov program](https://stronglifts.com/how-to-add-100-pounds-to-your-squat-smolov/). My squatting schedule looked like this:
 
-![Screenshot](https://d1ra7kav7kguzj.cloudfront.net/2018/01/Screen-Shot-2018-01-03-at-13.51.26.png)
+![Screenshot](2018/01/Screen-Shot-2018-01-03-at-13.51.26.png)
 
 It includes squatting 4 times a week and varying sets/repetitions. Note: when you set your 1 repetition max (1 RM) it&#8217;s better to underestimation than overestimate.
 
