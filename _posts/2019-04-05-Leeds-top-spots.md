@@ -33,25 +33,38 @@ The train ride finishes in Middleton park.
 #### Middleton park
 Middleton Park, the green jewel of South Leeds, is a mixture of traditional parkland and ancient woodland. My favourite bit is informational signs about coal mining history in the park which ties up nicely with railway history.
 
+#### The Golden Gate (LS10 2QB)
+> _"One of the most beautiful pubs in the country"_ - Pete Brown at his book _"The Pub: A Cultural Institution"_
+
+Beautiful pub with a friendly locals. They serve food on Sundays 12:30 pm to 5 pm
+
+{% include imgs.html src='2019/04/IMG_20190413_150630.jpg' %}
+{% include imgs.html src='2019/04/IMG_20190413_150606.jpg' %}
+{% include imgs.html src='2019/04/IMG_20190413_141222.jpg' %}
+
 #### Temple Works (LS11 9TH)
 A former flax mill and a great example of Leeds industrial glory. One cannot enter a building however it's worth a walk just for the photo from outside.
 
 A story goes that to isolate building roof it used to grow grass on the top of it. However grass needs to be trimmed. This was the times before lawn trimming tools became mainstream therefore alternatives neeeded. Thus sheeps were used to trim grass however they cannot walk the stairs that's why engineers invented a lift.
 
+{% include imgs.html src='2019/04/IMG_0078.JPG' %}
 #### Royal Armouries Museum and free water taxi (LS10 1LT)
 Royal Armouries is the United Kindom's national collection of arms and armour. Huge museum spreading into three floors which would take half a day if wanting to see it all. Various events happens every day. The entrance is free.
 
 More information why this place is special is at [Atlasobscura](https://www.atlasobscura.com/places/horned-helmet-of-henry-viii){:target="_blank"}
 
-Free water taxi runs between Royal Armouries Museum (LS10 1LT) and Leeds train station between around 9 am to 6 pm every 20 minutes or so.
+{% include imgs.html src='smart/2019/04/IMG_20190126_124652.jpg' %}
+{% include imgs.html src='smart/2019/04/IMG_20190126_125956.jpg' %}
 
+Free water taxi runs between Royal Armouries Museum (LS10 1LT) and Leeds train station between around 9 am to 6 pm every 20 minutes or so.
+{% include imgs.html src='2019/04/Screen Shot 2019-04-13 at 20.37.54.png' %}
 {% include imgs.html src='2019/03/IMG_20190126_143053.jpg' %}
 
 #### Sky Lounge at Hilton (LS1 4BR)
 One of the best views you can get in Sky Lounge located at DoubleTree by Hilton Hotel. It's a business therefore you might be asked to buy something however if you tell that you've just came for views, they might let you inside without purchasing anything. But if you fancy something at this height, here is [a menus](http://www.leedsskylounge.co.uk/#menus)
 
 {% include imgs.html src='2019/04/PANO_20190324_125623.jpg' %}
-
+{% include imgs.html src='2019/04/PANO_20190324_130557.jpg' %}
 ## North Leeds
 
 ## Kirkstall Abbey (LS5 3EH)
@@ -66,7 +79,7 @@ Victorian graveyard is a macabre collection of beautiful tombs and memorials. Mo
 {% include imgs.html src='2019/03/IMG_20180929_140738.jpg' %}
 {% include imgs.html src='2019/03/IMG_20180929_141122.jpg' %}
 
-## Saltaire
+## Saltaire (BD18 3LA)
 UNESCO World Heritage site. The building itself is massive mostly hosting shops but one floor contains history. It's worth watching a documentary about Saltaire on the screen while you there which is about 40 minutes and runs repeatedly thus times are unpredictable.
 
 {% include imgs.html src='2019/03/IMG_20190309_144024.jpg' %}
@@ -74,6 +87,9 @@ UNESCO World Heritage site. The building itself is massive mostly hosting shops 
 
 ## Canal
 Walking along the River Aire is enjoyable time spend in a calm and quiet. Many marvelious bridges on the way too.
+
+{% include imgs.html src='2019/04/IMG_20190122_122726 (1).jpg' %}
+{% include imgs.html src='2019/04/IMG_20190126_143027.jpg' %}
 
 ## Around Leeds for a day trip
 ### Yorkshire three peaks hike
@@ -91,17 +107,23 @@ For more information search for Yorksire Three Peaks or visit [this website](htt
 {% include imgs.html src='2019/03/R0020358.jpg' %}
 
 ### Bradford
-
-
+18 minutes away from Leeds.
 
 {% include imgs.html src='2019/04/R0016667.JPG' %}
 
 ### Liverpool
+1 hour 38 minutes away from Leeds.
 
 ### York
+Only 22 minutes away from Leeds.
+
+According to some sources, York is second most visited city in England after London. And there's a good reason why as it has long lasting history including influences from Roman empire and vikings.
+
+There are free city walking tours where tips are not expected. They do two departures a day at 10.15 am and 1.15 pm from outside York City Art Gallery. Double check departure times at [Voluntary Guides to the City of York webpage](http://avgyork.co.uk)
+
 If you're lucky enough to visit during York races it's definately a good experience
 
 {% include imgs.html src='2019/04/IMG_20180727_170228.jpg' %}
 
 ### Whitby and Scarborough
-
+Lovely towns on the coast to catch waves. 84 miles drive from Leeds
