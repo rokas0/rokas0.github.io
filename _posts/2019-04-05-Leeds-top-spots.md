@@ -73,11 +73,17 @@ Kirkstall Abbey is a ruined Cistercian monastery which was founded in c. 1152. N
 {% include imgs.html src='2019/03/IMG_20180811_161446.jpg' %}
 {% include imgs.html src='2019/03/IMG_20180811_160544.jpg' %}
 
+## Hyde Park Picture House (LS6 1JD)
+Independent cinema est. 1914. Book your seat at [this website](https://www.hydeparkpicturehouse.co.uk) in advance because it's usually full.
+
+{% include imgs.html src='2019/04/IMG_20190112_164844 (2).jpg' %}
+
 ## Lawnswood Cemetery (LS16 6AH)
 Victorian graveyard is a macabre collection of beautiful tombs and memorials. More is at [Atlasobscura](https://www.atlasobscura.com/places/lawnswood-cemetery){:target="_blank"}
 
 {% include imgs.html src='2019/03/IMG_20180929_140738.jpg' %}
 {% include imgs.html src='2019/03/IMG_20180929_141122.jpg' %}
+
 
 ## Saltaire (BD18 3LA)
 UNESCO World Heritage site. The building itself is massive mostly hosting shops but one floor contains history. It's worth watching a documentary about Saltaire on the screen while you there which is about 40 minutes and runs repeatedly thus times are unpredictable.
