@@ -32,7 +32,7 @@ tags:
   </p>
   
   <p>
-    Paskutinė mano minimo diena. Nuvažiuota apie 750km per 5 dienas. Nereikia net rašyti, kad nieko nesvajoju labiau, kaip gerai pamiegoti, pailsėti, pavalgyti.<a href="2014/05/IMG_20140511_88.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-575" src="2014/05/IMG_20140511_88-1024x682.jpg" alt="IMG_20140511_88" width="474" height="315" /></a> <a href="2014/05/IMG_20140511_92.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-576" src="2014/05/IMG_20140511_92-1024x682.jpg" alt="IMG_20140511_92" width="474" height="315" /><img class="alignnone size-large wp-image-589" src="2014/05/IMG_20140512_98-1024x682.jpg" alt="IMG_20140512_98" width="474" height="315" /></a>
+    Paskutinė mano minimo diena. Nuvažiuota apie 750km per 5 dienas. Nereikia net rašyti, kad nieko nesvajoju labiau, kaip gerai pamiegoti, pailsėti, pavalgyti.<a href="2014/05/IMG_20140511_88.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-575" src="https://images.rokaso.com/2014/05/IMG_20140511_88-1024x682.jpg" alt="IMG_20140511_88" width="474" height="315" /></a> <a href="2014/05/IMG_20140511_92.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-576" src="https://images.rokaso.com/2014/05/IMG_20140511_92-1024x682.jpg" alt="IMG_20140511_92" width="474" height="315" /><img class="alignnone size-large wp-image-589" src="https://images.rokaso.com/2014/05/IMG_20140512_98-1024x682.jpg" alt="IMG_20140512_98" width="474" height="315" /></a>
   </p>
   
   <p>
@@ -68,7 +68,7 @@ tags:
   </p>
   
   <p>
-    <a href="2014/05/IMG_20140513_103.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-590" src="2014/05/IMG_20140513_103-1024x682.jpg" alt="IMG_20140513_103" width="474" height="315" /></a> <a href="2014/05/IMG_20140513_105.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-591" src="2014/05/IMG_20140513_105-1024x682.jpg" alt="IMG_20140513_105" width="474" height="315" /></a>
+    <a href="2014/05/IMG_20140513_103.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-590" src="https://images.rokaso.com/2014/05/IMG_20140513_103-1024x682.jpg" alt="IMG_20140513_103" width="474" height="315" /></a> <a href="2014/05/IMG_20140513_105.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-591" src="https://images.rokaso.com/2014/05/IMG_20140513_105-1024x682.jpg" alt="IMG_20140513_105" width="474" height="315" /></a>
   </p>
   
   <p>
@@ -108,7 +108,7 @@ tags:
   </p>
   
   <p>
-    <a href="2014/05/IMG_20140515_120.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-577" src="2014/05/IMG_20140515_120-682x1024.jpg" alt="IMG_20140515_120" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_121.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-578" src="2014/05/IMG_20140515_121-1024x682.jpg" alt="IMG_20140515_121" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_124.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-579" src="2014/05/IMG_20140515_124-1024x682.jpg" alt="IMG_20140515_124" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_125.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-580" src="2014/05/IMG_20140515_125-682x1024.jpg" alt="IMG_20140515_125" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_130.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-582" src="2014/05/IMG_20140515_130-1024x198.jpg" alt="IMG_20140515_130" width="474" height="91" /></a>
+    <a href="2014/05/IMG_20140515_120.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-577" src="https://images.rokaso.com/2014/05/IMG_20140515_120-682x1024.jpg" alt="IMG_20140515_120" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_121.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-578" src="https://images.rokaso.com/2014/05/IMG_20140515_121-1024x682.jpg" alt="IMG_20140515_121" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_124.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-579" src="https://images.rokaso.com/2014/05/IMG_20140515_124-1024x682.jpg" alt="IMG_20140515_124" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_125.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-580" src="https://images.rokaso.com/2014/05/IMG_20140515_125-682x1024.jpg" alt="IMG_20140515_125" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_130.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-582" src="https://images.rokaso.com/2014/05/IMG_20140515_130-1024x198.jpg" alt="IMG_20140515_130" width="474" height="91" /></a>
   </p>
   
   <p>
@@ -120,7 +120,7 @@ tags:
   </p>
   
   <p>
-    <a href="2014/05/IMG_20140515_139.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-583" src="2014/05/IMG_20140515_139-682x1024.jpg" alt="IMG_20140515_139" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_140.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-584" src="2014/05/IMG_20140515_140-1024x682.jpg" alt="IMG_20140515_140" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_141.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-585" src="2014/05/IMG_20140515_141-682x1024.jpg" alt="IMG_20140515_141" width="474" height="711" /></a>
+    <a href="2014/05/IMG_20140515_139.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-583" src="https://images.rokaso.com/2014/05/IMG_20140515_139-682x1024.jpg" alt="IMG_20140515_139" width="474" height="711" /></a> <a href="2014/05/IMG_20140515_140.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-584" src="https://images.rokaso.com/2014/05/IMG_20140515_140-1024x682.jpg" alt="IMG_20140515_140" width="474" height="315" /></a> <a href="2014/05/IMG_20140515_141.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-585" src="https://images.rokaso.com/2014/05/IMG_20140515_141-682x1024.jpg" alt="IMG_20140515_141" width="474" height="711" /></a>
   </p>
   
   <p>
@@ -132,7 +132,7 @@ tags:
   </p>
   
   <p>
-    <img class="alignnone size-large wp-image-586" src="2014/05/IMG_20140516_146-682x1024.jpg" alt="IMG_20140516_146" width="474" height="711" />
+    <img class="alignnone size-large wp-image-586" src="https://images.rokaso.com/2014/05/IMG_20140516_146-682x1024.jpg" alt="IMG_20140516_146" width="474" height="711" />
   </p>
   
   <p>
@@ -148,11 +148,11 @@ tags:
   </p>
   
   <p>
-    <a href="2014/05/IMG_20140516_151.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-587" src="2014/05/IMG_20140516_151-1024x682.jpg" alt="IMG_20140516_151" width="474" height="315" /></a>
+    <a href="2014/05/IMG_20140516_151.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-587" src="https://images.rokaso.com/2014/05/IMG_20140516_151-1024x682.jpg" alt="IMG_20140516_151" width="474" height="315" /></a>
   </p>
   
   <p>
-    Dar liko nutranzuoti 250km iki Voronež, kur palikau dviratį. Bet tai nebeproblema.  <a href="2014/05/IMG_20140516_153.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-588" src="2014/05/IMG_20140516_153-1024x682.jpg" alt="IMG_20140516_153" width="474" height="315" /></a>
+    Dar liko nutranzuoti 250km iki Voronež, kur palikau dviratį. Bet tai nebeproblema.  <a href="2014/05/IMG_20140516_153.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-588" src="https://images.rokaso.com/2014/05/IMG_20140516_153-1024x682.jpg" alt="IMG_20140516_153" width="474" height="315" /></a>
   </p>
   
   <p>

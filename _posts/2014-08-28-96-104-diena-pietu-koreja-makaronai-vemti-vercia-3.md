@@ -19,7 +19,7 @@ Iš Vladivostoko keliuosi keltu į Pietų Korėja. Susipažistu su vietine stude
 
 Štai pilnas autobusas po kelionės keltu pavargusiu koriečių.
 
-<a href="2014/08/IMG_20140731_12.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-780" src="2014/08/IMG_20140731_12-682x1024.jpg" alt="IMG_20140731_12" width="474" height="711" /></a>
+<a href="2014/08/IMG_20140731_12.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-780" src="https://images.rokaso.com/2014/08/IMG_20140731_12-682x1024.jpg" alt="IMG_20140731_12" width="474" height="711" /></a>
 
 Pietų Korėja. Šalies ekonomika išaugo ispūdingais skaičiais per pastaruosius 50 metų. Bet ar tai to trumpo laiko užteko šaliai būti visapusiška pirmajo pasaulio nare?
 
@@ -29,41 +29,41 @@ Pietų Korėja. Šalies ekonomika išaugo ispūdingais skaičiais per pastaruosi
 Kagi, jau visiškai kitokia kultūra atplaukus iš Rusijos.  
 Apsigyvenau pas rusiškai šnekanti amerikieti, kuris čia dirba anglų mokytoju. Taip pat gyveno jaunas keliautojas rusas – Artiomas, su kurio ir apžiūrinėjome Pietų Korėjos sostinę.
 
-<a href="2014/08/IMG_20140801_31.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-788" src="2014/08/IMG_20140801_31-1024x576.jpg" alt="IMG_20140801_31" width="474" height="266" /></a>
+<a href="2014/08/IMG_20140801_31.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-788" src="https://images.rokaso.com/2014/08/IMG_20140801_31-1024x576.jpg" alt="IMG_20140801_31" width="474" height="266" /></a>
 
 &nbsp;
 
-<a href="2014/08/IMG_20140801_34.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-789" src="2014/08/IMG_20140801_34-1024x153.jpg" alt="IMG_20140801_34" width="474" height="70" /></a>
+<a href="2014/08/IMG_20140801_34.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-789" src="https://images.rokaso.com/2014/08/IMG_20140801_34-1024x153.jpg" alt="IMG_20140801_34" width="474" height="70" /></a>
 
-<a href="2014/08/IMG_20140801_38.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-790" src="2014/08/IMG_20140801_38-682x1024.jpg" alt="IMG_20140801_38" width="474" height="711" /></a> <a href="2014/08/IMG_20140801_40.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-791" src="2014/08/IMG_20140801_40-682x1024.jpg" alt="IMG_20140801_40" width="474" height="711" /></a> <a href="2014/08/IMG_20140801_44.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-792" src="2014/08/IMG_20140801_44-1024x682.jpg" alt="IMG_20140801_44" width="474" height="315" /></a><a href="2014/08/IMG_20140801_52.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-794" src="2014/08/IMG_20140801_52-1024x682.jpg" alt="IMG_20140801_52" width="474" height="315" /></a>
+<a href="2014/08/IMG_20140801_38.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-790" src="https://images.rokaso.com/2014/08/IMG_20140801_38-682x1024.jpg" alt="IMG_20140801_38" width="474" height="711" /></a> <a href="2014/08/IMG_20140801_40.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-791" src="https://images.rokaso.com/2014/08/IMG_20140801_40-682x1024.jpg" alt="IMG_20140801_40" width="474" height="711" /></a> <a href="2014/08/IMG_20140801_44.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-792" src="https://images.rokaso.com/2014/08/IMG_20140801_44-1024x682.jpg" alt="IMG_20140801_44" width="474" height="315" /></a><a href="2014/08/IMG_20140801_52.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-794" src="https://images.rokaso.com/2014/08/IMG_20140801_52-1024x682.jpg" alt="IMG_20140801_52" width="474" height="315" /></a>
 
 * * *
 
 Beje, kodėl straipsnio pavadinimas „Azietiški makaronai vemti verčia“? Nes jie neįsivaizduoja patiekalo be tų greitųjų makaronų (angl. noodles), kurie liaudyje vadinami kaip „bada-sriubės“ ar „benamių paketai“. Štai įvairiausi variantai, kaip jas galima patiekti:
 
-<a href="2014/08/IMG_20140731_14.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-781" src="2014/08/IMG_20140731_14-1024x682.jpg" alt="IMG_20140731_14" width="474" height="315" /></a> <a href="2014/08/IMG_20140805_133.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-786" src="2014/08/IMG_20140805_133-1024x682.jpg" alt="IMG_20140805_133" width="474" height="315" /></a> <a href="2014/08/IMG_20140804_124.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-785" src="2014/08/IMG_20140804_124-1024x682.jpg" alt="IMG_20140804_124" width="474" height="315" /></a> <a href="2014/08/IMG_20140802_80.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-784" src="2014/08/IMG_20140802_80-1024x682.jpg" alt="IMG_20140802_80" width="474" height="315" /></a> <a href="2014/08/IMG_20140801_60.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-783" src="2014/08/IMG_20140801_60-1024x682.jpg" alt="IMG_20140801_60" width="474" height="315" /></a> <a href="2014/08/IMG_20140801_17.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-782" src="2014/08/IMG_20140801_17-1024x682.jpg" alt="IMG_20140801_17" width="474" height="315" /></a><a href="2014/08/IMG_20140806_161.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-779" src="2014/08/IMG_20140806_161-1024x682.jpg" alt="IMG_20140806_161" width="474" height="315" /></a> <a href="2014/08/IMG_20140806_154.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-778" src="2014/08/IMG_20140806_154-1024x682.jpg" alt="IMG_20140806_154" width="474" height="315" /></a>Po kurio laiko visais įmanomais būdais pradėjau vengti šitų sriubų. Kai jau kėliausi keltu į Japonija, sutiktas ten gyvenantis amerikietis nepaguodė „ten tokios sriubos irgi pačios mylimiausios“.
+<a href="2014/08/IMG_20140731_14.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-781" src="https://images.rokaso.com/2014/08/IMG_20140731_14-1024x682.jpg" alt="IMG_20140731_14" width="474" height="315" /></a> <a href="2014/08/IMG_20140805_133.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-786" src="https://images.rokaso.com/2014/08/IMG_20140805_133-1024x682.jpg" alt="IMG_20140805_133" width="474" height="315" /></a> <a href="2014/08/IMG_20140804_124.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-785" src="https://images.rokaso.com/2014/08/IMG_20140804_124-1024x682.jpg" alt="IMG_20140804_124" width="474" height="315" /></a> <a href="2014/08/IMG_20140802_80.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-784" src="https://images.rokaso.com/2014/08/IMG_20140802_80-1024x682.jpg" alt="IMG_20140802_80" width="474" height="315" /></a> <a href="2014/08/IMG_20140801_60.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-783" src="https://images.rokaso.com/2014/08/IMG_20140801_60-1024x682.jpg" alt="IMG_20140801_60" width="474" height="315" /></a> <a href="2014/08/IMG_20140801_17.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-782" src="https://images.rokaso.com/2014/08/IMG_20140801_17-1024x682.jpg" alt="IMG_20140801_17" width="474" height="315" /></a><a href="2014/08/IMG_20140806_161.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-779" src="https://images.rokaso.com/2014/08/IMG_20140806_161-1024x682.jpg" alt="IMG_20140806_161" width="474" height="315" /></a> <a href="2014/08/IMG_20140806_154.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-778" src="https://images.rokaso.com/2014/08/IMG_20140806_154-1024x682.jpg" alt="IMG_20140806_154" width="474" height="315" /></a>Po kurio laiko visais įmanomais būdais pradėjau vengti šitų sriubų. Kai jau kėliausi keltu į Japonija, sutiktas ten gyvenantis amerikietis nepaguodė „ten tokios sriubos irgi pačios mylimiausios“.
 
 * * *
 
 O tradiciniai mažiukai staliukai visdar populiarus ir kavinėse.
 
-<a href="2014/08/IMG_20140803_103.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-796" src="2014/08/IMG_20140803_103-682x1024.jpg" alt="IMG_20140803_103" width="474" height="711" /></a>
+<a href="2014/08/IMG_20140803_103.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-796" src="https://images.rokaso.com/2014/08/IMG_20140803_103-682x1024.jpg" alt="IMG_20140803_103" width="474" height="711" /></a>
 
 * * *
 
 Miestuose susipynes naujasis, modernusis pasaulis ir senieji nameliai:
 
-<a href="2014/08/IMG_20140803_106.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-797" src="2014/08/IMG_20140803_106-1024x682.jpg" alt="IMG_20140803_106" width="474" height="315" /></a>
+<a href="2014/08/IMG_20140803_106.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-797" src="https://images.rokaso.com/2014/08/IMG_20140803_106-1024x682.jpg" alt="IMG_20140803_106" width="474" height="315" /></a>
 
 * * *
 
-Tranzuoti yra lengva ir laukti ilgiau 15 minučių neteko. Žmonės bent po keleta žodžių angliškai moka, ir išeina susišnekėti.<a href="2014/08/IMG_20140805_139.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-798" src="2014/08/IMG_20140805_139-1024x576.jpg" alt="IMG_20140805_139" width="474" height="266" /></a> <a href="2014/08/IMG_20140805_144.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-799" src="2014/08/IMG_20140805_144-1024x576.jpg" alt="IMG_20140805_144" width="474" height="266" /></a>
+Tranzuoti yra lengva ir laukti ilgiau 15 minučių neteko. Žmonės bent po keleta žodžių angliškai moka, ir išeina susišnekėti.<a href="2014/08/IMG_20140805_139.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-798" src="https://images.rokaso.com/2014/08/IMG_20140805_139-1024x576.jpg" alt="IMG_20140805_139" width="474" height="266" /></a> <a href="2014/08/IMG_20140805_144.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-799" src="https://images.rokaso.com/2014/08/IMG_20140805_144-1024x576.jpg" alt="IMG_20140805_144" width="474" height="266" /></a>
 
 * * *
 
 Beje, kaip jums idėja – sporto parkelyje įrengti spinta knygų? Pasportuoji poto paskaitai.
 
-<a href="2014/08/IMG_20140806_157.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-795" src="2014/08/IMG_20140806_157-1024x682.jpg" alt="IMG_20140806_157" width="474" height="315" /></a>
+<a href="2014/08/IMG_20140806_157.jpg" rel="lightbox[773]"><img class="alignnone size-large wp-image-795" src="https://images.rokaso.com/2014/08/IMG_20140806_157-1024x682.jpg" alt="IMG_20140806_157" width="474" height="315" /></a>
 
 Šiam kartui tiek, kitas pasakojimas apie Japonija!
 
