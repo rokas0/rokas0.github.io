@@ -25,33 +25,33 @@ Sal island looks like a desert (or dessert, not sure which one, but I mean the o
 
 The islands were uninhabited until Portuguese in 16 century. As a slave trade began, lots of Africans were transported to the islands where Europeans were settling in as well. People mingled and created a new race which contains both European and African features. Probably something similar as in Brazil, another Portuguese colony, where around 100 million people have ancestors both Africans and Europeans.
 
-[<img class="alignnone size-medium wp-image-1896" src="https://images.rokaso.com/2017/12/CSC_0690-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/CSC_0690.jpg)
+[<img class="alignnone size-medium wp-image-1896" src="https://images.rokaso.com/2017/12/CSC_0690-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/CSC_0690.jpg)
 
 Even their hair bleaches because of the sun.
 
-[<img class="alignnone size-medium wp-image-1897" src="https://images.rokaso.com/2017/12/DSC_0504-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0504.jpg)
+[<img class="alignnone size-medium wp-image-1897" src="https://images.rokaso.com/2017/12/DSC_0504-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0504.jpg)
 
 ### Is Sal island in Cape Verde touristic?
 
 Yes and no. Yes in a town called Santa Maria, where all resorts are situated. There are only foreigners walking on a beach.
 
-[<img class="alignnone size-medium wp-image-1899" src="https://images.rokaso.com/2017/12/DSC_0904-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0904.jpg)
-[<img class="alignnone size-medium wp-image-1898" src="https://images.rokaso.com/2017/12/DSC_0910-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0910.jpg)
+[<img class="alignnone size-medium wp-image-1899" src="https://images.rokaso.com/2017/12/DSC_0904-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0904.jpg)
+[<img class="alignnone size-medium wp-image-1898" src="https://images.rokaso.com/2017/12/DSC_0910-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0910.jpg)
 
 However, if you walk for just 10-15 minutes away, you will find places rarely seen by any tourists. You know, Cape Verdian stuff&#8230; Kinds playing football, and that game you-throw-rock-I-protect-with-a-shield stuff.
 
-[<img class="alignnone size-medium wp-image-1900" src="https://images.rokaso.com/2017/12/DSC_1011-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1011.jpg)
-[<img class="alignnone size-medium wp-image-1902" src="https://images.rokaso.com/2017/12/DSC_1020-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1020.jpg)
+[<img class="alignnone size-medium wp-image-1900" src="https://images.rokaso.com/2017/12/DSC_1011-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1011.jpg)
+[<img class="alignnone size-medium wp-image-1902" src="https://images.rokaso.com/2017/12/DSC_1020-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1020.jpg)
 
 ### What are top things to see?
 
 a. Salt Pond. Remember your classmate’s pictures from the Dead Sea, where he been floating on his back and reading a newspaper? Well, the dead sea is not so unique as many ponds on the water around the world contain similar consistency of salt. It’s also on Cape Verde’s island Sal, where the name comes from meaning Salt. Entry is 5€ and another 1€ for the shower.
 
-[<img class="alignnone size-medium wp-image-1915" src="https://images.rokaso.com/2017/12/DSC_0226-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0226.jpg)
+[<img class="alignnone size-medium wp-image-1915" src="https://images.rokaso.com/2017/12/DSC_0226-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0226.jpg)
 
 b. Place where you can see baby sharks. Awwww. 6 hours hike away from Santa Maria, or just 30 minutes in a SUV or a quad, you will find a little rocky beach with people walking for a hundred metres into the sea with water level below their knees. They are looking for baby sharks, and to get a better Instagram picture, guides pour tuna blood into a sea to attract hungry young sharks.
 
-[<img class="alignnone size-medium wp-image-1921" src="https://images.rokaso.com/2017/12/DSC_1202-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1202.jpg)
+[<img class="alignnone size-medium wp-image-1921" src="https://images.rokaso.com/2017/12/DSC_1202-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1202.jpg)
 
 c. Blue Eye. A pond having unique blue colour. We visited the place, but couldn’t see the fuss about it. Probably because I can’t distinguish more than three shades of blue, or because it was still too dark outside
 
@@ -61,31 +61,31 @@ e. Hiking. We have done two proper hikes both spending a night under the stars.
 
 First was in northern part. Fauna (or more correctly no fauna) reassembled typical Saharan landscape – dry powdery sand and few brushes here and there. We met no other person in a way
 
-[<img class="alignnone size-medium wp-image-1925" src="https://images.rokaso.com/2017/12/DSC_0089-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0089.jpg)
+[<img class="alignnone size-medium wp-image-1925" src="https://images.rokaso.com/2017/12/DSC_0089-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0089.jpg)
 
 Another was compromised by unexpected treasures including sand dunes, cliffs, shipwrecks and Game of Throne rocks. It was a pleasant hike along the coast as well.
 
-[<img class="alignnone size-medium wp-image-1920" src="https://images.rokaso.com/2017/12/DSC_1188-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1188.jpg)
+[<img class="alignnone size-medium wp-image-1920" src="https://images.rokaso.com/2017/12/DSC_1188-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1188.jpg)
 
-[<img class="alignnone size-medium wp-image-1922" src="https://images.rokaso.com/2017/12/DSC_1261-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1261.jpg)
+[<img class="alignnone size-medium wp-image-1922" src="https://images.rokaso.com/2017/12/DSC_1261-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1261.jpg)
 
 f. Open air beach gym
 
-[<img class="alignnone size-medium wp-image-1930" src="https://images.rokaso.com/2017/12/CSC_0688-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/CSC_0688.jpg)
+[<img class="alignnone size-medium wp-image-1930" src="https://images.rokaso.com/2017/12/CSC_0688-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/CSC_0688.jpg)
 
 g. Chill out (or as locals say “No stress”) and enjoy pleasant weather, white sand and blue ocean! Staring at passers-by for hours and drinking your espresso is another hugely popular activity on the island. And enjoy Africa!
 
-[<img class="alignnone size-medium wp-image-1912" src="https://images.rokaso.com/2017/12/DSC_0558-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0558.jpg)
+[<img class="alignnone size-medium wp-image-1912" src="https://images.rokaso.com/2017/12/DSC_0558-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0558.jpg)
 
 ### How colourful is Cape Verde?
 
 Surprisingly, there are other colours than just black, greyish.
 
-[<img class="alignnone size-medium wp-image-1901" src="https://images.rokaso.com/2017/12/DSC_1016-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1016.jpg)
+[<img class="alignnone size-medium wp-image-1901" src="https://images.rokaso.com/2017/12/DSC_1016-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1016.jpg)
 
-[<img class="alignnone size-medium wp-image-1903" src="https://images.rokaso.com/2017/12/R0018268-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/R0018268.jpg)
+[<img class="alignnone size-medium wp-image-1903" src="https://images.rokaso.com/2017/12/R0018268-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/R0018268.jpg)
 
-[<img class="alignnone size-medium wp-image-1904" src="https://images.rokaso.com/2017/12/DSC_0249-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_0249.jpg)
+[<img class="alignnone size-medium wp-image-1904" src="https://images.rokaso.com/2017/12/DSC_0249-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_0249.jpg)
 
 ### What do they eat? Will I get food there?
 
@@ -93,11 +93,11 @@ Yeah. Full ocean of fish. People there are actually healthy looking due to the q
 
 No food grows on the island as it’s a desert, so everything has to be imported, but you can reasonably cheap get vegetables, red meat and chicken.
 
-[<img class="alignnone size-medium wp-image-1906" src="https://images.rokaso.com/2017/12/R0018346-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/R0018346.jpg)
+[<img class="alignnone size-medium wp-image-1906" src="https://images.rokaso.com/2017/12/R0018346-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/R0018346.jpg)
 
-[<img class="alignnone size-medium wp-image-1924" src="https://images.rokaso.com/2017/12/R0018275-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/R0018275.jpg)
+[<img class="alignnone size-medium wp-image-1924" src="https://images.rokaso.com/2017/12/R0018275-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/R0018275.jpg)
 
-[<img class="alignnone wp-image-1905 size-medium" src="https://images.rokaso.com/2017/12/R0018264-e1513866471148-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](2017/12/R0018264.jpg)
+[<img class="alignnone wp-image-1905 size-medium" src="https://images.rokaso.com/2017/12/R0018264-e1513866471148-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](https://images.rokaso.com/2017/12/R0018264.jpg)
 
 ### How to get out of the other island in Cape Verde?
 
@@ -105,7 +105,7 @@ Flight? You can book flights way in advance for a reasonable price. It&#8217;s a
 
 Ferry? It was our option. I checked the prices on the internet and it was a 20£ return to the closest island. When we landed, we headed straight to a port and asked about the ferry. The answer was &#8220;yes, it is a ferry tomorrow morning&#8221;. Hell yes! Let&#8217;s go! I started asking more questions, and one destroyed our hopes &#8211; &#8220;when it comes back?&#8221;. Travel agents just shrugged their shoulders and a silent &#8220;maybe in 5 days&#8230; maybe in 8 days&#8230;.&#8221;. So we ended up on the island for a whole week.
 
-[<img class="alignnone size-medium wp-image-1908" src="https://images.rokaso.com/2017/12/DSC_1046-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/DSC_1046.jpg)
+[<img class="alignnone size-medium wp-image-1908" src="https://images.rokaso.com/2017/12/DSC_1046-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/DSC_1046.jpg)
 
 ### What is Cape Verde slogan?
 
@@ -113,7 +113,7 @@ Ferry? It was our option. I checked the prices on the internet and it was a 20£
 
 Even shop owners grabbing your hand, pulling you out of your direction and shouting “no stress! Come to visiting my shop”.
 
-[<img class="alignnone size-medium wp-image-1913" src="https://images.rokaso.com/2017/12/R0010542-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/R0010542.jpg)
+[<img class="alignnone size-medium wp-image-1913" src="https://images.rokaso.com/2017/12/R0010542-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/R0010542.jpg)
 
 ### What languages do they speak?
 

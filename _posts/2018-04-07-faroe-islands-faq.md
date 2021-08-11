@@ -20,7 +20,7 @@ Recently we&#8217;ve visited Faroe islands so we got quick a few questions. Here
 
 No, it&#8217;s part of the Danish Kingdom which is combined of Denmark, Faroe Islands and Greenland. You can see the islands where is red dot.
 
-[<img class="alignnone size-medium wp-image-2202" src="https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.29.17-800x692.png" alt="" width="800" height="692"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/Screen-Shot-2018-04-07-at-10.29.17.png)
+[<img class="alignnone size-medium wp-image-2202" src="https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.29.17-800x692.png" alt="" width="800" height="692"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.29.17.png)
 
 **Is it expensive to get there?**
 
@@ -34,7 +34,7 @@ Although renting a car is suggested a way to visit islands, it&#8217;s not nec
 
 All places were comfortably reached by hitchhiking, hiking or ferry (ferry used to reach Nolsoy).
 
-[<img class="alignnone size-medium wp-image-2203" src="https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.38.45-800x589.png" alt="" width="800" height="589"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/Screen-Shot-2018-04-07-at-10.38.45.png)
+[<img class="alignnone size-medium wp-image-2203" src="https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.38.45-800x589.png" alt="" width="800" height="589"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/Screen-Shot-2018-04-07-at-10.38.45.png)
 
 **What is recommended a way of transport around islands?**
 
@@ -66,15 +66,15 @@ We got lucky with the weather. Most of the days it was just below freezing so in
 
 - **Gásadalur **village and waterfall. This is probably the most iconic image of the Faroe Islands. From a viewpoint, one can see few traditional environmentally-friendly houses in a background of a hill on a high cliff with a waterfall. For best picture, come just before sunset.
 
-[<img class="alignnone size-medium wp-image-2218" src="https://images.rokaso.com/2018/04/PANO_20180329_185730-1-800x374.jpg" alt="" width="800" height="374"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/PANO_20180329_185730-1.jpg)
+[<img class="alignnone size-medium wp-image-2218" src="https://images.rokaso.com/2018/04/PANO_20180329_185730-1-800x374.jpg" alt="" width="800" height="374"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/PANO_20180329_185730-1.jpg)
 
 - **Sørvágsvatn** the largest lake in the Faroe islands elevated from the sea. For the best picture, you would need a drone.
 
-[<img class="alignnone size-medium wp-image-2219" src="https://images.rokaso.com/2018/04/R0012136-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0012136-1.jpg)
+[<img class="alignnone size-medium wp-image-2219" src="https://images.rokaso.com/2018/04/R0012136-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0012136-1.jpg)
 
 - **Viðareiði**. The northernmost settlement in the Faroe Islands is between two stunning hills one of them is third highest in the archipelago.
 
-[<img class="alignnone size-medium wp-image-2217" src="https://images.rokaso.com/2018/04/R0012211-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0012211.jpg)
+[<img class="alignnone size-medium wp-image-2217" src="https://images.rokaso.com/2018/04/R0012211-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0012211.jpg)
 
 **What are top things to do?**
 
@@ -85,12 +85,12 @@ We got lucky with the weather. Most of the days it was just below freezing so in
 
 Yeah, m8
 
-[<img class="alignnone size-medium wp-image-2220" src="https://images.rokaso.com/2018/04/DSC_2215-1-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/DSC_2215-1.jpg)
-[<img class="alignnone size-medium wp-image-2221" src="https://images.rokaso.com/2018/04/R0020037-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0020037-1.jpg)
-[<img class="alignnone size-medium wp-image-2222" src="https://images.rokaso.com/2018/04/R0020151-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0020151-1.jpg)
-[<img class="alignnone size-medium wp-image-2223" src="https://images.rokaso.com/2018/04/R0020155-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0020155-1.jpg)
-[<img class="alignnone size-medium wp-image-2224" src="https://images.rokaso.com/2018/04/R0020215-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0020215-1.jpg)
-[<img class="alignnone size-medium wp-image-2225" src="https://images.rokaso.com/2018/04/R0020239-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](2018/04/R0020239-1.jpg)
+[<img class="alignnone size-medium wp-image-2220" src="https://images.rokaso.com/2018/04/DSC_2215-1-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/DSC_2215-1.jpg)
+[<img class="alignnone size-medium wp-image-2221" src="https://images.rokaso.com/2018/04/R0020037-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020037-1.jpg)
+[<img class="alignnone size-medium wp-image-2222" src="https://images.rokaso.com/2018/04/R0020151-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020151-1.jpg)
+[<img class="alignnone size-medium wp-image-2223" src="https://images.rokaso.com/2018/04/R0020155-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020155-1.jpg)
+[<img class="alignnone size-medium wp-image-2224" src="https://images.rokaso.com/2018/04/R0020215-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020215-1.jpg)
+[<img class="alignnone size-medium wp-image-2225" src="https://images.rokaso.com/2018/04/R0020239-1-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020239-1.jpg)
 
 That&#8217;s it. Enjoy The Faroe Islands, it&#8217;s highly recommended destination before tourism industry took off!
 

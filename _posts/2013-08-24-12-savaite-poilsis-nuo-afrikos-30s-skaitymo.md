@@ -21,16 +21,16 @@ Gyvūnai pasislėpe nuo žmonių. Kadangi čia dabar žiema, tai ir sutempsta 18
 
 Iki miesto keletas kilometru, ir keleta kartu buvau nuėjęs. Tada teko prisiminti, atrodo jau pasiilgtus žmones prašančius pinigų. Gerai, neleidžia užmiršti, kad esu Afrikoje.
 
-[<img class="alignnone size-medium wp-image-1520" src="https://images.rokaso.com/2013/08/20130729_IMG062-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2013/08/20130729_IMG062.jpg)
-[<img class="alignnone size-medium wp-image-1521" src="https://images.rokaso.com/2013/08/20130801_IMG065-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2013/08/20130801_IMG065.jpg)
+[<img class="alignnone size-medium wp-image-1520" src="https://images.rokaso.com/2013/08/20130729_IMG062-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130729_IMG062.jpg)
+[<img class="alignnone size-medium wp-image-1521" src="https://images.rokaso.com/2013/08/20130801_IMG065-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130801_IMG065.jpg)
 
-[<img class="size-medium wp-image-1522" src="https://images.rokaso.com/2013/08/20130801_IMG068-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2013/08/20130801_IMG068.jpg)
+[<img class="size-medium wp-image-1522" src="https://images.rokaso.com/2013/08/20130801_IMG068-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130801_IMG068.jpg)
 
 Monkeys today in camping site | Beždžionės į kempinga užsuko
 
-[<img class="size-medium wp-image-1523" src="https://images.rokaso.com/2013/08/20130802_IMG002-450x600.jpg" alt="" width="450" height="600"  sizes="(max-width: 450px) 100vw, 450px" />](2013/08/20130802_IMG002.jpg)
+[<img class="size-medium wp-image-1523" src="https://images.rokaso.com/2013/08/20130802_IMG002-450x600.jpg" alt="" width="450" height="600"  sizes="(max-width: 450px) 100vw, 450px" />](https://images.rokaso.com/2013/08/20130802_IMG002.jpg)
 
 Working office | Darbo ofisas
 
-[<img class="alignnone size-medium wp-image-1524" src="https://images.rokaso.com/2013/08/20130803_IMG003-450x600.jpg" alt="" width="450" height="600"  sizes="(max-width: 450px) 100vw, 450px" />](2013/08/20130803_IMG003.jpg)
-[<img class="alignnone size-medium wp-image-1525" src="https://images.rokaso.com/2013/08/20130804_IMG002-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2013/08/20130804_IMG002.jpg)
+[<img class="alignnone size-medium wp-image-1524" src="https://images.rokaso.com/2013/08/20130803_IMG003-450x600.jpg" alt="" width="450" height="600"  sizes="(max-width: 450px) 100vw, 450px" />](https://images.rokaso.com/2013/08/20130803_IMG003.jpg)
+[<img class="alignnone size-medium wp-image-1525" src="https://images.rokaso.com/2013/08/20130804_IMG002-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130804_IMG002.jpg)

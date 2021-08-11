@@ -33,7 +33,7 @@ AWS fits perfectly our problem to host single function to output calendar.
 
 The underlying architecture is pretty simple. A user views Google Calendars, which updates by calling our developed AWS Lambdas. First, the get Fitbit access token calling another lambda function, which retrieves it from DynamoDB and proceeds. If an error occurred with message *expired_token* when another lambda function is triggered to refresh it and also store in the database. It is described below
 
-[<img class="alignnone size-medium wp-image-1998" src="https://images.rokaso.com/2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg" alt="" width="600" height="338"  sizes="(max-width: 600px) 100vw, 600px" />](2017/12/Fitbit-and-Google-calendar-sync.jpg)
+[<img class="alignnone size-medium wp-image-1998" src="https://images.rokaso.com/2017/12/Fitbit-and-Google-calendar-sync-600x338.jpg" alt="" width="600" height="338"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2017/12/Fitbit-and-Google-calendar-sync.jpg)
 
 AWS Lambda pricing might [get tricky](https://aws.amazon.com/lambda/pricing/) but if you executing only several times a day, it&#8217;s basically free. You get plenty of free execution. For example, if you average execution would take whole 3 seconds twice a day for a month, it would be 30 (3s = 30 \* 100ms) \* 0.000000208 (price per 100ms of execution) \* 30 (avg. days in a month) \* 2 (twice a day) =  $0.0003744 which is still $0. Initially, I wanted to store the function on my EC2 server, but if Lambda function is basically free anyways, let&#8217;s do it there!
 
