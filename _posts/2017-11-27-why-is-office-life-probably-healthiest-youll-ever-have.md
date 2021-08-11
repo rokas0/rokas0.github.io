@@ -1,6 +1,6 @@
 ---
 id: 1846
-title: 'Why is office life probably healthiest you&#8217;ll ever have?'
+title: "Why is office life probably healthiest you&#8217;ll ever have?"
 date: 2017-11-27T08:24:31+00:00
 author: Rokas
 layout: post
@@ -10,6 +10,7 @@ image: 2017/11/R0016926-e1511771303447.jpg
 categories:
   - Letters
 ---
+
 You might have seen your classmates and childhood friends, who have active professions like a personal trainer, soldiers, mountain guides, and backpackers. They are fit, looking healthy and enjoying life. &#8220;Why wouldn&#8217;t they, as having opportunities to keep an active lifestyle&#8221; &#8211; you think.
 
 I had an idea back then, that if you backpack around the world, your general well-being increases. Well, because, one goes on hikes often, one walks a lot by wondering around the city, one can buy freshest fruits just off a tree, one meets lots of other people. Before my last trip to South America, I wondered to highly improve my physical wellbeing by spending a huge amount of time in nature, in the mountains hiking, in comparison to sitting behind a computer for days. Well, I failed miserably to achieve higher activity levels backpacking than working in an office.
@@ -26,21 +27,21 @@ Extended hours of sitting isn&#8217;t good. Your heart slows down, you become sl
 
 Getting or asking for a standing desk is always a great choice. It doesn&#8217;t have to be expensive as I been placing a laptop into a cupboard. In case of my office, it was just a matter of writing few emails, and weeks later, I got my (first in an office) standing desk. This way you&#8217;ll cut dangerous sitting time almost entirely.<figure id="attachment_1871" aria-describedby="caption-attachment-1871" style="width: 265px" class="wp-caption alignnone">
 
-[<img class="wp-image-1871 size-medium" src="https://images.rokaso.com/2017/11/R0016926-e1511771303447-265x400.jpg" alt="" width="265" height="400" srcset="2017/11/R0016926-e1511771303447-265x400.jpg 265w, 2017/11/R0016926-e1511771303447-464x700.jpg 464w, 2017/11/R0016926-e1511771303447-768x1160.jpg 768w, 2017/11/R0016926-e1511771303447-662x1000.jpg 662w, 2017/11/R0016926-e1511771303447-370x559.jpg 370w, 2017/11/R0016926-e1511771303447-1040x1570.jpg 1040w, 2017/11/R0016926-e1511771303447-530x800.jpg 530w" sizes="(max-width: 265px) 100vw, 265px" />](2017/11/R0016926-e1511771303447.jpg)<figcaption id="caption-attachment-1871" class="wp-caption-text">My free standing desk</figcaption></figure> 
+[<img class="wp-image-1871 size-medium" src="https://images.rokaso.com/2017/11/R0016926-e1511771303447-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](2017/11/R0016926-e1511771303447.jpg)<figcaption id="caption-attachment-1871" class="wp-caption-text">My free standing desk</figcaption></figure>
 
 **Hit gym in a morning **
 
 I started hitting a gym in a morning, before going to an office. There are several reasons why
 
-1) It gives you energy for a whole day
+1. It gives you energy for a whole day
 
-2) After a heavy squatting or deadlifting day, it takes me 4-6 hours to wind down and fall asleep. If I would workout in evenings, I would have troubles falling asleep.
+2. After a heavy squatting or deadlifting day, it takes me 4-6 hours to wind down and fall asleep. If I would workout in evenings, I would have troubles falling asleep.
 
-3) In mornings, gyms are emptier, as the majority of people tends to go after work
+3. In mornings, gyms are emptier, as the majority of people tends to go after work
 
-4) &#8220;Eat that frog&#8221;, and do the most difficult thing first things in a morning.
+4. &#8220;Eat that frog&#8221;, and do the most difficult thing first things in a morning.
 
-5) Jumping out of bed each morning is a proper way to start your day, in comparison to snoozing alarm. Just be aware, that it would take you few weeks to stop yawning in a gym and your body get used to the schedule. Please don&#8217;t go to the extremes and wake up 5 am next day if you normally wake up at 8 am. Make it a gradual change.
+5. Jumping out of bed each morning is a proper way to start your day, in comparison to snoozing alarm. Just be aware, that it would take you few weeks to stop yawning in a gym and your body get used to the schedule. Please don&#8217;t go to the extremes and wake up 5 am next day if you normally wake up at 8 am. Make it a gradual change.
 
 **Maintain healthy relationships**
 

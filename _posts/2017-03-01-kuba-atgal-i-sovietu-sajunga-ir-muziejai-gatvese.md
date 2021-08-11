@@ -1,6 +1,6 @@
 ---
 id: 1737
-title: 'Kuba &#8211; atgal į Sovietų Sąjunga, ir muziejai gatvėse'
+title: "Kuba &#8211; atgal į Sovietų Sąjunga, ir muziejai gatvėse"
 date: 2017-03-01T19:08:34+00:00
 author: Rokas
 layout: post
@@ -10,35 +10,36 @@ image: 2017/03/11080978_974878862523081_6720625060125700058_n.jpg
 categories:
   - Cuba
 ---
+
 **Kainos**
 
 26 CUP = 1 CUC
 
 1 CUC = 1 USD (Amerikos doleris)
 
-  *  Nakvynė: 
-      * _Casa particular_. Tai kambarys paprastų žmonių namuose, kurie išnuomuoja. Dažniausiai įeina televizorius, virtuvė ir svetingi šeimininkai. 15-26 CUC
-      * _Campismo_. Kempingas toliau nuo civilizacijos. Gauni nuosąvą namelį tipo kaip namelis ant ratų. 10 CUC
-  * Maistas: 
-      * 10 cm skersmens storapadės picos su keliais lašeliais sūrio. Randamos ant kiekvieno kampo. 5 CUP
-      * Kreminiai mikšti – 1 CUP. Kieti ir didesnė porcija – 5 CUP. Su įpakavimu – 1 CUC
-      * Kiogramas 3-8 CUP
-      * Kilogramas 20-40 CUP
-      * Didelė lėkštė su ryžiais, mėsa ir daržovėm. Gana  sunku rasti.30 CUP
-      * Spageti pagaminti Kuboje. 0,60 CUC. (0,70 CUP jeigu tai tavo maisto davinio dalis)
-  * Gėrimai: 
-      * Apie 40ml „čierka“. 1 CUP
-      * Stiklinė limonado ar sulčių. 1-2 CUP
-      * Skardinė limonado. 1 CUC (25 kartus daugiau dėlto kad skardinėje)
-      * Minelarinis vanduo. Litras – 0.75 CUP
-  * Transportas 50km 
-      * Tai senas sunkvežimis, kurio bagažinė pritaikyta vežti žmones. Teoriškai jais važinėti turistams negalima. Praktiškai tik 1 kartą neįleido. 5-20 CUP
-      * Remontuotas, taisytas, dažytas bet visdar važiuojantis 3 CUC
-  * Pramogos 
-      * Kinas – 1-2 CUP (Labai pigiai. Socialistinė filosofija, kad tai priklauso žmonėms)
-      * Teatras – 3-5 CUP
-      * Internetas – 4,80 CUC
-      * Nacionalinis parkas &#8211; 20 CUP + 5 CUP už fotokameros leidimą
+- Nakvynė:
+  - _Casa particular_. Tai kambarys paprastų žmonių namuose, kurie išnuomuoja. Dažniausiai įeina televizorius, virtuvė ir svetingi šeimininkai. 15-26 CUC
+  - _Campismo_. Kempingas toliau nuo civilizacijos. Gauni nuosąvą namelį tipo kaip namelis ant ratų. 10 CUC
+- Maistas:
+  - 10 cm skersmens storapadės picos su keliais lašeliais sūrio. Randamos ant kiekvieno kampo. 5 CUP
+  - Kreminiai mikšti – 1 CUP. Kieti ir didesnė porcija – 5 CUP. Su įpakavimu – 1 CUC
+  - Kiogramas 3-8 CUP
+  - Kilogramas 20-40 CUP
+  - Didelė lėkštė su ryžiais, mėsa ir daržovėm. Gana  sunku rasti.30 CUP
+  - Spageti pagaminti Kuboje. 0,60 CUC. (0,70 CUP jeigu tai tavo maisto davinio dalis)
+- Gėrimai:
+  - Apie 40ml „čierka“. 1 CUP
+  - Stiklinė limonado ar sulčių. 1-2 CUP
+  - Skardinė limonado. 1 CUC (25 kartus daugiau dėlto kad skardinėje)
+  - Minelarinis vanduo. Litras – 0.75 CUP
+- Transportas 50km
+  - Tai senas sunkvežimis, kurio bagažinė pritaikyta vežti žmones. Teoriškai jais važinėti turistams negalima. Praktiškai tik 1 kartą neįleido. 5-20 CUP
+  - Remontuotas, taisytas, dažytas bet visdar važiuojantis 3 CUC
+- Pramogos
+  - Kinas – 1-2 CUP (Labai pigiai. Socialistinė filosofija, kad tai priklauso žmonėms)
+  - Teatras – 3-5 CUP
+  - Internetas – 4,80 CUC
+  - Nacionalinis parkas &#8211; 20 CUP + 5 CUP už fotokameros leidimą
 
 Baigėsi mėnesio išsūkis išbūti be interneto. Gerai, Kuboje buvo internetas, bet brangus. Valanda kainuoja tiek pat, kiek 15 kilogramų pomidorų. Ir netgi reikia stovėti eilėje valandą.
 
@@ -78,10 +79,10 @@ Gerai, kad buvo Sovietų Sąjunga, kuri atsiųsdavo senų „žiguliuku“ ar �
 
 Interneto kaina realiai didelė. Paprastas žmogus už visą savo mėnesio atlyginimą gali nusipirkti 5 valandas interneto. Todėl maniau, kad eilių prie interneto kavinės nebus. Klydau. Ir labai klydau. Eilė tesėsi už durų ir teko laukti visą valandą.
 
-[<img class="alignnone size-medium wp-image-1738" src="https://images.rokaso.com/2017/03/11080978_974878862523081_6720625060125700058_n-267x400.jpg" alt="" width="267" height="400" srcset="2017/03/11080978_974878862523081_6720625060125700058_n-267x400.jpg 267w, 2017/03/11080978_974878862523081_6720625060125700058_n-467x700.jpg 467w, 2017/03/11080978_974878862523081_6720625060125700058_n-534x800.jpg 534w, 2017/03/11080978_974878862523081_6720625060125700058_n-370x554.jpg 370w, 2017/03/11080978_974878862523081_6720625060125700058_n.jpg 641w" sizes="(max-width: 267px) 100vw, 267px" />](2017/03/11080978_974878862523081_6720625060125700058_n.jpg) 
-[<img class="alignnone size-medium wp-image-1739" src="https://images.rokaso.com/2017/03/11075125_974879425856358_9127635311494204049_n-267x400.jpg" alt="" width="267" height="400" srcset="2017/03/11075125_974879425856358_9127635311494204049_n-267x400.jpg 267w, 2017/03/11075125_974879425856358_9127635311494204049_n-467x700.jpg 467w, 2017/03/11075125_974879425856358_9127635311494204049_n-534x800.jpg 534w, 2017/03/11075125_974879425856358_9127635311494204049_n-370x554.jpg 370w, 2017/03/11075125_974879425856358_9127635311494204049_n.jpg 641w" sizes="(max-width: 267px) 100vw, 267px" />](2017/03/11075125_974879425856358_9127635311494204049_n.jpg) 
-[<img class="alignnone size-medium wp-image-1740" src="https://images.rokaso.com/2017/03/10806315_974879295856371_7729124174387608615_n-600x400.jpg" alt="" width="600" height="400" srcset="2017/03/10806315_974879295856371_7729124174387608615_n-600x400.jpg 600w, 2017/03/10806315_974879295856371_7729124174387608615_n-800x534.jpg 800w, 2017/03/10806315_974879295856371_7729124174387608615_n-768x513.jpg 768w, 2017/03/10806315_974879295856371_7729124174387608615_n-370x247.jpg 370w, 2017/03/10806315_974879295856371_7729124174387608615_n.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](2017/03/10806315_974879295856371_7729124174387608615_n.jpg) 
-[<img class="alignnone size-medium wp-image-1741" src="https://images.rokaso.com/2017/03/10406367_974879252523042_526693172793179445_n-267x400.jpg" alt="" width="267" height="400" srcset="2017/03/10406367_974879252523042_526693172793179445_n-267x400.jpg 267w, 2017/03/10406367_974879252523042_526693172793179445_n-467x700.jpg 467w, 2017/03/10406367_974879252523042_526693172793179445_n-534x800.jpg 534w, 2017/03/10406367_974879252523042_526693172793179445_n-370x554.jpg 370w, 2017/03/10406367_974879252523042_526693172793179445_n.jpg 641w" sizes="(max-width: 267px) 100vw, 267px" />](2017/03/10406367_974879252523042_526693172793179445_n.jpg) 
-[<img class="alignnone size-medium wp-image-1742" src="https://images.rokaso.com/2017/03/11071411_974879775856323_9054761936423747665_n-600x400.jpg" alt="" width="600" height="400" srcset="2017/03/11071411_974879775856323_9054761936423747665_n-600x400.jpg 600w, 2017/03/11071411_974879775856323_9054761936423747665_n-800x534.jpg 800w, 2017/03/11071411_974879775856323_9054761936423747665_n-768x513.jpg 768w, 2017/03/11071411_974879775856323_9054761936423747665_n-370x247.jpg 370w, 2017/03/11071411_974879775856323_9054761936423747665_n.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](2017/03/11071411_974879775856323_9054761936423747665_n.jpg) 
-[<img class="alignnone size-medium wp-image-1743" src="https://images.rokaso.com/2017/03/11070166_974879652523002_4068028309302637821_n-600x400.jpg" alt="" width="600" height="400" srcset="2017/03/11070166_974879652523002_4068028309302637821_n-600x400.jpg 600w, 2017/03/11070166_974879652523002_4068028309302637821_n-800x534.jpg 800w, 2017/03/11070166_974879652523002_4068028309302637821_n-768x513.jpg 768w, 2017/03/11070166_974879652523002_4068028309302637821_n-370x247.jpg 370w, 2017/03/11070166_974879652523002_4068028309302637821_n.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](2017/03/11070166_974879652523002_4068028309302637821_n.jpg) 
-[<img class="alignnone size-medium wp-image-1744" src="https://images.rokaso.com/2017/03/10432097_974879115856389_8675811133499769481_n-600x400.jpg" alt="" width="600" height="400" srcset="2017/03/10432097_974879115856389_8675811133499769481_n-600x400.jpg 600w, 2017/03/10432097_974879115856389_8675811133499769481_n-800x534.jpg 800w, 2017/03/10432097_974879115856389_8675811133499769481_n-768x513.jpg 768w, 2017/03/10432097_974879115856389_8675811133499769481_n-370x247.jpg 370w, 2017/03/10432097_974879115856389_8675811133499769481_n.jpg 960w" sizes="(max-width: 600px) 100vw, 600px" />](2017/03/10432097_974879115856389_8675811133499769481_n.jpg)
+[<img class="alignnone size-medium wp-image-1738" src="https://images.rokaso.com/2017/03/11080978_974878862523081_6720625060125700058_n-267x400.jpg" alt="" width="267" height="400"  sizes="(max-width: 267px) 100vw, 267px" />](2017/03/11080978_974878862523081_6720625060125700058_n.jpg)
+[<img class="alignnone size-medium wp-image-1739" src="https://images.rokaso.com/2017/03/11075125_974879425856358_9127635311494204049_n-267x400.jpg" alt="" width="267" height="400"  sizes="(max-width: 267px) 100vw, 267px" />](2017/03/11075125_974879425856358_9127635311494204049_n.jpg)
+[<img class="alignnone size-medium wp-image-1740" src="https://images.rokaso.com/2017/03/10806315_974879295856371_7729124174387608615_n-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/03/10806315_974879295856371_7729124174387608615_n.jpg)
+[<img class="alignnone size-medium wp-image-1741" src="https://images.rokaso.com/2017/03/10406367_974879252523042_526693172793179445_n-267x400.jpg" alt="" width="267" height="400"  sizes="(max-width: 267px) 100vw, 267px" />](2017/03/10406367_974879252523042_526693172793179445_n.jpg)
+[<img class="alignnone size-medium wp-image-1742" src="https://images.rokaso.com/2017/03/11071411_974879775856323_9054761936423747665_n-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/03/11071411_974879775856323_9054761936423747665_n.jpg)
+[<img class="alignnone size-medium wp-image-1743" src="https://images.rokaso.com/2017/03/11070166_974879652523002_4068028309302637821_n-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/03/11070166_974879652523002_4068028309302637821_n.jpg)
+[<img class="alignnone size-medium wp-image-1744" src="https://images.rokaso.com/2017/03/10432097_974879115856389_8675811133499769481_n-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](2017/03/10432097_974879115856389_8675811133499769481_n.jpg)
