@@ -131,7 +131,9 @@ I ended up using a desktop in Amazon Web Services (AWS) cloud called Amazon Work
 <div id="js_6z" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <div id="id_5a19220c5e44e7162859785" class="text_exposed_root text_exposed">
     <p>
-      Google artificial intelligence and machine algorithms are advancing fast! My main reason to move Google photos, mainly because of an interface and assistant, which frequently offers picture enhancements. The other day, I got auto-generated collage, and I was shocked how good it was, mainly because:<br /> (1) Both pictures were perfectly cropped into a frame<br /> (2) It was completely 2 random pictures. One taken last week on the top of the highest peak in Irelan<span class="text_exposed_show">d Carrauntoohil (1,038m), while another half a year ago in Ecuador on a random peak (Iliniza Norte) raising 5116m above sea level. In Google Photos I&#8217;ve 10 000+ moments stored, and it picked up both on the top of a peak. An algorithm should be pretty darn good to find similar moments.</span>
+      Google artificial intelligence and machine algorithms are advancing fast! My main reason to move Google photos, mainly because of an interface and assistant, which frequently offers picture enhancements. The other day, I got auto-generated collage, and I was shocked how good it was, mainly because:
+ (1) Both pictures were perfectly cropped into a frame
+ (2) It was completely 2 random pictures. One taken last week on the top of the highest peak in Irelan<span class="text_exposed_show">d Carrauntoohil (1,038m), while another half a year ago in Ecuador on a random peak (Iliniza Norte) raising 5116m above sea level. In Google Photos I&#8217;ve 10 000+ moments stored, and it picked up both on the top of a peak. An algorithm should be pretty darn good to find similar moments.</span>
     </p>
     
     <div class="text_exposed_show">
@@ -143,13 +145,16 @@ I ended up using a desktop in Amazon Web Services (AWS) cloud called Amazon Work
   <div data-ft="{&quot;tn&quot;:&quot;H&quot;}">
     <div class="mtm">
       <div class="_2a2q">
-        <figure id="attachment_1863" aria-describedby="caption-attachment-1863" style="width: 533px" class="wp-caption alignnone"><a href="2017/11/23668881_10215461573638296_5354618564819991642_o.jpg"><img class="wp-image-1863 size-medium" src="https://images.rokaso.com/2017/11/23668881_10215461573638296_5354618564819991642_o-533x400.jpg" alt="" width="533" height="400"  sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption id="caption-attachment-1863" class="wp-caption-text">Google auto-generated picture &#8220;Then & Now&#8221;</figcaption></figure> 
+        <figure id="attachment_1863" aria-describedby="caption-attachment-1863" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2017/11/23668881_10215461573638296_5354618564819991642_o-533x400.jpg' %}
+<figcaption id="caption-attachment-1863" class="wp-caption-text">Google auto-generated picture &#8220;Then & Now&#8221;</figcaption></figure> 
         
         <p>
           &nbsp;
         </p><figure id="attachment_1864" aria-describedby="caption-attachment-1864" style="width: 600px" class="wp-caption alignnone">
         
-        <a href="2017/11/23592071_10215461574358314_5575744746523548304_o.jpg"><img class="wp-image-1864 size-medium" src="https://images.rokaso.com/2017/11/23592071_10215461574358314_5575744746523548304_o-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-1864" class="wp-caption-text">Original picture 2017 April in Ecuador</figcaption></figure> <figure id="attachment_1865" aria-describedby="caption-attachment-1865" style="width: 600px" class="wp-caption alignnone"><a href="2017/11/23550385_10215461574318313_2343067906176958303_o.jpg"><img class="wp-image-1865 size-medium" src="https://images.rokaso.com/2017/11/23550385_10215461574318313_2343067906176958303_o-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-1865" class="wp-caption-text">Original picture in Ireland 2017 November</figcaption></figure>
+        {% include imgs.html src='2017/11/23592071_10215461574358314_5575744746523548304_o-600x397.jpg' %}
+<figcaption id="caption-attachment-1864" class="wp-caption-text">Original picture 2017 April in Ecuador</figcaption></figure> <figure id="attachment_1865" aria-describedby="caption-attachment-1865" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/11/23550385_10215461574318313_2343067906176958303_o-600x397.jpg' %}
+<figcaption id="caption-attachment-1865" class="wp-caption-text">Original picture in Ireland 2017 November</figcaption></figure>
       </div>
       
       <div>

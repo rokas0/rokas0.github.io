@@ -16,17 +16,18 @@ tags:
   - Belarus
   - Lithuania
 ---
+
 Labas!
 
 Prasidėjo trumpai planuota, bet ilgai laukta (gaut naują pasą, Rusijos ir Azerbaidžiano vizą užtruko beveik 4 mėnesius!).
 
 Pagal kiniečių filosofą Laozi pasakymą „Tūkstančių mylių kelionė prasideda paprastu žingsniu“. Taigi žingsnis buvo išmindyti iš gimtojo miesto ribų.
 
-<img class="alignnone size-large wp-image-521" src="https://images.rokaso.com/2014/05/IMG_20140425_06-1024x682.jpg" alt="IMG_20140425_06" width="474" height="315" /> 
+<img class="alignnone size-large wp-image-521" src="https://images.rokaso.com/2014/05/IMG_20140425_06-1024x682.jpg" alt="IMG_20140425_06" width="474" height="315" />
 
 Dabar trumpa statistika ir kiti beprasmiai, nereikalingi skaičiai. Pirmąją savaitę mindžiau 3 su puse dienos ir nukeliavau 525km. Rinkausi mažiau važinėjamus, ramesnius, vaizdingesnius (tikriausiai) keliukus.
 
-<a href="2014/05/IMG_20140425_06.jpg" rel="lightbox[520]"><img class="alignnone size-full wp-image-536" src="https://images.rokaso.com/2014/05/week1.png" alt="week1" width="474" height="461" /></a>
+{% include imgs.html src='2014/05/week1.png' %}
 
 **Lietuva!**
 
@@ -40,7 +41,10 @@ Nebekalbu apie pietinę ir rytinę Afriką kur visas kraštovaizdis yra žabai i
 
 Todėl lankantis gimtinėje visados smagu pasiklysti miškuose, gamtoje.
 
-<a href="2014/05/IMG_20140425_18.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-530" src="https://images.rokaso.com/2014/05/IMG_20140426_58-682x1024.jpg" alt="IMG_20140426_58" width="474" height="711" /><img class="alignnone size-large wp-image-523" src="https://images.rokaso.com/2014/05/IMG_20140425_18-1024x682.jpg" alt="IMG_20140425_18" width="474" height="315" /></a> <a href="2014/05/IMG_20140425_19.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-524" src="https://images.rokaso.com/2014/05/IMG_20140425_19-1024x682.jpg" alt="IMG_20140425_19" width="474" height="315" /></a> <a href="2014/05/IMG_20140425_30.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-525" src="https://images.rokaso.com/2014/05/IMG_20140425_30-682x1024.jpg" alt="IMG_20140425_30" width="474" height="711" /></a><img class="alignnone size-large wp-image-531" src="https://images.rokaso.com/2014/05/IMG_20140426_61-1024x682.jpg" alt="IMG_20140426_61" width="474" height="315" /> <a href="2014/05/IMG_20140425_35.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-526" src="https://images.rokaso.com/2014/05/IMG_20140425_35-682x1024.jpg" alt="IMG_20140425_35" width="474" height="711" /></a><a href="2014/05/IMG_20140426_40.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-527" src="https://images.rokaso.com/2014/05/IMG_20140426_40-1024x682.jpg" alt="IMG_20140426_40" width="474" height="315" /></a>
+<a href="2014/05/IMG_20140425_18.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-530" src="https://images.rokaso.com/2014/05/IMG_20140426_58-682x1024.jpg" alt="IMG_20140426_58" width="474" height="711" /><img class="alignnone size-large wp-image-523" src="https://images.rokaso.com/2014/05/IMG_20140425_18-1024x682.jpg" alt="IMG_20140425_18" width="474" height="315" /></a> {% include imgs.html src='2014/05/IMG_20140425_19-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140425_30-682x1024.jpg' %}
+<img class="alignnone size-large wp-image-531" src="https://images.rokaso.com/2014/05/IMG_20140426_61-1024x682.jpg" alt="IMG_20140426_61" width="474" height="315" /> {% include imgs.html src='2014/05/IMG_20140425_35-682x1024.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140426_40-1024x682.jpg' %}
 
 **2. Kultūra**
 
@@ -50,7 +54,8 @@ Danijos virtuvė irgi nežiba. Tik atvykę turėjome klausimą, kurioje kavinėj
 
 Taigi kada tik grįžus į gimtinę smagu atrasti kažką, ko jokiame kitame pasaulio krašte nėra!
 
-<a href="2014/05/IMG_20140426_48.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-528" src="https://images.rokaso.com/2014/05/IMG_20140426_48-1024x682.jpg" alt="IMG_20140426_48" width="474" height="315" /></a><a href="2014/05/IMG_20140426_50.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-529" src="https://images.rokaso.com/2014/05/IMG_20140426_50-1024x682.jpg" alt="IMG_20140426_50" width="474" height="315" /></a>
+{% include imgs.html src='2014/05/IMG_20140426_48-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140426_50-1024x682.jpg' %}
 
 **Nepriima baltarusiai pas save į valstybę!**
 
@@ -62,7 +67,9 @@ Medininkų poste įleido be didesnių klausimų.
 
 Baltarusija garsėja savo švara. Vietiniai juokauja, kad jie ne ką mažiau šiukšlina negu kitos šalys. Gatvių valymas tai dažniausiai socialinis darbas (už nuodėmes), bet kai kurie tai pasirenka kaip profesija.
 
-<a href="2014/05/IMG_20140427_04.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-532" src="https://images.rokaso.com/2014/05/IMG_20140427_04-1024x682.jpg" alt="IMG_20140427_04" width="474" height="315" /></a> <a href="2014/05/IMG_20140427_13.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-533" src="https://images.rokaso.com/2014/05/IMG_20140427_13-1024x682.jpg" alt="IMG_20140427_13" width="474" height="315" /></a> <a href="2014/05/IMG_20140428_31.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-535" src="https://images.rokaso.com/2014/05/IMG_20140428_31-1024x682.jpg" alt="IMG_20140428_31" width="474" height="315" /></a>
+{% include imgs.html src='2014/05/IMG_20140427_04-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140427_13-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140428_31-1024x682.jpg' %}
 
 Baltarusiai tiki, kad Lietuvos Dydžioji kūnigaikštystė būvo jų šalis. Bet kasgi ten žino, kas buvo prieš 500 metų.
 
@@ -70,9 +77,11 @@ Kalba jie rusiškai, nors ir turi savo baltarusių kalbą. Juokaudami sako, kad 
 
 &nbsp;
 
-<a href="2014/05/IMG_20140429_10.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-538" src="https://images.rokaso.com/2014/05/IMG_20140429_10-1024x682.jpg" alt="IMG_20140429_10" width="474" height="315" /></a> <a href="2014/05/IMG_20140501_12.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-539" src="https://images.rokaso.com/2014/05/IMG_20140501_12-1024x682.jpg" alt="IMG_20140501_12" width="474" height="315" /></a>
+{% include imgs.html src='2014/05/IMG_20140429_10-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140501_12-1024x682.jpg' %}
 
-Vienas iš keisčiausių pasaulio pastatų &#8211; viešoji biblioteka. Gyventojai keiksnoja ją, nes ji buvo pastatyta žmonių aukų lėšomis. Kiekvienas gyventojas turėjo bent kažkiek prisidėti prie statybos.<a href="2014/05/IMG_20140501_13.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-540" src="https://images.rokaso.com/2014/05/IMG_20140501_13-1024x682.jpg" alt="IMG_20140501_13" width="474" height="315" /></a><a href="2014/05/IMG_20140501_16.jpg" rel="lightbox[520]"><img class="alignnone size-large wp-image-541" src="https://images.rokaso.com/2014/05/IMG_20140501_16-1024x682.jpg" alt="IMG_20140501_16" width="474" height="315" /></a>
+Vienas iš keisčiausių pasaulio pastatų &#8211; viešoji biblioteka. Gyventojai keiksnoja ją, nes ji buvo pastatyta žmonių aukų lėšomis. Kiekvienas gyventojas turėjo bent kažkiek prisidėti prie statybos.{% include imgs.html src='2014/05/IMG_20140501_13-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140501_16-1024x682.jpg' %}
 
 Šitam kartui tiek, tai buvo mano pirmoji kelionės savaitė. Jau pasiekiau Rusiją, bet apie tai kiek vėliau.
 
@@ -88,4 +97,5 @@ Osvaldas
     </div>
     
     <p>
-      <br /> <fb:like href="http://www.rokaso.com/2014/05/savaite-1-kodel-isimylejau-lietuva-is-naujo-kodel-nepriime-i-baltarusija/" send="false" layout="button_count" width="450" show_faces="false" font=""></fb:like> </div> </div>
+      
+ <fb:like href="http://www.rokaso.com/2014/05/savaite-1-kodel-isimylejau-lietuva-is-naujo-kodel-nepriime-i-baltarusija/" send="false" layout="button_count" width="450" show_faces="false" font=""></fb:like> </div> </div>

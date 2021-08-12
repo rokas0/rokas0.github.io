@@ -1,6 +1,6 @@
 ---
 id: 573
-title: 'Madagaskaras II: transportas reikalauja kantrybės, ir didelės'
+title: "Madagaskaras II: transportas reikalauja kantrybės, ir didelės"
 date: 2013-06-01T00:00:00+00:00
 author: Rokas
 layout: post
@@ -15,6 +15,7 @@ categories:
 tags:
   - Madagascar
 ---
+
 <div class="entry-content">
   <p>
     Prastokai Madagaskare su viešuoju transportu. Praėjus valandai po saulėtekio jau stovėjau prie kelio, ir laukiu, laukiu… Po valandos pravažiuoja pirma transporto priemonė, motociklas su 2 žmonėmis ir dar puspilniu ryžiu maišu ant bagažinės, pakelia ranką, nusišypso, ir nuvažiuoja. Dar palaukiau ir padariau išvada, kad greičiau bus iš vietinio kaimelio rast transportą. Pakeliui iki jo, dar vandens telkinį radau, išsimaudžiau, išsiploviau pagrindinius rūbus, ir toliau žygiuoju. Kaimelyje stovėjo sunkvežimis, kuris kėbule gali vežti keliauvius. Apsidžiaugiau, ir einu iki jo. Vairuotojas laimingai šypsojosi, bet nelabai suprato, ko noriu. Iš už kampo pasirodė kareivinę aprangą apsirengęs pilietis ir skrybėle pasipuošęs žmogus, kuris, paklaustas vardo, prašė visus jį vadinti Papa. Su tradiciniais brėžiniais ant smėlio (ir štai Afrikos privalumas, kokiame Milano centre nepabraižysi taip, ir reikia nešiotis popierių ir tušinuką), paaiškinau kur noriu, nebuvo sudėtinga, nes tik apie 40km tiesiai vieninteliu per kaimelį einančiu keliu. Papa džiaugsmingai suriko ”ooo, aš irgi pakeliui važiuoju. Važiuojam kartu.”. Ir dar pridūrė jau gana tradiciniu pasidariusia Afrikoje fraze ”išvažiuojame dabar.”. ”Labai gerai!” – atsakiau, ir pridūriau: ”Aš tik nubėgu prisipilti vandens ir galime keliauti“. Tik vėliau vėl pavirtino Madagaskaras, kad čia ”dabar” nereiškia to paties, ką ir Europoje.
@@ -25,7 +26,8 @@ tags:
   </p>
   
   <p>
-    Stovime trise, ir laukiu transporto. Ką gi, neilgai trukus supratau, kad greit neišvažiuosime, tas sunkvežimis niekur nesiruošia važiuoti, o mikroautobusiukų, džipu ar kitų sunkvežimių važiuojančių pro kaimelį nesimato. Kas valandą ar dvi pravažiuoja po vieną, ir tai ypatingai perkrauti, iki tokio lygio, kad keletui žmonių nebuvo vietos viduje, ir jie laikosi už stogo ir stovi ant buferio.<br /> Laukdamas aprodau kuprinę susidomėjusiems vietiniams, nepabijojusiems prieiti ir pasisveikinti su keliautoju. Jie pakiloja kuprinę, kai kurie vaidina, kad labai sunki, ir todėl net negali pakelti. Jie apžiūri mano minkštąjį miegojimo kilimėlį, paspaudžia. Dažnai šneka tik malagasių kalba, todėl į kitus klausimus, jie gauną mano lietuvišką atsakymą ”ne, žinokit, nesuprantu, ką šnekat”.
+    Stovime trise, ir laukiu transporto. Ką gi, neilgai trukus supratau, kad greit neišvažiuosime, tas sunkvežimis niekur nesiruošia važiuoti, o mikroautobusiukų, džipu ar kitų sunkvežimių važiuojančių pro kaimelį nesimato. Kas valandą ar dvi pravažiuoja po vieną, ir tai ypatingai perkrauti, iki tokio lygio, kad keletui žmonių nebuvo vietos viduje, ir jie laikosi už stogo ir stovi ant buferio.
+ Laukdamas aprodau kuprinę susidomėjusiems vietiniams, nepabijojusiems prieiti ir pasisveikinti su keliautoju. Jie pakiloja kuprinę, kai kurie vaidina, kad labai sunki, ir todėl net negali pakelti. Jie apžiūri mano minkštąjį miegojimo kilimėlį, paspaudžia. Dažnai šneka tik malagasių kalba, todėl į kitus klausimus, jie gauną mano lietuvišką atsakymą ”ne, žinokit, nesuprantu, ką šnekat”.
   </p>
   
   <p>
