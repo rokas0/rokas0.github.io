@@ -40,12 +40,9 @@ Ištranzuoti iš afrikietišku didmiesčių įdomu. Kodėl? Nes daug mašinų. V
 
 {% include imgs.html src='2013/11/IMG_7932-Edit.jpg' %}
 
-<figure id="attachment_1685" aria-describedby="caption-attachment-1685" style="width: 533px" class="wp-caption alignnone">
-
 {% include imgs.html src='2013/11/IMG_7955-Edit.jpg' %}
 
-<figcaption id="caption-attachment-1685" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1686" aria-describedby="caption-attachment-1686" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/11/IMG_7958-Edit.jpg' %}
-<figcaption id="caption-attachment-1686" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1687" aria-describedby="caption-attachment-1687" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/11/IMG_7967-Edit.jpg' %}
-<figcaption id="caption-attachment-1687" class="wp-caption-text"></figcaption></figure>
+{% include imgs.html src='2013/11/IMG_7958-Edit.jpg' %}
+{% include imgs.html src='2013/11/IMG_7967-Edit.jpg' %}
 
 {% include imgs.html src='2013/11/IMG_8028-Edit.jpg' %}

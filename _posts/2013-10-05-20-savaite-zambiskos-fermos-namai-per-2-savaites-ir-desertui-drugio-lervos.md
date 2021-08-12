@@ -20,23 +20,18 @@ Toliau tranzavau ir kitą vakarą praleidau ir nakvojau tradicinėje Zambiškoje
 Pagaliau pasiekiau kaimelį, kuriame turėjau kontaktus pažįstamų, kur galėjau apsistoti. Kaimelis toks mažas kad paklausus antro žmogaus kur gyvena Chintu šeima, tai jis jai priklausė ir jau keleta dienų laukė. Apvedžiojo mane po Matumbo miestelį, aprodė draugams.  
 Kita dieną turėjau ekskursiją apie apylinkes. Zambijoje žmonės gyvenantis už miesto ribų viską namų statybai pasigamina patys. Plytų gamyba paprasta. Iškasa kieme esanti molį, sudeda į formas, ir kartais išdega jas sukurdami laužą apačioje. Stogą iš šiaudų daro. Netgi gamtinius dažus randa miške. Eilinį namą užtrunka pastatyti tik 1-2 savaites. Maisto pramonėje viskas taip pat rankomis. Žemės riešutus patys gliaudo. Netgi grūdus traiško trindami akmenį į akmenį. Atrodo kad senovės lietuviai galėtų juos išmokyti kaip vėjo malūnus daryti ar pakinkyti gyvulius.
 
-Zambijoje kur tik pažiūrėsi išdegusi žolė. Kodėl? Nes tada krūmuose nesislėps gyvatės ir bus saugu eiti. Tada bus galima rinkti drugio lervas nuo medžių ir poto šeima turės skanėstų . Teko ragauti šito deserto kepto aliejuje.<figure id="attachment_1649" aria-describedby="caption-attachment-1649" style="width: 533px" class="wp-caption alignnone">
+Zambijoje kur tik pažiūrėsi išdegusi žolė. Kodėl? Nes tada krūmuose nesislėps gyvatės ir bus saugu eiti. Tada bus galima rinkti drugio lervas nuo medžių ir poto šeima turės skanėstų . Teko ragauti šito deserto kepto aliejuje.
 
 {% include imgs.html src='2013/10/IMG_7388-Edit.jpg' %}
-
-<figcaption id="caption-attachment-1649" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1650" aria-describedby="caption-attachment-1650" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7411-Edit.jpg' %}
-<figcaption id="caption-attachment-1650" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1651" aria-describedby="caption-attachment-1651" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7439-Edit.jpg' %}
-<figcaption id="caption-attachment-1651" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1652" aria-describedby="caption-attachment-1652" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7445-Edit.jpg' %}
-<figcaption id="caption-attachment-1652" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1653" aria-describedby="caption-attachment-1653" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7454-Edit.jpg' %}
-<figcaption id="caption-attachment-1653" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1654" aria-describedby="caption-attachment-1654" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7485-Edit.jpg' %}
-<figcaption id="caption-attachment-1654" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1655" aria-describedby="caption-attachment-1655" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7489-Edit.jpg' %}
-<figcaption id="caption-attachment-1655" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1656" aria-describedby="caption-attachment-1656" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7520-Edit.jpg' %}
-<figcaption id="caption-attachment-1656" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1657" aria-describedby="caption-attachment-1657" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7524-Edit.jpg' %}
-<figcaption id="caption-attachment-1657" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1658" aria-describedby="caption-attachment-1658" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7549-Edit.jpg' %}
-<figcaption id="caption-attachment-1658" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1659" aria-describedby="caption-attachment-1659" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7575-Edit.jpg' %}
-<figcaption id="caption-attachment-1659" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1660" aria-describedby="caption-attachment-1660" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7576-Edit.jpg' %}
-<figcaption id="caption-attachment-1660" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1661" aria-describedby="caption-attachment-1661" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/10/IMG_7600-Edit.jpg' %}
-<figcaption id="caption-attachment-1661" class="wp-caption-text"></figcaption></figure>
-
-<div id="APTFPIC_by_TAP-by-shortcode-432" class="AlpinePhotoTiles_inpost_container">
-</div>
+{% include imgs.html src='2013/10/IMG_7411-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7439-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7445-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7454-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7485-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7489-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7520-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7524-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7549-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7575-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7576-Edit.jpg' %}
+{% include imgs.html src='2013/10/IMG_7600-Edit.jpg' %}

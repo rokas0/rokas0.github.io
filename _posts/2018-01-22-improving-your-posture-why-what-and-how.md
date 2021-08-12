@@ -20,11 +20,11 @@ tags:
 
 What to look and feel confident? Forget muscle building and hours at the gym. Just improve your posture! It doesn&#8217;t matter how much you bench, squat, deadlift, or how big is your arms if you slouch and walk with your chin down. Actually, your body shapes who you are as reasonably argued by Harvard Business school professor at [TED talk](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are). In short, displaying confident body language creates same associations in your mind. If you stand tall with good posture, you send you brains confidence affirmations that you are doing good.
 
-It&#8217;s not just about confident look and feels because bad posture causes neck and back pain. Your body is not properly aligned which causes extra tension in muscles. For example, on some estimation, every inch of your head leaning forward adds extra tension to your neck which equals to several kilograms. This is why neck hurts.<figure id="attachment_2083" aria-describedby="caption-attachment-2083" style="width: 640px" class="wp-caption alignnone">
+It&#8217;s not just about confident look and feels because bad posture causes neck and back pain. Your body is not properly aligned which causes extra tension in muscles. For example, on some estimation, every inch of your head leaning forward adds extra tension to your neck which equals to several kilograms. This is why neck hurts.
 
 {% include imgs.html src='2018/01/Posture.jpeg' %}
 
-<figcaption id="caption-attachment-2083" class="wp-caption-text">Image source: https://www.bodyworxphysio.com.au/2017/08/09/posture/</figcaption></figure>
+Image source: https://www.bodyworxphysio.com.au/2017/08/09/posture/
 
 #### **Three essential parts of good posture **which is mobility, stronger back and consistent good posture
 
@@ -38,11 +38,11 @@ In developing countries, many people have great postures and flexibility. Not be
 
 {% include imgs.html src='2018/01/20130619_IMG009-COLLAGE-1.jpg' %}
 
-Carrying stuff on your head requires perfect posture. At Madagascar in 2013<figure id="attachment_2077" aria-describedby="caption-attachment-2077" style="width: 700px" class="wp-caption alignnone">
+Carrying stuff on your head requires perfect posture. At Madagascar in 2013
 
 {% include imgs.html src='2018/01/CSC_0694-COLLAGE.jpg' %}
 
-<figcaption id="caption-attachment-2077" class="wp-caption-text">People walking tall and carry stuff on their head. 2017 in Cape Verde</figcaption></figure>
+People walking tall and carry stuff on their head. 2017 in Cape Verde
 
 Frankly speaking, the more I travel to Africa, the more I realise something when wrong in western society regarding posture. My recent visit to the touristic island in Cape Verde strikes me. In the island, beaches were unrestrictedly divided into main locals and mainly holidaymakers. As we&#8217;re walking on locals beaches, most of Cape Verdians were in good posture, reasonably slim, but when we crossed into foreigner&#8217;s part of the beach, it changed. Many people were naturally slouching, some even humpbacked. I&#8217;m not even starting with the overweight issue.
 
@@ -93,11 +93,11 @@ The goal is to stretch 4 times a week, preferably in the morning as it sets goo
 
 Good posture is a subjective goal which might vary depending on the situation. One has to pick a measurable goal. My personal main issue is stiff upper body muscles. Therefore, I&#8217;d use mobility as my measurable goal.
 
-One of Functional Movements System (FMS) task is to reach hands behind your back. See pictures below. Last time I did FMS test with a personal coach, I scored 1, and because I slightly lied that I feel no pain. Otherwise, it would be zero points.<figure id="attachment_2064" aria-describedby="caption-attachment-2064" style="width: 508px" class="wp-caption alignnone">
+One of Functional Movements System (FMS) task is to reach hands behind your back. See pictures below. Last time I did FMS test with a personal coach, I scored 1, and because I slightly lied that I feel no pain. Otherwise, it would be zero points.
 
 {% include imgs.html src='2018/01/fmsscoringcriteria.png' %}
 
-<figcaption id="caption-attachment-2064" class="wp-caption-text">Source: http://graycookmovement.com/downloads/FMS%20Scoring%20Criteria.pdf</figcaption></figure>
+Source: http://graycookmovement.com/downloads/FMS%20Scoring%20Criteria.pdf
 
 So my goal is to improve distance between my arms to receive 2 points from FMS. Currently, it&#8217;s 12 inches on my left side, and another is 9 inches.
 

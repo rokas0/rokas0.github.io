@@ -209,22 +209,22 @@ Zoomed in:
 
 {% include imgs.html src='2018/01/Screen-Shot-2018-01-17-at-16.52.13-1.png' %}
 
-**Gibraltar**. We parked the car next to the border in a 24-hour car park and crossed into Gibraltar. I exchanged my English pounds to Gibraltarian ones, just for collection reasons (A single souvenir I collect from countries I visit are banknotes, at least one. Also, my colleague suggested to collect banknotes with the queen on them, so Gibraltarian pound fits well)<figure id="attachment_2049" aria-describedby="caption-attachment-2049" style="width: 490px" class="wp-caption alignnone">
+**Gibraltar**. We parked the car next to the border in a 24-hour car park and crossed into Gibraltar. I exchanged my English pounds to Gibraltarian ones, just for collection reasons (A single souvenir I collect from countries I visit are banknotes, at least one. Also, my colleague suggested to collect banknotes with the queen on them, so Gibraltarian pound fits well)
 
 {% include imgs.html src='2018/01/smallgibraltar5poundsp35.jpg' %}
 
-<figcaption id="caption-attachment-2049" class="wp-caption-text">I got this Gibraltarian pound. Image is from https://www.robertsworldmoney.com</figcaption></figure>
+I got this Gibraltarian pound. Image is from https://www.robertsworldmoney.com
 
 The city itself kinda reminder a miniature version of Rio de Janeiro, a bustling city with tall buildings, but a quick gateway to a tropical quiet area in hills. Also having beaches nearby. It has all perfect combination of mountains, forests, beaches and city life!
 
 {% include imgs.html src='2018/01/R0018374.jpg' %}
 
-Gibraltar flags reminds me of Panevezys coat of arms<figure id="attachment_2028" aria-describedby="caption-attachment-2028" style="width: 800px" class="wp-caption alignnone">
+Gibraltar flags reminds me of Panevezys coat of arms
 
 {% include imgs.html src='2018/01/DSC_1361.jpg' %}
 
-<figcaption id="caption-attachment-2028" class="wp-caption-text">Gibraltarian flag</figcaption></figure> <figure id="attachment_2050" aria-describedby="caption-attachment-2050" style="width: 280px" class="wp-caption alignnone">{% include imgs.html src='2018/01/1200px-Flag_of_Panevezys.svg_.png' %}
-<figcaption id="caption-attachment-2050" class="wp-caption-text">Panevezys coast of arms. Source https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag\_of\_Panevezys.svg/1200px-Flag\_of\_Panevezys.svg.png</figcaption></figure>
+Gibraltarian flag {% include imgs.html src='2018/01/1200px-Flag_of_Panevezys.svg_.png' %}
+Panevezys coast of arms. Source https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag\_of\_Panevezys.svg/1200px-Flag\_of\_Panevezys.svg.png
 
 {% include imgs.html src='2018/01/R0018420.jpg' %}
 

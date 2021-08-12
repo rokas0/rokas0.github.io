@@ -19,7 +19,6 @@ tags:
   - Ukraine
 ---
 
-<div class="entry-content">
   <p>
     Trumpas savaitės pasakojimas „na ir savaitė. Nesinori pakartot. Netgi susapnuot nesinori taip“.
   </p>
@@ -34,7 +33,7 @@ tags:
   
   <p>
     Paskutinė mano minimo diena. Nuvažiuota apie 750km per 5 dienas. Nereikia net rašyti, kad nieko nesvajoju labiau, kaip gerai pamiegoti, pailsėti, pavalgyti.{% include imgs.html src='2014/05/IMG_20140511_88-1024x682.jpg' %}
- <a href="2014/05/IMG_20140511_92.jpg" rel="lightbox[569]"><img class="alignnone size-large wp-image-576" src="https://images.rokaso.com/2014/05/IMG_20140511_92-1024x682.jpg" alt="IMG_20140511_92" width="474" height="315" /><img class="alignnone size-large wp-image-589" src="https://images.rokaso.com/2014/05/IMG_20140512_98-1024x682.jpg" alt="IMG_20140512_98" width="474" height="315" /></a>
+ <a href="2014/05/IMG_20140511_92.jpg" rel="lightbox[569]">{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140511_92-1024x682.jpg' %}{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140512_98-1024x682.jpg' %}</a>
   </p>
   
   <p>
@@ -144,7 +143,7 @@ tags:
   </p>
   
   <p>
-    <img class="alignnone size-large wp-image-586" src="https://images.rokaso.com/2014/05/IMG_20140516_146-682x1024.jpg" alt="IMG_20140516_146" width="474" height="711" />
+    {% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140516_146-682x1024.jpg' %}
   </p>
   
   <p>

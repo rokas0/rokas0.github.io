@@ -22,15 +22,13 @@ Keistos tradicijos vyruškumo įrodymui prieš vedybas. Angsčiau masajus turėd
 Ar masajus gali turėti išsilavinimą? Sėdėjome prie stalo tryse: aš, tanzanas ir masajus. Uždavus šitą klausimą, tanzanas pradėjo juoktis ir pridūrė „jie net tušinuku nemoka naudotis“. Masajus supykęs pradėjo pasakoti plačiau: „mums pagal tradicijas mokslas nereikalingas, bet suprantame, kad su kardu nieko nelaimėsi šiais laikais, todėl į pagalbą pasiemame knygą. Vis daugiau masajų, kurie baigia mokyklas, universitetus. Jie gali būti advokatais, verslininkais, kasdien vaigstančiais su kostiumais, bet tik grįžus į gimtajį kaimą, turi vaigsčioti su tradiciniais rūbais, peiliu ir lazda“. Kita dieną paklausiau mokytojo, ar masajai turi išsilavinimą. Pasakė, kad tik nedaugelis eina į mokyklas, bet tie, kurie mokosi, yra labai gabus.  
 Masajai gana unikali gentis Afrikoje. Jie išlaike tradicijas. Nors ir dauguma afrikiečių miestuose vaikšto apsirengę vakarietiškai, masajams tai nerūpi, jie vistiek su savo raudonais rūbais, peiliu ir lazda vaigšto.
 
-<div id="APTFPIC_by_TAP-by-shortcode-298" class="AlpinePhotoTiles_inpost_container">
-   {% include imgs.html src='2013/11/IMG_8045-Edit-300x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8060-Edit-533x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8078-Edit-533x400.jpg' %}
- <a href="2013/11/IMG_8083-Edit.jpg"><img class="alignnone size-medium wp-image-1693" src="https://d1ra7kav7kguzj.cloudfront.net/2013/11/IMG_8083-Edit-300x400.jpg" alt="" width="300" height="400"  sizes="(max-width: 300px) 100vw, 300px" /></a> {% include imgs.html src='2013/11/IMG_8087-Edit-533x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8094-Edit-533x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8098-Edit-533x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8099-Edit-533x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8105-Edit-300x400.jpg' %}
- {% include imgs.html src='2013/11/IMG_8106-Edit-300x400.jpg' %}
-
-</div>
+{% include imgs.html src='2013/11/IMG_8045-Edit-300x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8060-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8078-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8083-Edit-300x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8087-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8094-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8098-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8099-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8105-Edit-300x400.jpg' %}
+{% include imgs.html src='2013/11/IMG_8106-Edit-300x400.jpg' %}

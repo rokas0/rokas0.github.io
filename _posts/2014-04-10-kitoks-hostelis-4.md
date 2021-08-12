@@ -46,14 +46,3 @@ Vakarienė. Tradicinis Ispaniškas „tortilija“{% include imgs.html src='2014
 
 Nuo ryto tęsiame kelionę. Oras nepagerėjo.{% include imgs.html src='2014/04/IMG_20140303_132-1024x768.jpg' %}
 {% include imgs.html src='2014/04/IMG_20140303_137-1024x768.jpg' %}
-
-&nbsp;
-
-<div id="fcbk_share">
-  <div class="fcbk_like">
-    <div id="fb-root">
-    </div>
-    
-    <p>
-      
- <fb:like href="http://www.rokaso.com/2014/04/kitoks-hostelis/" send="false" layout="button_count" width="450" show_faces="false" font=""></fb:like> </div> </div>

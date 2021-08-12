@@ -40,40 +40,40 @@ This is a quick summary how my year went. It definitely was a year with most fl
 - Ireland
 - Cape Verde
 - Latvia
-- Lithuania<figure id="attachment_1957" aria-describedby="caption-attachment-1957" style="width: 600px" class="wp-caption alignnone">
+- Lithuania
 
 {% include imgs.html src='2017/12/00-r0002510_33192574332_o.jpg' %}
 
-<figcaption id="caption-attachment-1957" class="wp-caption-text">2017 started in crowded London</figcaption></figure> <figure id="attachment_1958" aria-describedby="caption-attachment-1958" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/010-R0003024.jpg' %}
-<figcaption id="caption-attachment-1958" class="wp-caption-text">Hiked in Isle of Man with Matt</figcaption></figure> <figure id="attachment_1959" aria-describedby="caption-attachment-1959" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/020-R0003196.jpg' %}
-<figcaption id="caption-attachment-1959" class="wp-caption-text">Visited Northen Ireland and Derry</figcaption></figure> <figure id="attachment_1960" aria-describedby="caption-attachment-1960" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2017/12/021-IMG_20170311_105737.jpg' %}
-<figcaption id="caption-attachment-1960" class="wp-caption-text">Got addicted to Ethiopian food so trying them out in every single UK city which I visit</figcaption></figure> <figure id="attachment_1961" aria-describedby="caption-attachment-1961" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/024-R0002733.jpg' %}
-<figcaption id="caption-attachment-1961" class="wp-caption-text">First time driving on left side of the road. On the way to Whitby</figcaption></figure> <figure id="attachment_1962" aria-describedby="caption-attachment-1962" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2017/12/030-5566214754803927343-account_id1030.jpg' %}
-<figcaption id="caption-attachment-1962" class="wp-caption-text">Working as a software engineer in a great team. But later quit to travel to South America</figcaption></figure> <figure id="attachment_1963" aria-describedby="caption-attachment-1963" style="width: 265px" class="wp-caption alignnone">{% include imgs.html src='2017/12/035-r0003558_33124396753_o.jpg' %}
-<figcaption id="caption-attachment-1963" class="wp-caption-text">Meeting my brother in Copenhagen</figcaption></figure> <figure id="attachment_1964" aria-describedby="caption-attachment-1964" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/040-r0004511_33990192352_o.jpg' %}
-<figcaption id="caption-attachment-1964" class="wp-caption-text">Showing biceps on equator</figcaption></figure> <figure id="attachment_1965" aria-describedby="caption-attachment-1965" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/050-r0006341_34186898365_o.jpg' %}
-<figcaption id="caption-attachment-1965" class="wp-caption-text">Hiking in Ecuador with Agne</figcaption></figure> <figure id="attachment_1966" aria-describedby="caption-attachment-1966" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/060-r0007788_34005110750_o.jpg' %}
-<figcaption id="caption-attachment-1966" class="wp-caption-text">Had a picture with Amazon tribe</figcaption></figure> <figure id="attachment_1967" aria-describedby="caption-attachment-1967" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/065-r0006700_33479681514_o.jpg' %}
-<figcaption id="caption-attachment-1967" class="wp-caption-text">Climbed 5200+metres peak, but failed to hike up 6300m peak</figcaption></figure> <figure id="attachment_1968" aria-describedby="caption-attachment-1968" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/070-34482303882.jpg' %}
-<figcaption id="caption-attachment-1968" class="wp-caption-text">Visited Peru and saw amazing dance including horses</figcaption></figure> <figure id="attachment_1969" aria-describedby="caption-attachment-1969" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/085-r0010948_34218534234_o.jpg' %}
-<figcaption id="caption-attachment-1969" class="wp-caption-text">Visited Machu Picchu</figcaption></figure> <figure id="attachment_1970" aria-describedby="caption-attachment-1970" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/090-r0011397_34906908112_o.jpg' %}
-<figcaption id="caption-attachment-1970" class="wp-caption-text">Sailed on lake Titicaca</figcaption></figure> <figure id="attachment_1971" aria-describedby="caption-attachment-1971" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/100-dsc_0968_35595002855_o.jpg' %}
-<figcaption id="caption-attachment-1971" class="wp-caption-text">Had mirror picture at salt lakes in Bolivia</figcaption></figure> <figure id="attachment_1972" aria-describedby="caption-attachment-1972" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/110-r0012866_34336776333_o.jpg' %}
-<figcaption id="caption-attachment-1972" class="wp-caption-text">Crawled into a mine in Bolivia</figcaption></figure> <figure id="attachment_1973" aria-describedby="caption-attachment-1973" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/115-r0014150_34961013844_o.jpg' %}
-<figcaption id="caption-attachment-1973" class="wp-caption-text">Hitchhiked in Uruguay</figcaption></figure> <figure id="attachment_1974" aria-describedby="caption-attachment-1974" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/120-.jpg' %}
-<figcaption id="caption-attachment-1974" class="wp-caption-text">Enjoyed beach life in Rio de Janeiro</figcaption></figure> <figure id="attachment_1975" aria-describedby="caption-attachment-1975" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/130-r0014998_36098546872_o.jpg' %}
-<figcaption id="caption-attachment-1975" class="wp-caption-text">Family visits Leicester, UK as I receive my Masters of Science</figcaption></figure> <figure id="attachment_1976" aria-describedby="caption-attachment-1976" style="width: 265px" class="wp-caption alignnone">{% include imgs.html src='2017/12/140-r0015293_36097354672_o.jpg' %}
-<figcaption id="caption-attachment-1976" class="wp-caption-text">Visiting Scotland with my family</figcaption></figure> <figure id="attachment_1977" aria-describedby="caption-attachment-1977" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2017/12/145-IMG_20170904_085409.jpg' %}
-<figcaption id="caption-attachment-1977" class="wp-caption-text">Got new job as a software engineer in Leeds with one of the best employers in the UK</figcaption></figure> <figure id="attachment_1978" aria-describedby="caption-attachment-1978" style="width: 535px" class="wp-caption alignnone">{% include imgs.html src='2017/12/150-R0016283.jpg' %}
-<figcaption id="caption-attachment-1978" class="wp-caption-text">Betting on horses in York racecource</figcaption></figure> <figure id="attachment_1979" aria-describedby="caption-attachment-1979" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/155-.jpg' %}
-<figcaption id="caption-attachment-1979" class="wp-caption-text">Take selfie in Jersey, UK</figcaption></figure> <figure id="attachment_1980" aria-describedby="caption-attachment-1980" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2017/12/160-IMG_20170915_190810.jpg' %}
-<figcaption id="caption-attachment-1980" class="wp-caption-text">Justinas and his father visits Leeds</figcaption></figure> <figure id="attachment_1981" aria-describedby="caption-attachment-1981" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2017/12/170-IMG_20171027_193607.jpg' %}
-<figcaption id="caption-attachment-1981" class="wp-caption-text">National Lithuanian Television visits us in Leeds, UK</figcaption></figure> <figure id="attachment_1982" aria-describedby="caption-attachment-1982" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/180-IMG_8764.jpg' %}
-<figcaption id="caption-attachment-1982" class="wp-caption-text">Participated 25 hours non-stop coding event in Manchester with my team</figcaption></figure> <figure id="attachment_1983" aria-describedby="caption-attachment-1983" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/190-PANO_20171112_113117.jpg' %}
-<figcaption id="caption-attachment-1983" class="wp-caption-text">Climbing highest peak in Ireland</figcaption></figure> <figure id="attachment_1984" aria-describedby="caption-attachment-1984" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/200-R0017122.DNG_.jpg' %}
-<figcaption id="caption-attachment-1984" class="wp-caption-text">Remeet my ex-colleagues at birthday party</figcaption></figure> <figure id="attachment_1985" aria-describedby="caption-attachment-1985" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/12/210-DSC_1046.jpg' %}
-<figcaption id="caption-attachment-1985" class="wp-caption-text">Did scuba diving in Cape Verde</figcaption></figure> <figure id="attachment_1986" aria-describedby="caption-attachment-1986" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2017/12/220-IMG_20171225_212902.jpg' %}
-<figcaption id="caption-attachment-1986" class="wp-caption-text">Coming back for Christmas and first thing we do is head to garage gym! I wish everybody for 2018 to have friends who invite you to workout!</figcaption></figure>
+2017 started in crowded London {% include imgs.html src='2017/12/010-R0003024.jpg' %}
+Hiked in Isle of Man with Matt {% include imgs.html src='2017/12/020-R0003196.jpg' %}
+Visited Northen Ireland and Derry {% include imgs.html src='2017/12/021-IMG_20170311_105737.jpg' %}
+Got addicted to Ethiopian food so trying them out in every single UK city which I visit {% include imgs.html src='2017/12/024-R0002733.jpg' %}
+First time driving on left side of the road. On the way to Whitby {% include imgs.html src='2017/12/030-5566214754803927343-account_id1030.jpg' %}
+Working as a software engineer in a great team. But later quit to travel to South America {% include imgs.html src='2017/12/035-r0003558_33124396753_o.jpg' %}
+Meeting my brother in Copenhagen {% include imgs.html src='2017/12/040-r0004511_33990192352_o.jpg' %}
+Showing biceps on equator {% include imgs.html src='2017/12/050-r0006341_34186898365_o.jpg' %}
+Hiking in Ecuador with Agne {% include imgs.html src='2017/12/060-r0007788_34005110750_o.jpg' %}
+Had a picture with Amazon tribe {% include imgs.html src='2017/12/065-r0006700_33479681514_o.jpg' %}
+Climbed 5200+metres peak, but failed to hike up 6300m peak {% include imgs.html src='2017/12/070-34482303882.jpg' %}
+Visited Peru and saw amazing dance including horses {% include imgs.html src='2017/12/085-r0010948_34218534234_o.jpg' %}
+Visited Machu Picchu {% include imgs.html src='2017/12/090-r0011397_34906908112_o.jpg' %}
+Sailed on lake Titicaca {% include imgs.html src='2017/12/100-dsc_0968_35595002855_o.jpg' %}
+Had mirror picture at salt lakes in Bolivia {% include imgs.html src='2017/12/110-r0012866_34336776333_o.jpg' %}
+Crawled into a mine in Bolivia {% include imgs.html src='2017/12/115-r0014150_34961013844_o.jpg' %}
+Hitchhiked in Uruguay {% include imgs.html src='2017/12/120-.jpg' %}
+Enjoyed beach life in Rio de Janeiro {% include imgs.html src='2017/12/130-r0014998_36098546872_o.jpg' %}
+Family visits Leicester, UK as I receive my Masters of Science {% include imgs.html src='2017/12/140-r0015293_36097354672_o.jpg' %}
+Visiting Scotland with my family {% include imgs.html src='2017/12/145-IMG_20170904_085409.jpg' %}
+Got new job as a software engineer in Leeds with one of the best employers in the UK {% include imgs.html src='2017/12/150-R0016283.jpg' %}
+Betting on horses in York racecource {% include imgs.html src='2017/12/155-.jpg' %}
+Take selfie in Jersey, UK {% include imgs.html src='2017/12/160-IMG_20170915_190810.jpg' %}
+Justinas and his father visits Leeds {% include imgs.html src='2017/12/170-IMG_20171027_193607.jpg' %}
+National Lithuanian Television visits us in Leeds, UK {% include imgs.html src='2017/12/180-IMG_8764.jpg' %}
+Participated 25 hours non-stop coding event in Manchester with my team {% include imgs.html src='2017/12/190-PANO_20171112_113117.jpg' %}
+Climbing highest peak in Ireland {% include imgs.html src='2017/12/200-R0017122.DNG_.jpg' %}
+Remeet my ex-colleagues at birthday party {% include imgs.html src='2017/12/210-DSC_1046.jpg' %}
+Did scuba diving in Cape Verde {% include imgs.html src='2017/12/220-IMG_20171225_212902.jpg' %}
+Coming back for Christmas and first thing we do is head to garage gym! I wish everybody for 2018 to have friends who invite you to workout!
 
 ---
 

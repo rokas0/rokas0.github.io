@@ -18,19 +18,16 @@ tags:
 Prasidėjo savaitė Zimbabvėje prie Viktorijos krioklių. Dar kartą ėjome nelegaliai ir pavojingai apžiūrėti jųiš arti. Dabar mūsų komanda buvo daug didesnė ir sudaryta iš 3 amerikiečių, šveicarės, singapūrietės, danės, švedės ir kanadiečio. Ėjome dabar pro sutrumpinimo, per savana todėl nesutikome policininkų ir muitininkų. Dalis nebuvo pasiruošusi plaukioti tai galutinį tikslą pasiekėme keturiese. Lankiausi krokodilų fermoje. 5 kilometrus iki ten pėškomis ėjau. Informacijoje pasakė prisijungti prie turistu gido. Jo turas ėjo į pabaigą ir laukiau kol naujas prasidės. Deja bet jam pasibaigus gidas pasakė, kad jie jau baigia darbą. Likau nesupratęs. Pasitikslinau informacijoje ir pasirodo gidas tik tingėjo dirbti ir melavo. Tas pats žmogus pravedė man priklausančipriklausančią ekskursija poto Baigiantis savaitei iš keliavau į Zambija. Šalis kartu su Zimbabve ir Malaviu ne gilioje praeityje buvo viena ir todėl turi būti panašios. Sienos kirtimas ir vizos išdavimas užtruko 15 minučių. Su 4 mašinomis nuvažiavau iki sostinės 500km. Susidariau subjektyvu vaizdą kad visi turtingi žmonės yra informatikai ir tik jie išgali važinėti ilgesnias distancijas. Apsistojau pas kiniečius kurie čia atvykę kurti verslo. Sakė kad Zambijoje tik 10 000 jų tautiečių o Tanzanijoje net 100 000.  
 Sekmadienį su fermos darbuotoja ėjau į mišias. Katalikiškoje bažnyčioje skambėjo gitaros ir būgnų muzika. Pabaigoje mišių pakvietė naujus narius bažnyčios prisistatyti. Pasakiau vardą, iš kur ir ką čia veikiu ir taip tapau bendruomenės dalimi.
 
-<div id="APTFPIC_by_TAP-by-shortcode-304" class="AlpinePhotoTiles_inpost_container">
-  <figure id="attachment_1620" aria-describedby="caption-attachment-1620" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f14741056-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1620" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1621" aria-describedby="caption-attachment-1621" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f15270976-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1621" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1622" aria-describedby="caption-attachment-1622" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f16449024-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1622" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1623" aria-describedby="caption-attachment-1623" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f17158144-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1623" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1624" aria-describedby="caption-attachment-1624" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f19311424-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1624" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1625" aria-describedby="caption-attachment-1625" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f19426944-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1625" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1626" aria-describedby="caption-attachment-1626" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/f21122880-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1626" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1627" aria-describedby="caption-attachment-1627" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_6908-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1627" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1628" aria-describedby="caption-attachment-1628" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_6919-Edit-300x400.jpg' %}
-<figcaption id="caption-attachment-1628" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1629" aria-describedby="caption-attachment-1629" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_6928-Edit-300x400.jpg' %}
-<figcaption id="caption-attachment-1629" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1630" aria-describedby="caption-attachment-1630" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_7163-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1630" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1631" aria-describedby="caption-attachment-1631" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_7165-Edit-533x400.jpg' %}
-<figcaption id="caption-attachment-1631" class="wp-caption-text"></figcaption></figure> <figure id="attachment_1632" aria-describedby="caption-attachment-1632" style="width: 300px" class="wp-caption alignnone">{% include imgs.html src='2013/09/IMG_7173-Edit-300x400.jpg' %}
-<figcaption id="caption-attachment-1632" class="wp-caption-text"></figcaption></figure>
-</div>
+{% include imgs.html src='2013/09/f14741056-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f15270976-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f16449024-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f17158144-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f19311424-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f19426944-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/f21122880-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_6908-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_6919-Edit-300x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_6928-Edit-300x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_7163-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_7165-Edit-533x400.jpg' %}
+{% include imgs.html src='2013/09/IMG_7173-Edit-300x400.jpg' %}

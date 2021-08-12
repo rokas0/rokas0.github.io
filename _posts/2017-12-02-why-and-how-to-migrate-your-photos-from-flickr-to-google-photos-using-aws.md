@@ -145,16 +145,16 @@ I ended up using a desktop in Amazon Web Services (AWS) cloud called Amazon Work
   <div data-ft="{&quot;tn&quot;:&quot;H&quot;}">
     <div class="mtm">
       <div class="_2a2q">
-        <figure id="attachment_1863" aria-describedby="caption-attachment-1863" style="width: 533px" class="wp-caption alignnone">{% include imgs.html src='2017/11/23668881_10215461573638296_5354618564819991642_o-533x400.jpg' %}
-<figcaption id="caption-attachment-1863" class="wp-caption-text">Google auto-generated picture &#8220;Then & Now&#8221;</figcaption></figure> 
+        {% include imgs.html src='2017/11/23668881_10215461573638296_5354618564819991642_o-533x400.jpg' %}
+Google auto-generated picture &#8220;Then & Now&#8221; 
         
         <p>
           &nbsp;
-        </p><figure id="attachment_1864" aria-describedby="caption-attachment-1864" style="width: 600px" class="wp-caption alignnone">
+        </p>
         
         {% include imgs.html src='2017/11/23592071_10215461574358314_5575744746523548304_o-600x397.jpg' %}
-<figcaption id="caption-attachment-1864" class="wp-caption-text">Original picture 2017 April in Ecuador</figcaption></figure> <figure id="attachment_1865" aria-describedby="caption-attachment-1865" style="width: 600px" class="wp-caption alignnone">{% include imgs.html src='2017/11/23550385_10215461574318313_2343067906176958303_o-600x397.jpg' %}
-<figcaption id="caption-attachment-1865" class="wp-caption-text">Original picture in Ireland 2017 November</figcaption></figure>
+Original picture 2017 April in Ecuador {% include imgs.html src='2017/11/23550385_10215461574318313_2343067906176958303_o-600x397.jpg' %}
+Original picture in Ireland 2017 November
       </div>
       
       <div>

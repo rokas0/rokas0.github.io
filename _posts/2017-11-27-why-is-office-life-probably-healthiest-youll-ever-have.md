@@ -25,11 +25,11 @@ Extended hours of sitting isn&#8217;t good. Your heart slows down, you become sl
 
 **Standing desk &#8211; Sitting is the new smoking**
 
-Getting or asking for a standing desk is always a great choice. It doesn&#8217;t have to be expensive as I been placing a laptop into a cupboard. In case of my office, it was just a matter of writing few emails, and weeks later, I got my (first in an office) standing desk. This way you&#8217;ll cut dangerous sitting time almost entirely.<figure id="attachment_1871" aria-describedby="caption-attachment-1871" style="width: 265px" class="wp-caption alignnone">
+Getting or asking for a standing desk is always a great choice. It doesn&#8217;t have to be expensive as I been placing a laptop into a cupboard. In case of my office, it was just a matter of writing few emails, and weeks later, I got my (first in an office) standing desk. This way you&#8217;ll cut dangerous sitting time almost entirely.
 
 {% include imgs.html src='2017/11/R0016926-e1511771303447.jpg' %}
 
-<figcaption id="caption-attachment-1871" class="wp-caption-text">My free standing desk</figcaption></figure>
+My free standing desk
 
 **Hit gym in a morning **
 
