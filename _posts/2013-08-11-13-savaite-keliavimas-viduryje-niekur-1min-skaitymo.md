@@ -31,10 +31,14 @@ Tik prabudau ir išgirdau sunkvežimį. Nubėgau ant kelio, susistabdžiau susip
 
 Sekmadienio nakčiai pasisvečiuoti pakvietė Mozambike gyvenantis Malavietis. Pavaišino vakariene ir pasistačiau palapine kieme. Šeimininkas miegojo kieme prie mano palapinės ir prižiūrėjo.
 
-[<img class="alignnone size-medium wp-image-1527" src="https://images.rokaso.com/2013/08/20130806_IMG003-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130806_IMG003.jpg)
-[<img class="alignnone size-medium wp-image-1528" src="https://images.rokaso.com/2013/08/20130808_IMG007-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130808_IMG007.jpg)
-[<img class="alignnone size-medium wp-image-1529" src="https://images.rokaso.com/2013/08/20130809_IMG009-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130809_IMG009.jpg)
-[<img class="alignnone size-medium wp-image-1530" src="https://images.rokaso.com/2013/08/20130811_IMG002-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130811_IMG002.jpg)
+{% include imgs.html src='2013/08/20130806_IMG003.jpg' %}
 
-[<img class="size-medium wp-image-1531" src="https://images.rokaso.com/2013/08/20130811_IMG005-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130811_IMG005.jpg)
+{% include imgs.html src='2013/08/20130808_IMG007.jpg' %}
+
+{% include imgs.html src='2013/08/20130809_IMG009.jpg' %}
+
+{% include imgs.html src='2013/08/20130811_IMG002.jpg' %}
+
+{% include imgs.html src='2013/08/20130811_IMG005.jpg' %}
+
 0,70 € for this small bag | 2Lt už šito maišelio turinį

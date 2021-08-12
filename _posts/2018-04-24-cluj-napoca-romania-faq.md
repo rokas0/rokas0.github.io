@@ -33,15 +33,17 @@ Few people spend a night in the airport due to early flights. Most are hard seat
 
 **Ethnographic Park** (Parcul Ethnographic &#8220;Romulus Vuia). Displays village buildings in Transylvania region in 18 and 19 centuries in a 16ha area park next to the city centre. Most are farmyards displaying a variety of used tools too. Highlights include high stretched cupolas churches with religions drawings within. Most buildings are closed but stalking through the windows are ok. Please allow one and a half hour for a visit. Price 6 lei. Mondays and Tuesdays closed. Open 10 am to 6 pm (March to October both inclusive), while other months opened 9 am to 4 pm.
 
-[<img class="alignnone size-medium wp-image-2263" src="https://images.rokaso.com/2018/04/R0020712-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020712.jpg)
-[<img class="alignnone size-medium wp-image-2261" src="https://images.rokaso.com/2018/04/PANO_20180422_101003_0-800x400.jpg" alt="" width="800" height="400"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/PANO_20180422_101003_0.jpg)
+{% include imgs.html src='2018/04/R0020712.jpg' %}
+
+{% include imgs.html src='2018/04/PANO_20180422_101003_0.jpg' %}
 
 **Zoo museum**. Variety of conservated reptiles and fishes includes horror-movie-like exhibition items like Amazon jungle snakes, ray, scorpions and lizards. Also stuffed wild mammals, crocodiles and turtles. The museum is found on university campus building on the ground floor on your left. If doors are closed, try knocking. Please note too that same building incorporates another live reptile exhibition downstairs. To visit it, take spiral stairs down from the lobby. Depending on the exhibition receptionist you might or might not pay a fee of 6 lei.
 
-[<img class="alignnone size-medium wp-image-2257" src="https://images.rokaso.com/2018/04/IMG_20180418_151432-1-800x600.jpg" alt="" width="800" height="600"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/IMG_20180418_151432-1.jpg)
-[<img class="alignnone size-medium wp-image-2256" src="https://images.rokaso.com/2018/04/IMG_20180418_151243-525x700.jpg" alt="" width="525" height="700"  sizes="(max-width: 525px) 100vw, 525px" />](https://images.rokaso.com/2018/04/IMG_20180418_151243.jpg)
+{% include imgs.html src='2018/04/IMG_20180418_151432-1.jpg' %}
 
-**Pharmaceutical Museum**. Highlights of the museum include Mummy powder used as an expensive cure for all diseases, also the elixir of Love, dentifrice powders and medieval laboratory although little evidence exists that the room was used as a laboratory. Also, note that free audio guide exists as part of the mobile application &#8220;izi.Travel&#8221;. Price 6 lei[<img class="alignnone size-medium wp-image-2251" src="https://images.rokaso.com/2018/04/IMG_20180418_142838-800x600.jpg" alt="" width="800" height="600"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/IMG_20180418_142838.jpg)
+{% include imgs.html src='2018/04/IMG_20180418_151243.jpg' %}
+
+**Pharmaceutical Museum**. Highlights of the museum include Mummy powder used as an expensive cure for all diseases, also the elixir of Love, dentifrice powders and medieval laboratory although little evidence exists that the room was used as a laboratory. Also, note that free audio guide exists as part of the mobile application &#8220;izi.Travel&#8221;. Price 6 lei{% include imgs.html src='2018/04/IMG_20180418_142838.jpg' %}
 
 **Potaissa castra. **In Turda village nearby Cluj-Napoca. It&#8217;s fortified Roman military camp founded in 126 AD. Nowadays only foundations of the buildings remain
 
@@ -49,15 +51,17 @@ Few people spend a night in the airport due to early flights. Most are hard seat
 
 As of 2018 April, only north-west entrance is opened. You can catch a taxi there or walk for about 40 minutes from Turda city centre.
 
-[<img class="alignnone size-medium wp-image-2260" src="https://images.rokaso.com/2018/04/PANO_20180421_103851-714x700.jpg" alt="" width="714" height="700"  sizes="(max-width: 714px) 100vw, 714px" />](https://images.rokaso.com/2018/04/PANO_20180421_103851.jpg)
-[<img class="alignnone size-medium wp-image-2262" src="https://images.rokaso.com/2018/04/R0020645-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/R0020645.jpg)
+{% include imgs.html src='2018/04/PANO_20180421_103851.jpg' %}
+
+{% include imgs.html src='2018/04/R0020645.jpg' %}
 
 #### Where to eat?
 
 **Roata**. A place to try typical Romanian dishes. Menus have described a history of main dishes within few paragraphs and pictures. The restaurant might (or might not) serve homemade spirit on the house as a starter.
 
-[<img class="alignnone size-medium wp-image-2248" src="https://images.rokaso.com/2018/04/IMG_20180421_195531-800x600.jpg" alt="" width="800" height="600"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/04/IMG_20180421_195531.jpg)
-[<img class="alignnone size-medium wp-image-2249" src="https://images.rokaso.com/2018/04/IMG_20180419_200106-525x700.jpg" alt="" width="525" height="700"  sizes="(max-width: 525px) 100vw, 525px" />](https://images.rokaso.com/2018/04/IMG_20180419_200106.jpg)
+{% include imgs.html src='2018/04/IMG_20180421_195531.jpg' %}
+
+{% include imgs.html src='2018/04/IMG_20180419_200106.jpg' %}
 
 This is it. If you have any more questions, let me know! I&#8217;ve also started to update Wiki Voyage with this information to make it more accessible for everyone.
 

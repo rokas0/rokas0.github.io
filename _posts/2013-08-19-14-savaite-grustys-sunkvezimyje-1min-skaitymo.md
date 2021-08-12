@@ -25,18 +25,23 @@ Arčiau sostinės privačių mašinų daugiau, ir jas galima tranzuoti ir taip s
 
 Pats namų šeimininkas yra studijavęs Italijoje, baigė žurnalistikos ir psichologijos mokslus. Labiausiai įstrigus pokalbiuose frazė „nevadinti žmonių kategorijomis: bosas, šefas, mokytojas, daktaras, ponas nes tai mus paverčia skirtingais. Jeigu paversi pasaulį paprastą, sukurti naują, kuriame neegzistuoja limitai.&#8221;
 
-[<img class="size-medium wp-image-1533" src="https://images.rokaso.com/2013/08/20130814_IMG009-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130814_IMG009.jpg)
+{% include imgs.html src='2013/08/20130814_IMG009.jpg' %}
+
 With truck driver | Su sunkvežimio vairuotoju
 
-[<img class="alignnone size-medium wp-image-1534" src="https://images.rokaso.com/2013/08/20130814_IMG011-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130814_IMG011.jpg)
+{% include imgs.html src='2013/08/20130814_IMG011.jpg' %}
 
-[<img class="size-medium wp-image-1535" src="https://images.rokaso.com/2013/08/20130816_IMG006-450x600.jpg" alt="" width="450" height="600"  sizes="(max-width: 450px) 100vw, 450px" />](https://images.rokaso.com/2013/08/20130816_IMG006.jpg)
+{% include imgs.html src='2013/08/20130816_IMG006.jpg' %}
+
 I was actually really good. It is crushed leafs with shimps | Gali atrodyt nekaip, bet skanu užtat. Tai sutrinti lapai su ančiuviais
 
-[<img class="alignnone size-medium wp-image-1536" src="https://images.rokaso.com/2013/08/20130817_IMG012-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130817_IMG012.jpg)
-[<img class="alignnone size-medium wp-image-1537" src="https://images.rokaso.com/2013/08/20130817_IMG020-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130817_IMG020.jpg)
+{% include imgs.html src='2013/08/20130817_IMG012.jpg' %}
 
-[<img class="size-medium wp-image-1538" src="https://images.rokaso.com/2013/08/20130818_IMG029-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130818_IMG029.jpg)Dance is more than popular | Mozambikiečiai pradeda šokti vos tik išgirsta muzika
+{% include imgs.html src='2013/08/20130817_IMG020.jpg' %}
 
-[<img class="alignnone size-medium wp-image-1539" src="https://images.rokaso.com/2013/08/20130818_IMG030-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130818_IMG030.jpg)
-[<img class="alignnone size-medium wp-image-1540" src="https://images.rokaso.com/2013/08/20130818_IMG035-600x450.jpg" alt="" width="600" height="450"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2013/08/20130818_IMG035.jpg)
+{% include imgs.html src='2013/08/20130818_IMG029.jpg' %}
+Dance is more than popular | Mozambikiečiai pradeda šokti vos tik išgirsta muzika
+
+{% include imgs.html src='2013/08/20130818_IMG030.jpg' %}
+
+{% include imgs.html src='2013/08/20130818_IMG035.jpg' %}

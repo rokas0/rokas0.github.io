@@ -20,7 +20,8 @@ We recently went to Mauritius for a week. I&#8217;ve received questions regardin
 
 The island was uninhabited then Portugues reached it in 1507, but nowadays 60% population is the indian origin. Why? Because British employed up to 450 000 labourers from India to work mainly on sugarcane fields. Another big part of the population is African origin, who are usually referred as Catholics. People were brought to Mauritius as slaves mainly from East Africa. There&#8217;s notable Chinese population who came centuries ago as traders.
 
-[<img class="alignnone size-large wp-image-2169" src="https://images.rokaso.com/2018/02/DSC_1177-COLLAGE-1000x1000.jpg" alt="" width="1000" height="1000"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/DSC_1177-COLLAGE.jpg)
+{% include imgs.html src='2018/02/DSC_1177-COLLAGE.jpg' %}
+
 ![](https://images.rokaso.com/2018/02/DSC_0168-COLLAGE.jpg)
 
 #### How expensive is Mauritius?
@@ -45,46 +46,47 @@ Creole which is similar to French. Many are fluent French speakers, that&#8217;
 
 1. Strange shape mountains
 
-[<img class="alignnone size-medium wp-image-2173" src="https://images.rokaso.com/2018/02/DSC_1869-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/DSC_1869.jpg)
+{% include imgs.html src='2018/02/DSC_1869.jpg' %}
 
 7 colour earth
 
-[<img class="alignnone size-medium wp-image-2174" src="https://images.rokaso.com/2018/02/DSC_1963-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/DSC_1963.jpg)
+{% include imgs.html src='2018/02/DSC_1963.jpg' %}
 
 3. Grand Bassin template
 
-[<img class="alignnone size-medium wp-image-2175" src="https://images.rokaso.com/2018/02/R0011339-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/R0011339.jpg)
-[<img class="alignnone size-medium wp-image-2176" src="https://images.rokaso.com/2018/02/R0011354-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/R0011354.jpg)
+{% include imgs.html src='2018/02/R0011339.jpg' %}
+
+{% include imgs.html src='2018/02/R0011354.jpg' %}
 
 4. Beautiful cliffs around the islands
 
-[<img class="alignnone size-medium wp-image-2177" src="https://images.rokaso.com/2018/02/R0011508-R0011513-EFFECTS-800x517.jpg" alt="" width="800" height="517"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/R0011508-R0011513-EFFECTS.jpg)
+{% include imgs.html src='2018/02/R0011508-R0011513-EFFECTS.jpg' %}
 
 5. Abandoned buildings on small surrounding islands
 
-[<img class="alignnone size-medium wp-image-2178" src="https://images.rokaso.com/2018/02/R0011528-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/R0011528.jpg)
+{% include imgs.html src='2018/02/R0011528.jpg' %}
 
 6. Tea plantations
 
-[<img class="alignnone size-medium wp-image-2179" src="https://images.rokaso.com/2018/02/DSC_1853-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/02/DSC_1853.jpg)
+{% include imgs.html src='2018/02/DSC_1853.jpg' %}
 
 7. Festivals if you visit at correct time
 
-[<img class="alignnone size-medium wp-image-2183" src="https://images.rokaso.com/2018/02/DSC_0191-1-e1518871130523-467x700.jpg" alt="" width="467" height="700"  sizes="(max-width: 467px) 100vw, 467px" />](https://images.rokaso.com/2018/02/DSC_0191-1-e1518871130523.jpg)
+{% include imgs.html src='2018/02/DSC_0191-1-e1518871130523.jpg' %}
 
 8. Central Port Louis market
 
-[<img class="alignnone size-medium wp-image-2184" src="https://images.rokaso.com/2018/02/R0010744-COLLAGE-700x700.jpg" alt="" width="700" height="700"  sizes="(max-width: 700px) 100vw, 700px" />](https://images.rokaso.com/2018/02/R0010744-COLLAGE.jpg)
+{% include imgs.html src='2018/02/R0010744-COLLAGE.jpg' %}
 
 And snorkelling
 
-[<img class="alignnone size-medium wp-image-2172" src="https://images.rokaso.com/2018/02/GOPR9560-COLLAGE-700x700.jpg" alt="" width="700" height="700"  sizes="(max-width: 700px) 100vw, 700px" />](https://images.rokaso.com/2018/02/GOPR9560-COLLAGE.jpg)
+{% include imgs.html src='2018/02/GOPR9560-COLLAGE.jpg' %}
 
 #### What are top suggested beaches?
 
 Our favourite is Blue Bay beach just next to the airport. Also, we visited Grand Baie and Mont Choisy.
 
-[<img class="alignnone wp-image-2170 size-medium" src="https://images.rokaso.com/2018/02/DSC_1103-COLLAGE-700x700.jpg" alt="" width="700" height="700"  sizes="(max-width: 700px) 100vw, 700px" />](https://images.rokaso.com/2018/02/DSC_1103-COLLAGE.jpg)
+{% include imgs.html src='2018/02/DSC_1103-COLLAGE.jpg' %}
 
 #### When to go?
 

@@ -203,64 +203,70 @@ Also, in Spain use national roads as they are only a bit slower than tolled moto
 
 #### Trip itinerary
 
-[<img class="alignnone size-medium wp-image-2047" src="https://images.rokaso.com/2018/01/Screen-Shot-2018-01-17-at-16.50.13-600x398.png" alt="" width="600" height="398"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/Screen-Shot-2018-01-17-at-16.50.13.png)
+{% include imgs.html src='2018/01/Screen-Shot-2018-01-17-at-16.50.13.png' %}
 
 Zoomed in:
 
-[<img class="alignnone size-medium wp-image-2048" src="https://images.rokaso.com/2018/01/Screen-Shot-2018-01-17-at-16.52.13-1-600x424.png" alt="" width="600" height="424"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/Screen-Shot-2018-01-17-at-16.52.13-1.png)
+{% include imgs.html src='2018/01/Screen-Shot-2018-01-17-at-16.52.13-1.png' %}
 
 **Gibraltar**. We parked the car next to the border in a 24-hour car park and crossed into Gibraltar. I exchanged my English pounds to Gibraltarian ones, just for collection reasons (A single souvenir I collect from countries I visit are banknotes, at least one. Also, my colleague suggested to collect banknotes with the queen on them, so Gibraltarian pound fits well)<figure id="attachment_2049" aria-describedby="caption-attachment-2049" style="width: 490px" class="wp-caption alignnone">
 
-[<img class="wp-image-2049 size-medium" src="https://images.rokaso.com/2018/01/smallgibraltar5poundsp35-490x500.jpg" alt="Copied from https://www.robertsworldmoney.com" width="490" height="500"  sizes="(max-width: 490px) 100vw, 490px" />](https://images.rokaso.com/2018/01/smallgibraltar5poundsp35.jpg)<figcaption id="caption-attachment-2049" class="wp-caption-text">I got this Gibraltarian pound. Image is from https://www.robertsworldmoney.com</figcaption></figure>
+{% include imgs.html src='2018/01/smallgibraltar5poundsp35.jpg' %}
+
+<figcaption id="caption-attachment-2049" class="wp-caption-text">I got this Gibraltarian pound. Image is from https://www.robertsworldmoney.com</figcaption></figure>
 
 The city itself kinda reminder a miniature version of Rio de Janeiro, a bustling city with tall buildings, but a quick gateway to a tropical quiet area in hills. Also having beaches nearby. It has all perfect combination of mountains, forests, beaches and city life!
 
-[<img class="alignnone wp-image-2033 size-medium" src="https://images.rokaso.com/2018/01/R0018374-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018374.jpg)
+{% include imgs.html src='2018/01/R0018374.jpg' %}
 
 Gibraltar flags reminds me of Panevezys coat of arms<figure id="attachment_2028" aria-describedby="caption-attachment-2028" style="width: 800px" class="wp-caption alignnone">
 
-[<img class="wp-image-2028 size-medium" src="https://images.rokaso.com/2018/01/DSC_1361-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/DSC_1361.jpg)<figcaption id="caption-attachment-2028" class="wp-caption-text">Gibraltarian flag</figcaption></figure> <figure id="attachment_2050" aria-describedby="caption-attachment-2050" style="width: 280px" class="wp-caption alignnone">[<img class=" wp-image-2050" src="https://images.rokaso.com/2018/01/1200px-Flag_of_Panevezys.svg_-543x500.png" alt="" width="280" height="258"  sizes="(max-width: 280px) 100vw, 280px" />](https://images.rokaso.com/2018/01/1200px-Flag_of_Panevezys.svg_.png)<figcaption id="caption-attachment-2050" class="wp-caption-text">Panevezys coast of arms. Source https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag\_of\_Panevezys.svg/1200px-Flag\_of\_Panevezys.svg.png</figcaption></figure>
+{% include imgs.html src='2018/01/DSC_1361.jpg' %}
 
-[<img class="alignnone wp-image-2034 size-medium" src="https://images.rokaso.com/2018/01/R0018420-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018420.jpg)
+<figcaption id="caption-attachment-2028" class="wp-caption-text">Gibraltarian flag</figcaption></figure> <figure id="attachment_2050" aria-describedby="caption-attachment-2050" style="width: 280px" class="wp-caption alignnone">{% include imgs.html src='2018/01/1200px-Flag_of_Panevezys.svg_.png' %}
+<figcaption id="caption-attachment-2050" class="wp-caption-text">Panevezys coast of arms. Source https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag\_of\_Panevezys.svg/1200px-Flag\_of\_Panevezys.svg.png</figcaption></figure>
 
-[<img class="alignnone wp-image-2035 size-medium" src="https://images.rokaso.com/2018/01/R0018472-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018472.jpg)
+{% include imgs.html src='2018/01/R0018420.jpg' %}
 
-[<img class="alignnone wp-image-2036 size-medium" src="https://images.rokaso.com/2018/01/R0018504-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018504.jpg)
+{% include imgs.html src='2018/01/R0018472.jpg' %}
+
+{% include imgs.html src='2018/01/R0018504.jpg' %}
 
 We left Gibraltar, slept in a car on the way to Ronda. In the morning, we were surrounded by picturesque towns all the way to the destination
 
-[<img class="alignnone wp-image-2038 size-medium" src="https://images.rokaso.com/2018/01/R0018540-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018540.jpg)
+{% include imgs.html src='2018/01/R0018540.jpg' %}
 
-[<img class="alignnone wp-image-2020 size-medium" src="https://images.rokaso.com/2018/01/R0018732-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018732.jpg)
+{% include imgs.html src='2018/01/R0018732.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2029" src="https://images.rokaso.com/2018/01/DSC_1428-600x400.jpg" alt="" width="600" height="400"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/DSC_1428.jpg)
+{% include imgs.html src='2018/01/DSC_1428.jpg' %}
 
 The ancient town of Ronda is famous for its bridge. However, the whole town is amazing too and worth wandering around for few hours.
 
-[<img class="alignnone size-medium wp-image-2039" src="https://images.rokaso.com/2018/01/R0018593-PANO-600x281.jpg" alt="" width="600" height="281"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018593-PANO.jpg)
+{% include imgs.html src='2018/01/R0018593-PANO.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2016" src="https://images.rokaso.com/2018/01/R0018675-e1516182165289-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](https://images.rokaso.com/2018/01/R0018675-e1516182165289.jpg)
+{% include imgs.html src='2018/01/R0018675-e1516182165289.jpg' %}
 
 On a way to next point, we stopped in a roadside restaurant and got a dish of a day. As I am completely aware of my limited Spanish, I didn&#8217;t ask what is it and hoped for the best. Yet it was surprising! A waiter brought as meaty soup including blood sausages and probably chopped guts. Even a pig&#8217;s skin with hairs!
 
-[<img class="alignnone size-medium wp-image-2017" src="https://images.rokaso.com/2018/01/R0018691-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018691.jpg)
-[<img class="alignnone wp-image-2018 size-large" src="https://images.rokaso.com/2018/01/R0018697-1200x795.jpg" alt="" width="1040" height="689"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/01/R0018697.jpg)
+{% include imgs.html src='2018/01/R0018691.jpg' %}
+
+{% include imgs.html src='2018/01/R0018697.jpg' %}
 
 We wanted to hike Caminito del Rey, but it was already closed by the time we arrived. Opening hours is 9:00 with last tour departing at 15:00
 
-[<img class="alignnone size-medium wp-image-2019" src="https://images.rokaso.com/2018/01/R0018706-600x397.jpg" alt="" width="600" height="397" />](https://images.rokaso.com/2018/01/R0018706.jpg)
+{% include imgs.html src='2018/01/R0018706.jpg' %}
 
 If you zoom in, you can see people walking. You can see how it looked before refurbishment at https://expertvagabond.com/caminito-del-rey/
 
-[<img class="alignnone wp-image-2019 size-medium" src="https://images.rokaso.com/2018/01/R0018706-e1516182367198-600x361.jpg" alt="" width="600" height="361"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018706-e1516182310952.jpg)
+{% include imgs.html src='2018/01/R0018706-e1516182310952.jpg' %}
 
 We reached Malaga (again), which is famous for its Roman and Arab heritage, and of course its resorts. We visited modern art museum there which also had a free entry.
 
-[<img class="alignnone size-medium wp-image-2021" src="https://images.rokaso.com/2018/01/R0018736-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018736.jpg)
+{% include imgs.html src='2018/01/R0018736.jpg' %}
 
-[<img class="alignnone wp-image-2022 size-medium" src="https://images.rokaso.com/2018/01/R0018746-e1516182526706-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](https://images.rokaso.com/2018/01/R0018746.jpg)
+{% include imgs.html src='2018/01/R0018746.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2024" src="https://images.rokaso.com/2018/01/R0018773-600x397.jpg" alt="" width="600" height="397"  sizes="(max-width: 600px) 100vw, 600px" />](https://images.rokaso.com/2018/01/R0018773.jpg)
+{% include imgs.html src='2018/01/R0018773.jpg' %}
 
 The last place we visited was Nerja Caves. Opening hours 9:00 to 15:00 and free on Monday morning (we got lucky there). Audioguide is just 2€ each.
 
@@ -269,9 +275,9 @@ Imagine how luxurious looking the cave was. Nothing compared to current houses. 
 
 The temperature in the cave was 19°C, in comparison to chilly southern Spain winter that was 5°C that morning.
 
-[<img class="alignnone wp-image-2025 size-medium" src="https://images.rokaso.com/2018/01/R0018791-e1516182866132-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](https://images.rokaso.com/2018/01/R0018791.jpg)
+{% include imgs.html src='2018/01/R0018791.jpg' %}
 
-[<img class="alignnone wp-image-2026 size-medium" src="https://images.rokaso.com/2018/01/R0018803-e1516182899385-265x400.jpg" alt="" width="265" height="400"  sizes="(max-width: 265px) 100vw, 265px" />](https://images.rokaso.com/2018/01/R0018803.jpg)
+{% include imgs.html src='2018/01/R0018803.jpg' %}
 
 So this is it. We went back to return a car, which had a minor scratch on someone bumping their doors, but otherwise fine, and I got back my deposit of €1050. The flight departed at 2 pm local time, and by 7 pm we were at your home in Leeds.
 

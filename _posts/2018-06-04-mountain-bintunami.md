@@ -202,7 +202,8 @@ Here is a summary of asked and paid prices for this trek. In total, we&#8217;d r
 
 - Total hike from Sinekoro village to the peak and back is 29 km. You&#8217;d start at 400m above sea level at the village and finish at 1,945m so hike itself is challenging and few parts are very steep.
 - Parts of the hike are very steep
-- [<img class="alignnone wp-image-2325" src="https://images.rokaso.com/2018/06/Screen-Shot-2018-06-04-at-17.28.05-800x319.png" alt="" width="451" height="180" />](https://images.rokaso.com/2018/06/Screen-Shot-2018-06-04-at-17.28.05.png)
+- {% include imgs.html src='2018/06/Screen-Shot-2018-06-04-at-17.28.05.png' %}
+
 - Your guide might bring a gun to hunt even if a park is called &#8220;no hunting park&#8221;
 - Sinekoro village is remote. There&#8217;s no running water, electricity and even mobile connection.
 - Accommodation is free. You could camp anywhere or ask school principal to let you sleep in school.
@@ -216,56 +217,56 @@ Photo story is bellow
 
 #### Drive to the village
 
-[<img class="alignnone size-medium wp-image-2305" src="https://images.rokaso.com/2018/05/R0021382-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021382.jpg)
+{% include imgs.html src='2018/05/R0021382.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2298" src="https://images.rokaso.com/2018/05/DSC_2796-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/DSC_2796.jpg)
+{% include imgs.html src='2018/05/DSC_2796.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2304" src="https://images.rokaso.com/2018/05/R0021375-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021375.jpg)
+{% include imgs.html src='2018/05/R0021375.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2307" src="https://images.rokaso.com/2018/05/R0021404-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021404.jpg)
+{% include imgs.html src='2018/05/R0021404.jpg' %}
 
 #### The Hike
 
-[<img class="alignnone size-medium wp-image-2308" src="https://images.rokaso.com/2018/05/R0021433-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021433.jpg)
+{% include imgs.html src='2018/05/R0021433.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2309" src="https://images.rokaso.com/2018/05/R0021445-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021445.jpg)
+{% include imgs.html src='2018/05/R0021445.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2311" src="https://images.rokaso.com/2018/05/R0021482-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021482.jpg)
+{% include imgs.html src='2018/05/R0021482.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2312" src="https://images.rokaso.com/2018/05/R0021486-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021486.jpg)
+{% include imgs.html src='2018/05/R0021486.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2313" src="https://images.rokaso.com/2018/05/R0021513-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021513.jpg)
+{% include imgs.html src='2018/05/R0021513.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2315" src="https://images.rokaso.com/2018/05/R0021542-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021542.jpg)
+{% include imgs.html src='2018/05/R0021542.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2316" src="https://images.rokaso.com/2018/05/R0021548-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021548.jpg)
+{% include imgs.html src='2018/05/R0021548.jpg' %}
 
 #### Our guide is hunting in national reserve
 
-[<img class="alignnone size-medium wp-image-2300" src="https://images.rokaso.com/2018/05/DSC_2903-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/DSC_2903.jpg)
+{% include imgs.html src='2018/05/DSC_2903.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2301" src="https://images.rokaso.com/2018/05/DSC_2956-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/DSC_2956.jpg)
+{% include imgs.html src='2018/05/DSC_2956.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2317" src="https://images.rokaso.com/2018/05/R0021587-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021587.jpg)
+{% include imgs.html src='2018/05/R0021587.jpg' %}
 
 #### Life in remote village in Sierra Leone
 
-[<img class="alignnone size-medium wp-image-2302" src="https://images.rokaso.com/2018/05/DSC_3178-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/DSC_3178.jpg)
+{% include imgs.html src='2018/05/DSC_3178.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2303" src="https://images.rokaso.com/2018/05/DSC_3305-800x533.jpg" alt="" width="800" height="533"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/DSC_3305.jpg)
+{% include imgs.html src='2018/05/DSC_3305.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2318" src="https://images.rokaso.com/2018/05/R0021631-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021631.jpg)
+{% include imgs.html src='2018/05/R0021631.jpg' %}
 
-[<img class="alignnone wp-image-2319 size-medium" src="https://images.rokaso.com/2018/05/R0021706-e1528131013840-464x700.jpg" alt="" width="464" height="700"  sizes="(max-width: 464px) 100vw, 464px" />](https://images.rokaso.com/2018/05/R0021706.jpg)
+{% include imgs.html src='2018/05/R0021706.jpg' %}
 
-[<img class="alignnone size-medium wp-image-2320" src="https://images.rokaso.com/2018/05/R0021807-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0021807.jpg)
+{% include imgs.html src='2018/05/R0021807.jpg' %}
 
-[<img class="alignnone wp-image-2321 size-medium" src="https://images.rokaso.com/2018/05/R0021955-e1528130991943-464x700.jpg" alt="" width="464" height="700"  sizes="(max-width: 464px) 100vw, 464px" />](https://images.rokaso.com/2018/05/R0021955.jpg)
+{% include imgs.html src='2018/05/R0021955.jpg' %}
 
-[<img class="alignnone wp-image-2322 size-medium" src="https://images.rokaso.com/2018/05/R0021987-e1528130951290-464x700.jpg" alt="" width="464" height="700"  sizes="(max-width: 464px) 100vw, 464px" />](https://images.rokaso.com/2018/05/R0021987.jpg)
+{% include imgs.html src='2018/05/R0021987.jpg' %}
 
 #### Way back to civilisation
 
-[<img class="alignnone size-medium wp-image-2323" src="https://images.rokaso.com/2018/05/R0022013-800x530.jpg" alt="" width="800" height="530"  sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://images.rokaso.com/2018/05/R0022013.jpg)
+{% include imgs.html src='2018/05/R0022013.jpg' %}
 
 P.S. For more information check the page https://en.wikivoyage.org/wiki/Mountain_Bintunami which I have created
