@@ -23,7 +23,7 @@ Kagi, sėdžiu policijos imigracijos skyriuje. Atvežė čia hostelio viršinink
 
 Kadangi pasakojimas yra apie antrąją savaitę, tai pradėsiu. Jinai pasidėjo Baltarusijoje. Pradėjau mindyti į Rusijos pusę. Aplenkiu vieną, bei kitą ūkišką kaimelį. Dviratis patikimai važiuoja, ypač greitis pasijaučia aplenkus vietines melžėjas su girgzdančiais rusiškais dviračiais.
 
-{% include imgs.html src='https://images.rokaso.com/2014/05/DSC00465-1024x682.jpg' %}{% include imgs.html src='https://images.rokaso.com/2014/05/DSC00536-1024x682.jpg' %}
+{% include imgs.html src='2014/05/DSC00465-1024x682.jpg' %}{% include imgs.html src='2014/05/DSC00536-1024x682.jpg' %}
 
 Aplankius keletą pakelės miestelių galima susidaryti ispūdį apie vietinių „marozų“, „pacanų“ „dress-kodą“, arba tiesiog apie vietines madas. Tai komofliežas. Jį visados galima derinti prie „lakierkų“, ir treningų. Taip pat prie juodai, baltai zebruotos jūreivio maikutės.
 
@@ -31,7 +31,7 @@ Siena su Rusija važiavau ir pravažiavau, nieko nebuvo.
 
 Rusai jau visai kitokie pasirodė. Tik sustojus, iškarto pasidomi, iš kur esu.
 
-{% include imgs.html src='https://images.rokaso.com/2014/05/DSC00473-1024x682.jpg' %}{% include imgs.html src='https://images.rokaso.com/2014/05/DSC00482-1024x682.jpg' %}{% include imgs.html src='https://images.rokaso.com/2014/05/DSC00643-1024x682.jpg' %}
+{% include imgs.html src='2014/05/DSC00473-1024x682.jpg' %}{% include imgs.html src='2014/05/DSC00482-1024x682.jpg' %}{% include imgs.html src='2014/05/DSC00643-1024x682.jpg' %}
 
 Rusijoje, kaip ir Baltarusijoje, kiekviename miestelyje yra paminklas karui: tankas, patranka, statula. Bet kodėl gi?
 

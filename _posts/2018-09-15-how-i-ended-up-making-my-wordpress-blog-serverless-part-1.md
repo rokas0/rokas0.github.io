@@ -18,9 +18,9 @@ Recently in my team, we did prove of concept to re-architecture our application 
 My personal blog was receiving about 5 unique visitors per month meanwhile hosting it cost $7 per month because I’d cheapest EC2 instance always running with attached EBS.
 
 <blockquote class="wp-block-quote">
-  <p>
+  
     I was paying for the idle server.
-  </p>
+  
 </blockquote>
 
 Going serverless handles your application scaling both uses cases: scaling up and down. For example, S3 allows only static content hosting but it’s charged per storage and per requests. Using this service considering my website current load, the total price for month hosting would be under $0.50. However if one day, my blog would receive millions of page views, it would scale without a need for me to lift a finger.
@@ -38,9 +38,9 @@ As long as you keep your EC2 container stopped you don’t need to pay for it bu
 Keep in mind that your EC2 and S3 be in the same region to avoid data transfer fees.
 
 <blockquote class="wp-block-quote">
-  <p>
+  
     Transfers between S3 buckets or from S3 to any service(s) within the same region are free — <a href="https://aws.amazon.com/s3/pricing/#Data_Transfer_Pricing" rel="noreferrer noopener" target="_blank">https://aws.amazon.com/s3/pricing/#Data_Transfer_Pricing</a>
-  </p>
+  
 </blockquote>
 
 ### Let’s do it {#4e4b}

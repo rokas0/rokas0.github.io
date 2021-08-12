@@ -130,11 +130,11 @@ I ended up using a desktop in Amazon Web Services (AWS) cloud called Amazon Work
 
 <div id="js_6z" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <div id="id_5a19220c5e44e7162859785" class="text_exposed_root text_exposed">
-    <p>
+    
       Google artificial intelligence and machine algorithms are advancing fast! My main reason to move Google photos, mainly because of an interface and assistant, which frequently offers picture enhancements. The other day, I got auto-generated collage, and I was shocked how good it was, mainly because:
  (1) Both pictures were perfectly cropped into a frame
  (2) It was completely 2 random pictures. One taken last week on the top of the highest peak in Irelan<span class="text_exposed_show">d Carrauntoohil (1,038m), while another half a year ago in Ecuador on a random peak (Iliniza Norte) raising 5116m above sea level. In Google Photos I&#8217;ve 10 000+ moments stored, and it picked up both on the top of a peak. An algorithm should be pretty darn good to find similar moments.</span>
-    </p>
+    
     
     <div class="text_exposed_show">
     </div>
@@ -148,9 +148,9 @@ I ended up using a desktop in Amazon Web Services (AWS) cloud called Amazon Work
         {% include imgs.html src='2017/11/23668881_10215461573638296_5354618564819991642_o-533x400.jpg' %}
 Google auto-generated picture &#8220;Then & Now&#8221; 
         
-        <p>
+        
           &nbsp;
-        </p>
+        
         
         {% include imgs.html src='2017/11/23592071_10215461574358314_5575744746523548304_o-600x397.jpg' %}
 Original picture 2017 April in Ecuador {% include imgs.html src='2017/11/23550385_10215461574318313_2343067906176958303_o-600x397.jpg' %}
@@ -161,9 +161,9 @@ Original picture in Ireland 2017 November
         <div id="js_6z" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
           <div id="id_5a19220c5e44e7162859785" class="text_exposed_root text_exposed">
             <div class="text_exposed_show">
-              <p>
+              
                 What a time to be alive! Can&#8217;t wait to see further development in computer science algorithms
-              </p>
+              
             </div>
           </div>
         </div>

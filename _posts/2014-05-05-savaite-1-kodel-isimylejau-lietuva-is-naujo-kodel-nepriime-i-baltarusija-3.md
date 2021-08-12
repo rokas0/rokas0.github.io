@@ -23,7 +23,7 @@ Prasidėjo trumpai planuota, bet ilgai laukta (gaut naują pasą, Rusijos ir Az
 
 Pagal kiniečių filosofą Laozi pasakymą „Tūkstančių mylių kelionė prasideda paprastu žingsniu“. Taigi žingsnis buvo išmindyti iš gimtojo miesto ribų.
 
-{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140425_06-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140425_06-1024x682.jpg' %}
 
 Dabar trumpa statistika ir kiti beprasmiai, nereikalingi skaičiai. Pirmąją savaitę mindžiau 3 su puse dienos ir nukeliavau 525km. Rinkausi mažiau važinėjamus, ramesnius, vaizdingesnius (tikriausiai) keliukus.
 
@@ -41,9 +41,12 @@ Nebekalbu apie pietinę ir rytinę Afriką kur visas kraštovaizdis yra žabai i
 
 Todėl lankantis gimtinėje visados smagu pasiklysti miškuose, gamtoje.
 
-<a href="2014/05/IMG_20140425_18.jpg" rel="lightbox[520]">{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140426_58-682x1024.jpg' %}{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140425_18-1024x682.jpg' %}</a> {% include imgs.html src='2014/05/IMG_20140425_19-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140426_58-682x1024.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140425_18-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140425_19-1024x682.jpg' %}
 {% include imgs.html src='2014/05/IMG_20140425_30-682x1024.jpg' %}
-{% include imgs.html src='https://images.rokaso.com/2014/05/IMG_20140426_61-1024x682.jpg' %} {% include imgs.html src='2014/05/IMG_20140425_35-682x1024.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140426_61-1024x682.jpg' %}
+{% include imgs.html src='2014/05/IMG_20140425_35-682x1024.jpg' %}
 {% include imgs.html src='2014/05/IMG_20140426_40-1024x682.jpg' %}
 
 **2. Kultūra**

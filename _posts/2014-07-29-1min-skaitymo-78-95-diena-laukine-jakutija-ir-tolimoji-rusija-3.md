@@ -27,11 +27,11 @@ tags:
 
 Kelias iki Jakustko ilgas, ilgas. Važiavau su visiškai nauju rusų gamybos autobusiuku. Galvojau jau subirės nepasiekęs tikslo, bet šiaip ne taip nesiekėm.
 
-{% include imgs.html src='https://images.rokaso.com/2014/07/IMG_20140708_36-1024x682.jpg' %}
+{% include imgs.html src='2014/07/IMG_20140708_36-1024x682.jpg' %}
 
 Mašina išriedėjo iš gamyklos nauja, ir kol pasiekė Jakutską (8000km per Rusija) jau buvo kai kurios plasmasės atšokusios, abi galinės durys užstrigusios ir motoras kaito.
 
-{% include imgs.html src='https://images.rokaso.com/2014/07/IMG_20140708_38-1024x153.jpg' %} {% include imgs.html src='2014/07/IMG_20140708_37-1024x682.jpg' %}
+{% include imgs.html src='2014/07/IMG_20140708_38-1024x153.jpg' %} {% include imgs.html src='2014/07/IMG_20140708_37-1024x682.jpg' %}
 
 {% include imgs.html src='2014/07/IMG_20140708_59-1024x682.jpg' %}
 {% include imgs.html src='2014/07/IMG_20140709_65-1024x682.jpg' %}

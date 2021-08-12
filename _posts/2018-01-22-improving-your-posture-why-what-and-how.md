@@ -89,7 +89,6 @@ The goal is to stretch 4 times a week, preferably in the morning as it sets goo
 
 <p style="text-align: right;">
   <em>&#8220;If you can&#8217;t measure it, you can&#8217;t improve it&#8221; &#8211; Lord Kelvin</em>
-</p>
 
 Good posture is a subjective goal which might vary depending on the situation. One has to pick a measurable goal. My personal main issue is stiff upper body muscles. Therefore, I&#8217;d use mobility as my measurable goal.
 

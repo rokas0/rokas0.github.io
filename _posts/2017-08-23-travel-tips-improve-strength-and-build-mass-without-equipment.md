@@ -1,6 +1,6 @@
 ---
 id: 1769
-title: 'Top travel tip: how to improve strength and build mass without equipment?'
+title: "Top travel tip: how to improve strength and build mass without equipment?"
 date: 2017-08-23T13:33:06+00:00
 author: Rokas
 layout: post
@@ -10,6 +10,7 @@ image: 2017/08/15763969734_5c463f896e_k-e1503491641963.jpg
 categories:
   - Travels
 ---
+
 My cousin got fit just using calisthenics. I haven&#8217;t seen my cousin for a year, so I came to his village. I turned off the car, opened the door, and a V-shaped guy started walking towards me. His arms were about the size of an average person&#8217;s legs, was as wide between the shoulders as a wardrobe. Who is he? He cannot be my cousin – I remember him from just a year ago as a skinny village guy. Moreover, he can&#8217;t afford to purchase gym equipment, nor any nutritional sports supplements like you see on magazine covers with jacked guys hugging a tub of protein powder. A majority of my cousin’s food supply he either grows (mainly potatoes and cucumber) or gets as part of social welfare from the government. Also, his village doesn’t have any gyms, nor could he afford a membership. He couldn’t be my cousin; he doesn’t meet the requirements to get fit that I learned from social media.
 
 The man came closer and it actually was my cousin. My jaw dropped, I thought my eyes are lying.
@@ -20,16 +21,16 @@ Yet I shouldn&#8217;t have been surprised because my father told me earlier abou
 
 &#8220;I don&#8217;t have much money, I can&#8217;t go to a gym, I can&#8217;t afford supplements, so I just built a pull-up bar and eat what I have on the table that day&#8221;, he explained, and continued clarifying how he started learning street workout tricks like the planche, front lever and one-arm pull-up. When body weight was not enough to trigger muscle growth, he started adding extra weight little by little. First 10kg, then another 10kg, progressing step by step and even managing one full pull-up with 85kg extra added weight. So he massively developed his biceps and lats. He used the same techniques for dips to build his lower chest and triceps.
 
-* * *
+---
 
 Calisthenics and street workouts – these key words could be used to do sports on the go with little or no equipment. The words might sound unfamiliar. And they are. They come from the ancient art of training with your own bodyweight. Actually, you have done it before. The exercises include good old push-ups, pull-ups, sit-ups, squats, bridges and lots of others. Street workout is what I consider to be advanced calisthenics. It’s a treat for your imagination because you can do tricks and show off on a beach pull-up bar during the summer.
 
-* * *
+---
 
 Moreover, callisthenics could be done anywhere and the following gallery is to prove my point. The pictures are taken all over the world with me or my brother Armandas, who is athlete, soldier and double Ironman finisher  
 [envira-gallery id=&#8221;1783&#8243;]
 
-* * *
+---
 
 Calisthenics and street work out – these keywords could be used to do sports on the go with little or no equipment. The keywords might sound unfamiliar. And it is. It comes from the ancient art of training with your own weight. Actually, you have been doing it before. Exercises include old good push-ups, pull-ups, sit-ups, squats, bridges and lots of other. Street-workout is what I consider an advanced callisthenics. It spoils your imagination because you can do even more tricks and show off at a beach pull-up bar during summer.
 
@@ -39,57 +40,57 @@ Another great way to build strength is isometric exercises in which muscle lengt
 
 For your extra motivation, I’ll tell that many callisthenics competitions exist. Actually, it’s growing worldwide sport with international championships, which includes:
 
-  * Max pull-ups and dips, or a total score of both
-  * Max pull-ups and dips with extra weight. Usually, it’s 32kg added
-  * Pull-up with max added weight
-  * Street workout, where you perform tricks in few minutes’ time to get the best score from referees
+- Max pull-ups and dips, or a total score of both
+- Max pull-ups and dips with extra weight. Usually, it’s 32kg added
+- Pull-up with max added weight
+- Street workout, where you perform tricks in few minutes’ time to get the best score from referees
 
 Below are just a few exercises from a vast variety of body weight training movements. If you thought that push-up is just a singleton, think again, and if you got bored from doing push-ups, try another type, for example, Superman push-up or archer push-up. Same goes for pull-ups and other exercises.
 
 Calisthenics exercises include:
 
-  * Push-ups and all variations 
-      * Wide grip push-up
-      * Close grip push-up
-      * Deep push-up
-      * Pseudo planche push-up
-      * Fingertip push-up
-      * Wrist push-up
-      * One-arm push-up
-      * Clap (back, double, triple) push-up
-      * Superman push-up
-      * The Lalanne push-up
-      * Wall push-up
-      * Archer push-up
-      * Spider push-up
-  * Pull-ups 
-      * Rows
-      * Chin-up
-      * Pull-up
-      * Wide grip pull-up
-      * Close grip pull-up
-      * Behind the neck pull-up
-      * Inline pull-up
-      * Rock climber pull-up
-      * L pull-up
-      * Horizontal pull-up
-      * Finger pull-up
-      * Rope/towel pull-up
-      * Clap pull-up
-      * Typewriter pull-up
-      * Weighted pull-up
-      * One-arm pull-up
-  * Planche
-  * Handstand pushup
-  * Human flag
-  * Pistols – one leg squat
-  * Squats
-  * Elbow lever
-  * Burpees
-  * Back lever
-  * Plank
-  * L-Sit
-  * Jumps
+- Push-ups and all variations
+  - Wide grip push-up
+  - Close grip push-up
+  - Deep push-up
+  - Pseudo planche push-up
+  - Fingertip push-up
+  - Wrist push-up
+  - One-arm push-up
+  - Clap (back, double, triple) push-up
+  - Superman push-up
+  - The Lalanne push-up
+  - Wall push-up
+  - Archer push-up
+  - Spider push-up
+- Pull-ups
+  - Rows
+  - Chin-up
+  - Pull-up
+  - Wide grip pull-up
+  - Close grip pull-up
+  - Behind the neck pull-up
+  - Inline pull-up
+  - Rock climber pull-up
+  - L pull-up
+  - Horizontal pull-up
+  - Finger pull-up
+  - Rope/towel pull-up
+  - Clap pull-up
+  - Typewriter pull-up
+  - Weighted pull-up
+  - One-arm pull-up
+- Planche
+- Handstand pushup
+- Human flag
+- Pistols – one leg squat
+- Squats
+- Elbow lever
+- Burpees
+- Back lever
+- Plank
+- L-Sit
+- Jumps
 
 This is just a short list of available exercise. It takes time to master any of listed drill, yet there are countless movements. For more movements, routines and progressions check out recommended books and especially Ashley Kalym book “Complete Calisthenics: The Ultimate Guide to Bodyweight Exercises”.
 
@@ -216,7 +217,7 @@ This chapter describes few routines which could be successfully used to develop 
     </td>
     
     <td width="537">
-      <strong>Leg day</strong></p> 
+      <strong>Leg day</strong> 
       
       <ul>
         <li>
@@ -235,7 +236,7 @@ This chapter describes few routines which could be successfully used to develop 
     </td>
     
     <td width="537">
-      <strong>Triceps, chest and shoulders day</strong></p> 
+      <strong>Triceps, chest and shoulders day</strong> 
       
       <ul>
         <li>
@@ -266,7 +267,7 @@ This chapter describes few routines which could be successfully used to develop 
     </td>
     
     <td width="537">
-      <strong>Back and biceps</strong></p> 
+      <strong>Back and biceps</strong> 
       
       <ul>
         <li>
@@ -413,7 +414,7 @@ The workout should last around 45 minutes, so just continue doing sets until you
     </td>
     
     <td rowspan="7" width="537">
-      Do all weekdays three-four times a day at various times, for example, after waking up, before long bus ride, during a break on a bus journey and before going to a bed.</p> 
+      Do all weekdays three-four times a day at various times, for example, after waking up, before long bus ride, during a break on a bus journey and before going to a bed. 
       
       <ul>
         <li>
@@ -470,11 +471,11 @@ Note. More information regarding this routine found at Pavel Tsatsouline book �
 
 **Overview**
 
-  * Bodyweight is enough to build strength and mass
-  * Exercises include push-ups, pull-ups, handstand, single-leg squats and others
-  * Various and lightweight gadgets could be used for backpacking
-  * Callistetics and sports is a vast topic, therefore refer to recommended reads
-  * Different backpackers-friendly routines could be prescribed including one-exercise a day and minimal but frequent workouts
+- Bodyweight is enough to build strength and mass
+- Exercises include push-ups, pull-ups, handstand, single-leg squats and others
+- Various and lightweight gadgets could be used for backpacking
+- Callistetics and sports is a vast topic, therefore refer to recommended reads
+- Different backpackers-friendly routines could be prescribed including one-exercise a day and minimal but frequent workouts
 
 **Footnotes**
 
